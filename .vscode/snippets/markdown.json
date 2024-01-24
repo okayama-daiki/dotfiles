@@ -1,0 +1,9673 @@
+{
+  "tex_a": {
+    "prefix": "a",
+    "body": ["\\$a\\$ "],
+    "description": "a in tex"
+  },
+
+  "tex_a_0": {
+    "prefix": "a0",
+    "body": ["\\$a_0\\$ "],
+    "description": "a_0 in tex"
+  },
+
+  "tex_a_1": {
+    "prefix": "a1",
+    "body": ["\\$a_1\\$ "],
+    "description": "a_1 in tex"
+  },
+
+  "tex_a_2": {
+    "prefix": "a2",
+    "body": ["\\$a_2\\$ "],
+    "description": "a_2 in tex"
+  },
+
+  "tex_a_3": {
+    "prefix": "a3",
+    "body": ["\\$a_3\\$ "],
+    "description": "a_3 in tex"
+  },
+
+  "tex_a_a": {
+    "prefix": "aa",
+    "body": ["\\$a_a\\$ "],
+    "description": "a_a in tex"
+  },
+
+  "tex_a_b": {
+    "prefix": "ab",
+    "body": ["\\$a_b\\$ "],
+    "description": "a_b in tex"
+  },
+
+  "tex_a_c": {
+    "prefix": "ac",
+    "body": ["\\$a_c\\$ "],
+    "description": "a_c in tex"
+  },
+
+  "tex_a_d": {
+    "prefix": "ad",
+    "body": ["\\$a_d\\$ "],
+    "description": "a_d in tex"
+  },
+
+  "tex_a_e": {
+    "prefix": "ae",
+    "body": ["\\$a_e\\$ "],
+    "description": "a_e in tex"
+  },
+
+  "tex_a_f": {
+    "prefix": "af",
+    "body": ["\\$a_f\\$ "],
+    "description": "a_f in tex"
+  },
+
+  "tex_a_g": {
+    "prefix": "ag",
+    "body": ["\\$a_g\\$ "],
+    "description": "a_g in tex"
+  },
+
+  "tex_a_h": {
+    "prefix": "ah",
+    "body": ["\\$a_h\\$ "],
+    "description": "a_h in tex"
+  },
+
+  "tex_a_i": {
+    "prefix": "ai",
+    "body": ["\\$a_i\\$ "],
+    "description": "a_i in tex"
+  },
+
+  "tex_a_j": {
+    "prefix": "aj",
+    "body": ["\\$a_j\\$ "],
+    "description": "a_j in tex"
+  },
+
+  "tex_a_k": {
+    "prefix": "ak",
+    "body": ["\\$a_k\\$ "],
+    "description": "a_k in tex"
+  },
+
+  "tex_a_l": {
+    "prefix": "al",
+    "body": ["\\$a_l\\$ "],
+    "description": "a_l in tex"
+  },
+
+  "tex_a_m": {
+    "prefix": "am",
+    "body": ["\\$a_m\\$ "],
+    "description": "a_m in tex"
+  },
+
+  "tex_a_n": {
+    "prefix": "an",
+    "body": ["\\$a_n\\$ "],
+    "description": "a_n in tex"
+  },
+
+  "tex_a_o": {
+    "prefix": "ao",
+    "body": ["\\$a_o\\$ "],
+    "description": "a_o in tex"
+  },
+
+  "tex_a_p": {
+    "prefix": "ap",
+    "body": ["\\$a_p\\$ "],
+    "description": "a_p in tex"
+  },
+
+  "tex_a_q": {
+    "prefix": "aq",
+    "body": ["\\$a_q\\$ "],
+    "description": "a_q in tex"
+  },
+
+  "tex_a_r": {
+    "prefix": "ar",
+    "body": ["\\$a_r\\$ "],
+    "description": "a_r in tex"
+  },
+
+  "tex_a_s": {
+    "prefix": "as",
+    "body": ["\\$a_s\\$ "],
+    "description": "a_s in tex"
+  },
+
+  "tex_a_t": {
+    "prefix": "at",
+    "body": ["\\$a_t\\$ "],
+    "description": "a_t in tex"
+  },
+
+  "tex_a_u": {
+    "prefix": "au",
+    "body": ["\\$a_u\\$ "],
+    "description": "a_u in tex"
+  },
+
+  "tex_a_v": {
+    "prefix": "av",
+    "body": ["\\$a_v\\$ "],
+    "description": "a_v in tex"
+  },
+
+  "tex_a_w": {
+    "prefix": "aw",
+    "body": ["\\$a_w\\$ "],
+    "description": "a_w in tex"
+  },
+
+  "tex_a_x": {
+    "prefix": "ax",
+    "body": ["\\$a_x\\$ "],
+    "description": "a_x in tex"
+  },
+
+  "tex_a_y": {
+    "prefix": "ay",
+    "body": ["\\$a_y\\$ "],
+    "description": "a_y in tex"
+  },
+
+  "tex_a_z": {
+    "prefix": "az",
+    "body": ["\\$a_z\\$ "],
+    "description": "a_z in tex"
+  },
+
+  "tex_A": {
+    "prefix": "A",
+    "body": ["\\$A\\$ "],
+    "description": "A in tex"
+  },
+
+  "tex_A_0": {
+    "prefix": "A0",
+    "body": ["\\$A_0\\$ "],
+    "description": "A_0 in tex"
+  },
+
+  "tex_A_1": {
+    "prefix": "A1",
+    "body": ["\\$A_1\\$ "],
+    "description": "A_1 in tex"
+  },
+
+  "tex_A_2": {
+    "prefix": "A2",
+    "body": ["\\$A_2\\$ "],
+    "description": "A_2 in tex"
+  },
+
+  "tex_A_3": {
+    "prefix": "A3",
+    "body": ["\\$A_3\\$ "],
+    "description": "A_3 in tex"
+  },
+
+  "tex_A_a": {
+    "prefix": "Aa",
+    "body": ["\\$A_a\\$ "],
+    "description": "A_a in tex"
+  },
+
+  "tex_A_b": {
+    "prefix": "Ab",
+    "body": ["\\$A_b\\$ "],
+    "description": "A_b in tex"
+  },
+
+  "tex_A_c": {
+    "prefix": "Ac",
+    "body": ["\\$A_c\\$ "],
+    "description": "A_c in tex"
+  },
+
+  "tex_A_d": {
+    "prefix": "Ad",
+    "body": ["\\$A_d\\$ "],
+    "description": "A_d in tex"
+  },
+
+  "tex_A_e": {
+    "prefix": "Ae",
+    "body": ["\\$A_e\\$ "],
+    "description": "A_e in tex"
+  },
+
+  "tex_A_f": {
+    "prefix": "Af",
+    "body": ["\\$A_f\\$ "],
+    "description": "A_f in tex"
+  },
+
+  "tex_A_g": {
+    "prefix": "Ag",
+    "body": ["\\$A_g\\$ "],
+    "description": "A_g in tex"
+  },
+
+  "tex_A_h": {
+    "prefix": "Ah",
+    "body": ["\\$A_h\\$ "],
+    "description": "A_h in tex"
+  },
+
+  "tex_A_i": {
+    "prefix": "Ai",
+    "body": ["\\$A_i\\$ "],
+    "description": "A_i in tex"
+  },
+
+  "tex_A_j": {
+    "prefix": "Aj",
+    "body": ["\\$A_j\\$ "],
+    "description": "A_j in tex"
+  },
+
+  "tex_A_k": {
+    "prefix": "Ak",
+    "body": ["\\$A_k\\$ "],
+    "description": "A_k in tex"
+  },
+
+  "tex_A_l": {
+    "prefix": "Al",
+    "body": ["\\$A_l\\$ "],
+    "description": "A_l in tex"
+  },
+
+  "tex_A_m": {
+    "prefix": "Am",
+    "body": ["\\$A_m\\$ "],
+    "description": "A_m in tex"
+  },
+
+  "tex_A_n": {
+    "prefix": "An",
+    "body": ["\\$A_n\\$ "],
+    "description": "A_n in tex"
+  },
+
+  "tex_A_o": {
+    "prefix": "Ao",
+    "body": ["\\$A_o\\$ "],
+    "description": "A_o in tex"
+  },
+
+  "tex_A_p": {
+    "prefix": "Ap",
+    "body": ["\\$A_p\\$ "],
+    "description": "A_p in tex"
+  },
+
+  "tex_A_q": {
+    "prefix": "Aq",
+    "body": ["\\$A_q\\$ "],
+    "description": "A_q in tex"
+  },
+
+  "tex_A_r": {
+    "prefix": "Ar",
+    "body": ["\\$A_r\\$ "],
+    "description": "A_r in tex"
+  },
+
+  "tex_A_s": {
+    "prefix": "As",
+    "body": ["\\$A_s\\$ "],
+    "description": "A_s in tex"
+  },
+
+  "tex_A_t": {
+    "prefix": "At",
+    "body": ["\\$A_t\\$ "],
+    "description": "A_t in tex"
+  },
+
+  "tex_A_u": {
+    "prefix": "Au",
+    "body": ["\\$A_u\\$ "],
+    "description": "A_u in tex"
+  },
+
+  "tex_A_v": {
+    "prefix": "Av",
+    "body": ["\\$A_v\\$ "],
+    "description": "A_v in tex"
+  },
+
+  "tex_A_w": {
+    "prefix": "Aw",
+    "body": ["\\$A_w\\$ "],
+    "description": "A_w in tex"
+  },
+
+  "tex_A_x": {
+    "prefix": "Ax",
+    "body": ["\\$A_x\\$ "],
+    "description": "A_x in tex"
+  },
+
+  "tex_A_y": {
+    "prefix": "Ay",
+    "body": ["\\$A_y\\$ "],
+    "description": "A_y in tex"
+  },
+
+  "tex_A_z": {
+    "prefix": "Az",
+    "body": ["\\$A_z\\$ "],
+    "description": "A_z in tex"
+  },
+
+  "tex_b": {
+    "prefix": "b",
+    "body": ["\\$b\\$ "],
+    "description": "b in tex"
+  },
+
+  "tex_b_0": {
+    "prefix": "b0",
+    "body": ["\\$b_0\\$ "],
+    "description": "b_0 in tex"
+  },
+
+  "tex_b_1": {
+    "prefix": "b1",
+    "body": ["\\$b_1\\$ "],
+    "description": "b_1 in tex"
+  },
+
+  "tex_b_2": {
+    "prefix": "b2",
+    "body": ["\\$b_2\\$ "],
+    "description": "b_2 in tex"
+  },
+
+  "tex_b_3": {
+    "prefix": "b3",
+    "body": ["\\$b_3\\$ "],
+    "description": "b_3 in tex"
+  },
+
+  "tex_b_a": {
+    "prefix": "ba",
+    "body": ["\\$b_a\\$ "],
+    "description": "b_a in tex"
+  },
+
+  "tex_b_b": {
+    "prefix": "bb",
+    "body": ["\\$b_b\\$ "],
+    "description": "b_b in tex"
+  },
+
+  "tex_b_c": {
+    "prefix": "bc",
+    "body": ["\\$b_c\\$ "],
+    "description": "b_c in tex"
+  },
+
+  "tex_b_d": {
+    "prefix": "bd",
+    "body": ["\\$b_d\\$ "],
+    "description": "b_d in tex"
+  },
+
+  "tex_b_e": {
+    "prefix": "be",
+    "body": ["\\$b_e\\$ "],
+    "description": "b_e in tex"
+  },
+
+  "tex_b_f": {
+    "prefix": "bf",
+    "body": ["\\$b_f\\$ "],
+    "description": "b_f in tex"
+  },
+
+  "tex_b_g": {
+    "prefix": "bg",
+    "body": ["\\$b_g\\$ "],
+    "description": "b_g in tex"
+  },
+
+  "tex_b_h": {
+    "prefix": "bh",
+    "body": ["\\$b_h\\$ "],
+    "description": "b_h in tex"
+  },
+
+  "tex_b_i": {
+    "prefix": "bi",
+    "body": ["\\$b_i\\$ "],
+    "description": "b_i in tex"
+  },
+
+  "tex_b_j": {
+    "prefix": "bj",
+    "body": ["\\$b_j\\$ "],
+    "description": "b_j in tex"
+  },
+
+  "tex_b_k": {
+    "prefix": "bk",
+    "body": ["\\$b_k\\$ "],
+    "description": "b_k in tex"
+  },
+
+  "tex_b_l": {
+    "prefix": "bl",
+    "body": ["\\$b_l\\$ "],
+    "description": "b_l in tex"
+  },
+
+  "tex_b_m": {
+    "prefix": "bm",
+    "body": ["\\$b_m\\$ "],
+    "description": "b_m in tex"
+  },
+
+  "tex_b_n": {
+    "prefix": "bn",
+    "body": ["\\$b_n\\$ "],
+    "description": "b_n in tex"
+  },
+
+  "tex_b_o": {
+    "prefix": "bo",
+    "body": ["\\$b_o\\$ "],
+    "description": "b_o in tex"
+  },
+
+  "tex_b_p": {
+    "prefix": "bp",
+    "body": ["\\$b_p\\$ "],
+    "description": "b_p in tex"
+  },
+
+  "tex_b_q": {
+    "prefix": "bq",
+    "body": ["\\$b_q\\$ "],
+    "description": "b_q in tex"
+  },
+
+  "tex_b_r": {
+    "prefix": "br",
+    "body": ["\\$b_r\\$ "],
+    "description": "b_r in tex"
+  },
+
+  "tex_b_s": {
+    "prefix": "bs",
+    "body": ["\\$b_s\\$ "],
+    "description": "b_s in tex"
+  },
+
+  "tex_b_t": {
+    "prefix": "bt",
+    "body": ["\\$b_t\\$ "],
+    "description": "b_t in tex"
+  },
+
+  "tex_b_u": {
+    "prefix": "bu",
+    "body": ["\\$b_u\\$ "],
+    "description": "b_u in tex"
+  },
+
+  "tex_b_v": {
+    "prefix": "bv",
+    "body": ["\\$b_v\\$ "],
+    "description": "b_v in tex"
+  },
+
+  "tex_b_w": {
+    "prefix": "bw",
+    "body": ["\\$b_w\\$ "],
+    "description": "b_w in tex"
+  },
+
+  "tex_b_x": {
+    "prefix": "bx",
+    "body": ["\\$b_x\\$ "],
+    "description": "b_x in tex"
+  },
+
+  "tex_b_y": {
+    "prefix": "by",
+    "body": ["\\$b_y\\$ "],
+    "description": "b_y in tex"
+  },
+
+  "tex_b_z": {
+    "prefix": "bz",
+    "body": ["\\$b_z\\$ "],
+    "description": "b_z in tex"
+  },
+
+  "tex_B": {
+    "prefix": "B",
+    "body": ["\\$B\\$ "],
+    "description": "B in tex"
+  },
+
+  "tex_B_0": {
+    "prefix": "B0",
+    "body": ["\\$B_0\\$ "],
+    "description": "B_0 in tex"
+  },
+
+  "tex_B_1": {
+    "prefix": "B1",
+    "body": ["\\$B_1\\$ "],
+    "description": "B_1 in tex"
+  },
+
+  "tex_B_2": {
+    "prefix": "B2",
+    "body": ["\\$B_2\\$ "],
+    "description": "B_2 in tex"
+  },
+
+  "tex_B_3": {
+    "prefix": "B3",
+    "body": ["\\$B_3\\$ "],
+    "description": "B_3 in tex"
+  },
+
+  "tex_B_a": {
+    "prefix": "Ba",
+    "body": ["\\$B_a\\$ "],
+    "description": "B_a in tex"
+  },
+
+  "tex_B_b": {
+    "prefix": "Bb",
+    "body": ["\\$B_b\\$ "],
+    "description": "B_b in tex"
+  },
+
+  "tex_B_c": {
+    "prefix": "Bc",
+    "body": ["\\$B_c\\$ "],
+    "description": "B_c in tex"
+  },
+
+  "tex_B_d": {
+    "prefix": "Bd",
+    "body": ["\\$B_d\\$ "],
+    "description": "B_d in tex"
+  },
+
+  "tex_B_e": {
+    "prefix": "Be",
+    "body": ["\\$B_e\\$ "],
+    "description": "B_e in tex"
+  },
+
+  "tex_B_f": {
+    "prefix": "Bf",
+    "body": ["\\$B_f\\$ "],
+    "description": "B_f in tex"
+  },
+
+  "tex_B_g": {
+    "prefix": "Bg",
+    "body": ["\\$B_g\\$ "],
+    "description": "B_g in tex"
+  },
+
+  "tex_B_h": {
+    "prefix": "Bh",
+    "body": ["\\$B_h\\$ "],
+    "description": "B_h in tex"
+  },
+
+  "tex_B_i": {
+    "prefix": "Bi",
+    "body": ["\\$B_i\\$ "],
+    "description": "B_i in tex"
+  },
+
+  "tex_B_j": {
+    "prefix": "Bj",
+    "body": ["\\$B_j\\$ "],
+    "description": "B_j in tex"
+  },
+
+  "tex_B_k": {
+    "prefix": "Bk",
+    "body": ["\\$B_k\\$ "],
+    "description": "B_k in tex"
+  },
+
+  "tex_B_l": {
+    "prefix": "Bl",
+    "body": ["\\$B_l\\$ "],
+    "description": "B_l in tex"
+  },
+
+  "tex_B_m": {
+    "prefix": "Bm",
+    "body": ["\\$B_m\\$ "],
+    "description": "B_m in tex"
+  },
+
+  "tex_B_n": {
+    "prefix": "Bn",
+    "body": ["\\$B_n\\$ "],
+    "description": "B_n in tex"
+  },
+
+  "tex_B_o": {
+    "prefix": "Bo",
+    "body": ["\\$B_o\\$ "],
+    "description": "B_o in tex"
+  },
+
+  "tex_B_p": {
+    "prefix": "Bp",
+    "body": ["\\$B_p\\$ "],
+    "description": "B_p in tex"
+  },
+
+  "tex_B_q": {
+    "prefix": "Bq",
+    "body": ["\\$B_q\\$ "],
+    "description": "B_q in tex"
+  },
+
+  "tex_B_r": {
+    "prefix": "Br",
+    "body": ["\\$B_r\\$ "],
+    "description": "B_r in tex"
+  },
+
+  "tex_B_s": {
+    "prefix": "Bs",
+    "body": ["\\$B_s\\$ "],
+    "description": "B_s in tex"
+  },
+
+  "tex_B_t": {
+    "prefix": "Bt",
+    "body": ["\\$B_t\\$ "],
+    "description": "B_t in tex"
+  },
+
+  "tex_B_u": {
+    "prefix": "Bu",
+    "body": ["\\$B_u\\$ "],
+    "description": "B_u in tex"
+  },
+
+  "tex_B_v": {
+    "prefix": "Bv",
+    "body": ["\\$B_v\\$ "],
+    "description": "B_v in tex"
+  },
+
+  "tex_B_w": {
+    "prefix": "Bw",
+    "body": ["\\$B_w\\$ "],
+    "description": "B_w in tex"
+  },
+
+  "tex_B_x": {
+    "prefix": "Bx",
+    "body": ["\\$B_x\\$ "],
+    "description": "B_x in tex"
+  },
+
+  "tex_B_y": {
+    "prefix": "By",
+    "body": ["\\$B_y\\$ "],
+    "description": "B_y in tex"
+  },
+
+  "tex_B_z": {
+    "prefix": "Bz",
+    "body": ["\\$B_z\\$ "],
+    "description": "B_z in tex"
+  },
+
+  "tex_c": {
+    "prefix": "c",
+    "body": ["\\$c\\$ "],
+    "description": "c in tex"
+  },
+
+  "tex_c_0": {
+    "prefix": "c0",
+    "body": ["\\$c_0\\$ "],
+    "description": "c_0 in tex"
+  },
+
+  "tex_c_1": {
+    "prefix": "c1",
+    "body": ["\\$c_1\\$ "],
+    "description": "c_1 in tex"
+  },
+
+  "tex_c_2": {
+    "prefix": "c2",
+    "body": ["\\$c_2\\$ "],
+    "description": "c_2 in tex"
+  },
+
+  "tex_c_3": {
+    "prefix": "c3",
+    "body": ["\\$c_3\\$ "],
+    "description": "c_3 in tex"
+  },
+
+  "tex_c_a": {
+    "prefix": "ca",
+    "body": ["\\$c_a\\$ "],
+    "description": "c_a in tex"
+  },
+
+  "tex_c_b": {
+    "prefix": "cb",
+    "body": ["\\$c_b\\$ "],
+    "description": "c_b in tex"
+  },
+
+  "tex_c_c": {
+    "prefix": "cc",
+    "body": ["\\$c_c\\$ "],
+    "description": "c_c in tex"
+  },
+
+  "tex_c_d": {
+    "prefix": "cd",
+    "body": ["\\$c_d\\$ "],
+    "description": "c_d in tex"
+  },
+
+  "tex_c_e": {
+    "prefix": "ce",
+    "body": ["\\$c_e\\$ "],
+    "description": "c_e in tex"
+  },
+
+  "tex_c_f": {
+    "prefix": "cf",
+    "body": ["\\$c_f\\$ "],
+    "description": "c_f in tex"
+  },
+
+  "tex_c_g": {
+    "prefix": "cg",
+    "body": ["\\$c_g\\$ "],
+    "description": "c_g in tex"
+  },
+
+  "tex_c_h": {
+    "prefix": "ch",
+    "body": ["\\$c_h\\$ "],
+    "description": "c_h in tex"
+  },
+
+  "tex_c_i": {
+    "prefix": "ci",
+    "body": ["\\$c_i\\$ "],
+    "description": "c_i in tex"
+  },
+
+  "tex_c_j": {
+    "prefix": "cj",
+    "body": ["\\$c_j\\$ "],
+    "description": "c_j in tex"
+  },
+
+  "tex_c_k": {
+    "prefix": "ck",
+    "body": ["\\$c_k\\$ "],
+    "description": "c_k in tex"
+  },
+
+  "tex_c_l": {
+    "prefix": "cl",
+    "body": ["\\$c_l\\$ "],
+    "description": "c_l in tex"
+  },
+
+  "tex_c_m": {
+    "prefix": "cm",
+    "body": ["\\$c_m\\$ "],
+    "description": "c_m in tex"
+  },
+
+  "tex_c_n": {
+    "prefix": "cn",
+    "body": ["\\$c_n\\$ "],
+    "description": "c_n in tex"
+  },
+
+  "tex_c_o": {
+    "prefix": "co",
+    "body": ["\\$c_o\\$ "],
+    "description": "c_o in tex"
+  },
+
+  "tex_c_p": {
+    "prefix": "cp",
+    "body": ["\\$c_p\\$ "],
+    "description": "c_p in tex"
+  },
+
+  "tex_c_q": {
+    "prefix": "cq",
+    "body": ["\\$c_q\\$ "],
+    "description": "c_q in tex"
+  },
+
+  "tex_c_r": {
+    "prefix": "cr",
+    "body": ["\\$c_r\\$ "],
+    "description": "c_r in tex"
+  },
+
+  "tex_c_s": {
+    "prefix": "cs",
+    "body": ["\\$c_s\\$ "],
+    "description": "c_s in tex"
+  },
+
+  "tex_c_t": {
+    "prefix": "ct",
+    "body": ["\\$c_t\\$ "],
+    "description": "c_t in tex"
+  },
+
+  "tex_c_u": {
+    "prefix": "cu",
+    "body": ["\\$c_u\\$ "],
+    "description": "c_u in tex"
+  },
+
+  "tex_c_v": {
+    "prefix": "cv",
+    "body": ["\\$c_v\\$ "],
+    "description": "c_v in tex"
+  },
+
+  "tex_c_w": {
+    "prefix": "cw",
+    "body": ["\\$c_w\\$ "],
+    "description": "c_w in tex"
+  },
+
+  "tex_c_x": {
+    "prefix": "cx",
+    "body": ["\\$c_x\\$ "],
+    "description": "c_x in tex"
+  },
+
+  "tex_c_y": {
+    "prefix": "cy",
+    "body": ["\\$c_y\\$ "],
+    "description": "c_y in tex"
+  },
+
+  "tex_c_z": {
+    "prefix": "cz",
+    "body": ["\\$c_z\\$ "],
+    "description": "c_z in tex"
+  },
+
+  "tex_C": {
+    "prefix": "C",
+    "body": ["\\$C\\$ "],
+    "description": "C in tex"
+  },
+
+  "tex_C_0": {
+    "prefix": "C0",
+    "body": ["\\$C_0\\$ "],
+    "description": "C_0 in tex"
+  },
+
+  "tex_C_1": {
+    "prefix": "C1",
+    "body": ["\\$C_1\\$ "],
+    "description": "C_1 in tex"
+  },
+
+  "tex_C_2": {
+    "prefix": "C2",
+    "body": ["\\$C_2\\$ "],
+    "description": "C_2 in tex"
+  },
+
+  "tex_C_3": {
+    "prefix": "C3",
+    "body": ["\\$C_3\\$ "],
+    "description": "C_3 in tex"
+  },
+
+  "tex_C_a": {
+    "prefix": "Ca",
+    "body": ["\\$C_a\\$ "],
+    "description": "C_a in tex"
+  },
+
+  "tex_C_b": {
+    "prefix": "Cb",
+    "body": ["\\$C_b\\$ "],
+    "description": "C_b in tex"
+  },
+
+  "tex_C_c": {
+    "prefix": "Cc",
+    "body": ["\\$C_c\\$ "],
+    "description": "C_c in tex"
+  },
+
+  "tex_C_d": {
+    "prefix": "Cd",
+    "body": ["\\$C_d\\$ "],
+    "description": "C_d in tex"
+  },
+
+  "tex_C_e": {
+    "prefix": "Ce",
+    "body": ["\\$C_e\\$ "],
+    "description": "C_e in tex"
+  },
+
+  "tex_C_f": {
+    "prefix": "Cf",
+    "body": ["\\$C_f\\$ "],
+    "description": "C_f in tex"
+  },
+
+  "tex_C_g": {
+    "prefix": "Cg",
+    "body": ["\\$C_g\\$ "],
+    "description": "C_g in tex"
+  },
+
+  "tex_C_h": {
+    "prefix": "Ch",
+    "body": ["\\$C_h\\$ "],
+    "description": "C_h in tex"
+  },
+
+  "tex_C_i": {
+    "prefix": "Ci",
+    "body": ["\\$C_i\\$ "],
+    "description": "C_i in tex"
+  },
+
+  "tex_C_j": {
+    "prefix": "Cj",
+    "body": ["\\$C_j\\$ "],
+    "description": "C_j in tex"
+  },
+
+  "tex_C_k": {
+    "prefix": "Ck",
+    "body": ["\\$C_k\\$ "],
+    "description": "C_k in tex"
+  },
+
+  "tex_C_l": {
+    "prefix": "Cl",
+    "body": ["\\$C_l\\$ "],
+    "description": "C_l in tex"
+  },
+
+  "tex_C_m": {
+    "prefix": "Cm",
+    "body": ["\\$C_m\\$ "],
+    "description": "C_m in tex"
+  },
+
+  "tex_C_n": {
+    "prefix": "Cn",
+    "body": ["\\$C_n\\$ "],
+    "description": "C_n in tex"
+  },
+
+  "tex_C_o": {
+    "prefix": "Co",
+    "body": ["\\$C_o\\$ "],
+    "description": "C_o in tex"
+  },
+
+  "tex_C_p": {
+    "prefix": "Cp",
+    "body": ["\\$C_p\\$ "],
+    "description": "C_p in tex"
+  },
+
+  "tex_C_q": {
+    "prefix": "Cq",
+    "body": ["\\$C_q\\$ "],
+    "description": "C_q in tex"
+  },
+
+  "tex_C_r": {
+    "prefix": "Cr",
+    "body": ["\\$C_r\\$ "],
+    "description": "C_r in tex"
+  },
+
+  "tex_C_s": {
+    "prefix": "Cs",
+    "body": ["\\$C_s\\$ "],
+    "description": "C_s in tex"
+  },
+
+  "tex_C_t": {
+    "prefix": "Ct",
+    "body": ["\\$C_t\\$ "],
+    "description": "C_t in tex"
+  },
+
+  "tex_C_u": {
+    "prefix": "Cu",
+    "body": ["\\$C_u\\$ "],
+    "description": "C_u in tex"
+  },
+
+  "tex_C_v": {
+    "prefix": "Cv",
+    "body": ["\\$C_v\\$ "],
+    "description": "C_v in tex"
+  },
+
+  "tex_C_w": {
+    "prefix": "Cw",
+    "body": ["\\$C_w\\$ "],
+    "description": "C_w in tex"
+  },
+
+  "tex_C_x": {
+    "prefix": "Cx",
+    "body": ["\\$C_x\\$ "],
+    "description": "C_x in tex"
+  },
+
+  "tex_C_y": {
+    "prefix": "Cy",
+    "body": ["\\$C_y\\$ "],
+    "description": "C_y in tex"
+  },
+
+  "tex_C_z": {
+    "prefix": "Cz",
+    "body": ["\\$C_z\\$ "],
+    "description": "C_z in tex"
+  },
+
+  "tex_d": {
+    "prefix": "d",
+    "body": ["\\$d\\$ "],
+    "description": "d in tex"
+  },
+
+  "tex_d_0": {
+    "prefix": "d0",
+    "body": ["\\$d_0\\$ "],
+    "description": "d_0 in tex"
+  },
+
+  "tex_d_1": {
+    "prefix": "d1",
+    "body": ["\\$d_1\\$ "],
+    "description": "d_1 in tex"
+  },
+
+  "tex_d_2": {
+    "prefix": "d2",
+    "body": ["\\$d_2\\$ "],
+    "description": "d_2 in tex"
+  },
+
+  "tex_d_3": {
+    "prefix": "d3",
+    "body": ["\\$d_3\\$ "],
+    "description": "d_3 in tex"
+  },
+
+  "tex_d_a": {
+    "prefix": "da",
+    "body": ["\\$d_a\\$ "],
+    "description": "d_a in tex"
+  },
+
+  "tex_d_b": {
+    "prefix": "db",
+    "body": ["\\$d_b\\$ "],
+    "description": "d_b in tex"
+  },
+
+  "tex_d_c": {
+    "prefix": "dc",
+    "body": ["\\$d_c\\$ "],
+    "description": "d_c in tex"
+  },
+
+  "tex_d_d": {
+    "prefix": "dd",
+    "body": ["\\$d_d\\$ "],
+    "description": "d_d in tex"
+  },
+
+  "tex_d_e": {
+    "prefix": "de",
+    "body": ["\\$d_e\\$ "],
+    "description": "d_e in tex"
+  },
+
+  "tex_d_f": {
+    "prefix": "df",
+    "body": ["\\$d_f\\$ "],
+    "description": "d_f in tex"
+  },
+
+  "tex_d_g": {
+    "prefix": "dg",
+    "body": ["\\$d_g\\$ "],
+    "description": "d_g in tex"
+  },
+
+  "tex_d_h": {
+    "prefix": "dh",
+    "body": ["\\$d_h\\$ "],
+    "description": "d_h in tex"
+  },
+
+  "tex_d_i": {
+    "prefix": "di",
+    "body": ["\\$d_i\\$ "],
+    "description": "d_i in tex"
+  },
+
+  "tex_d_j": {
+    "prefix": "dj",
+    "body": ["\\$d_j\\$ "],
+    "description": "d_j in tex"
+  },
+
+  "tex_d_k": {
+    "prefix": "dk",
+    "body": ["\\$d_k\\$ "],
+    "description": "d_k in tex"
+  },
+
+  "tex_d_l": {
+    "prefix": "dl",
+    "body": ["\\$d_l\\$ "],
+    "description": "d_l in tex"
+  },
+
+  "tex_d_m": {
+    "prefix": "dm",
+    "body": ["\\$d_m\\$ "],
+    "description": "d_m in tex"
+  },
+
+  "tex_d_n": {
+    "prefix": "dn",
+    "body": ["\\$d_n\\$ "],
+    "description": "d_n in tex"
+  },
+
+  "tex_d_o": {
+    "prefix": "do",
+    "body": ["\\$d_o\\$ "],
+    "description": "d_o in tex"
+  },
+
+  "tex_d_p": {
+    "prefix": "dp",
+    "body": ["\\$d_p\\$ "],
+    "description": "d_p in tex"
+  },
+
+  "tex_d_q": {
+    "prefix": "dq",
+    "body": ["\\$d_q\\$ "],
+    "description": "d_q in tex"
+  },
+
+  "tex_d_r": {
+    "prefix": "dr",
+    "body": ["\\$d_r\\$ "],
+    "description": "d_r in tex"
+  },
+
+  "tex_d_s": {
+    "prefix": "ds",
+    "body": ["\\$d_s\\$ "],
+    "description": "d_s in tex"
+  },
+
+  "tex_d_t": {
+    "prefix": "dt",
+    "body": ["\\$d_t\\$ "],
+    "description": "d_t in tex"
+  },
+
+  "tex_d_u": {
+    "prefix": "du",
+    "body": ["\\$d_u\\$ "],
+    "description": "d_u in tex"
+  },
+
+  "tex_d_v": {
+    "prefix": "dv",
+    "body": ["\\$d_v\\$ "],
+    "description": "d_v in tex"
+  },
+
+  "tex_d_w": {
+    "prefix": "dw",
+    "body": ["\\$d_w\\$ "],
+    "description": "d_w in tex"
+  },
+
+  "tex_d_x": {
+    "prefix": "dx",
+    "body": ["\\$d_x\\$ "],
+    "description": "d_x in tex"
+  },
+
+  "tex_d_y": {
+    "prefix": "dy",
+    "body": ["\\$d_y\\$ "],
+    "description": "d_y in tex"
+  },
+
+  "tex_d_z": {
+    "prefix": "dz",
+    "body": ["\\$d_z\\$ "],
+    "description": "d_z in tex"
+  },
+
+  "tex_D": {
+    "prefix": "D",
+    "body": ["\\$D\\$ "],
+    "description": "D in tex"
+  },
+
+  "tex_D_0": {
+    "prefix": "D0",
+    "body": ["\\$D_0\\$ "],
+    "description": "D_0 in tex"
+  },
+
+  "tex_D_1": {
+    "prefix": "D1",
+    "body": ["\\$D_1\\$ "],
+    "description": "D_1 in tex"
+  },
+
+  "tex_D_2": {
+    "prefix": "D2",
+    "body": ["\\$D_2\\$ "],
+    "description": "D_2 in tex"
+  },
+
+  "tex_D_3": {
+    "prefix": "D3",
+    "body": ["\\$D_3\\$ "],
+    "description": "D_3 in tex"
+  },
+
+  "tex_D_a": {
+    "prefix": "Da",
+    "body": ["\\$D_a\\$ "],
+    "description": "D_a in tex"
+  },
+
+  "tex_D_b": {
+    "prefix": "Db",
+    "body": ["\\$D_b\\$ "],
+    "description": "D_b in tex"
+  },
+
+  "tex_D_c": {
+    "prefix": "Dc",
+    "body": ["\\$D_c\\$ "],
+    "description": "D_c in tex"
+  },
+
+  "tex_D_d": {
+    "prefix": "Dd",
+    "body": ["\\$D_d\\$ "],
+    "description": "D_d in tex"
+  },
+
+  "tex_D_e": {
+    "prefix": "De",
+    "body": ["\\$D_e\\$ "],
+    "description": "D_e in tex"
+  },
+
+  "tex_D_f": {
+    "prefix": "Df",
+    "body": ["\\$D_f\\$ "],
+    "description": "D_f in tex"
+  },
+
+  "tex_D_g": {
+    "prefix": "Dg",
+    "body": ["\\$D_g\\$ "],
+    "description": "D_g in tex"
+  },
+
+  "tex_D_h": {
+    "prefix": "Dh",
+    "body": ["\\$D_h\\$ "],
+    "description": "D_h in tex"
+  },
+
+  "tex_D_i": {
+    "prefix": "Di",
+    "body": ["\\$D_i\\$ "],
+    "description": "D_i in tex"
+  },
+
+  "tex_D_j": {
+    "prefix": "Dj",
+    "body": ["\\$D_j\\$ "],
+    "description": "D_j in tex"
+  },
+
+  "tex_D_k": {
+    "prefix": "Dk",
+    "body": ["\\$D_k\\$ "],
+    "description": "D_k in tex"
+  },
+
+  "tex_D_l": {
+    "prefix": "Dl",
+    "body": ["\\$D_l\\$ "],
+    "description": "D_l in tex"
+  },
+
+  "tex_D_m": {
+    "prefix": "Dm",
+    "body": ["\\$D_m\\$ "],
+    "description": "D_m in tex"
+  },
+
+  "tex_D_n": {
+    "prefix": "Dn",
+    "body": ["\\$D_n\\$ "],
+    "description": "D_n in tex"
+  },
+
+  "tex_D_o": {
+    "prefix": "Do",
+    "body": ["\\$D_o\\$ "],
+    "description": "D_o in tex"
+  },
+
+  "tex_D_p": {
+    "prefix": "Dp",
+    "body": ["\\$D_p\\$ "],
+    "description": "D_p in tex"
+  },
+
+  "tex_D_q": {
+    "prefix": "Dq",
+    "body": ["\\$D_q\\$ "],
+    "description": "D_q in tex"
+  },
+
+  "tex_D_r": {
+    "prefix": "Dr",
+    "body": ["\\$D_r\\$ "],
+    "description": "D_r in tex"
+  },
+
+  "tex_D_s": {
+    "prefix": "Ds",
+    "body": ["\\$D_s\\$ "],
+    "description": "D_s in tex"
+  },
+
+  "tex_D_t": {
+    "prefix": "Dt",
+    "body": ["\\$D_t\\$ "],
+    "description": "D_t in tex"
+  },
+
+  "tex_D_u": {
+    "prefix": "Du",
+    "body": ["\\$D_u\\$ "],
+    "description": "D_u in tex"
+  },
+
+  "tex_D_v": {
+    "prefix": "Dv",
+    "body": ["\\$D_v\\$ "],
+    "description": "D_v in tex"
+  },
+
+  "tex_D_w": {
+    "prefix": "Dw",
+    "body": ["\\$D_w\\$ "],
+    "description": "D_w in tex"
+  },
+
+  "tex_D_x": {
+    "prefix": "Dx",
+    "body": ["\\$D_x\\$ "],
+    "description": "D_x in tex"
+  },
+
+  "tex_D_y": {
+    "prefix": "Dy",
+    "body": ["\\$D_y\\$ "],
+    "description": "D_y in tex"
+  },
+
+  "tex_D_z": {
+    "prefix": "Dz",
+    "body": ["\\$D_z\\$ "],
+    "description": "D_z in tex"
+  },
+
+  "tex_e": {
+    "prefix": "e",
+    "body": ["\\$e\\$ "],
+    "description": "e in tex"
+  },
+
+  "tex_e_0": {
+    "prefix": "e0",
+    "body": ["\\$e_0\\$ "],
+    "description": "e_0 in tex"
+  },
+
+  "tex_e_1": {
+    "prefix": "e1",
+    "body": ["\\$e_1\\$ "],
+    "description": "e_1 in tex"
+  },
+
+  "tex_e_2": {
+    "prefix": "e2",
+    "body": ["\\$e_2\\$ "],
+    "description": "e_2 in tex"
+  },
+
+  "tex_e_3": {
+    "prefix": "e3",
+    "body": ["\\$e_3\\$ "],
+    "description": "e_3 in tex"
+  },
+
+  "tex_e_a": {
+    "prefix": "ea",
+    "body": ["\\$e_a\\$ "],
+    "description": "e_a in tex"
+  },
+
+  "tex_e_b": {
+    "prefix": "eb",
+    "body": ["\\$e_b\\$ "],
+    "description": "e_b in tex"
+  },
+
+  "tex_e_c": {
+    "prefix": "ec",
+    "body": ["\\$e_c\\$ "],
+    "description": "e_c in tex"
+  },
+
+  "tex_e_d": {
+    "prefix": "ed",
+    "body": ["\\$e_d\\$ "],
+    "description": "e_d in tex"
+  },
+
+  "tex_e_e": {
+    "prefix": "ee",
+    "body": ["\\$e_e\\$ "],
+    "description": "e_e in tex"
+  },
+
+  "tex_e_f": {
+    "prefix": "ef",
+    "body": ["\\$e_f\\$ "],
+    "description": "e_f in tex"
+  },
+
+  "tex_e_g": {
+    "prefix": "eg",
+    "body": ["\\$e_g\\$ "],
+    "description": "e_g in tex"
+  },
+
+  "tex_e_h": {
+    "prefix": "eh",
+    "body": ["\\$e_h\\$ "],
+    "description": "e_h in tex"
+  },
+
+  "tex_e_i": {
+    "prefix": "ei",
+    "body": ["\\$e_i\\$ "],
+    "description": "e_i in tex"
+  },
+
+  "tex_e_j": {
+    "prefix": "ej",
+    "body": ["\\$e_j\\$ "],
+    "description": "e_j in tex"
+  },
+
+  "tex_e_k": {
+    "prefix": "ek",
+    "body": ["\\$e_k\\$ "],
+    "description": "e_k in tex"
+  },
+
+  "tex_e_l": {
+    "prefix": "el",
+    "body": ["\\$e_l\\$ "],
+    "description": "e_l in tex"
+  },
+
+  "tex_e_m": {
+    "prefix": "em",
+    "body": ["\\$e_m\\$ "],
+    "description": "e_m in tex"
+  },
+
+  "tex_e_n": {
+    "prefix": "en",
+    "body": ["\\$e_n\\$ "],
+    "description": "e_n in tex"
+  },
+
+  "tex_e_o": {
+    "prefix": "eo",
+    "body": ["\\$e_o\\$ "],
+    "description": "e_o in tex"
+  },
+
+  "tex_e_p": {
+    "prefix": "ep",
+    "body": ["\\$e_p\\$ "],
+    "description": "e_p in tex"
+  },
+
+  "tex_e_q": {
+    "prefix": "eq",
+    "body": ["\\$e_q\\$ "],
+    "description": "e_q in tex"
+  },
+
+  "tex_e_r": {
+    "prefix": "er",
+    "body": ["\\$e_r\\$ "],
+    "description": "e_r in tex"
+  },
+
+  "tex_e_s": {
+    "prefix": "es",
+    "body": ["\\$e_s\\$ "],
+    "description": "e_s in tex"
+  },
+
+  "tex_e_t": {
+    "prefix": "et",
+    "body": ["\\$e_t\\$ "],
+    "description": "e_t in tex"
+  },
+
+  "tex_e_u": {
+    "prefix": "eu",
+    "body": ["\\$e_u\\$ "],
+    "description": "e_u in tex"
+  },
+
+  "tex_e_v": {
+    "prefix": "ev",
+    "body": ["\\$e_v\\$ "],
+    "description": "e_v in tex"
+  },
+
+  "tex_e_w": {
+    "prefix": "ew",
+    "body": ["\\$e_w\\$ "],
+    "description": "e_w in tex"
+  },
+
+  "tex_e_x": {
+    "prefix": "ex",
+    "body": ["\\$e_x\\$ "],
+    "description": "e_x in tex"
+  },
+
+  "tex_e_y": {
+    "prefix": "ey",
+    "body": ["\\$e_y\\$ "],
+    "description": "e_y in tex"
+  },
+
+  "tex_e_z": {
+    "prefix": "ez",
+    "body": ["\\$e_z\\$ "],
+    "description": "e_z in tex"
+  },
+
+  "tex_E": {
+    "prefix": "E",
+    "body": ["\\$E\\$ "],
+    "description": "E in tex"
+  },
+
+  "tex_E_0": {
+    "prefix": "E0",
+    "body": ["\\$E_0\\$ "],
+    "description": "E_0 in tex"
+  },
+
+  "tex_E_1": {
+    "prefix": "E1",
+    "body": ["\\$E_1\\$ "],
+    "description": "E_1 in tex"
+  },
+
+  "tex_E_2": {
+    "prefix": "E2",
+    "body": ["\\$E_2\\$ "],
+    "description": "E_2 in tex"
+  },
+
+  "tex_E_3": {
+    "prefix": "E3",
+    "body": ["\\$E_3\\$ "],
+    "description": "E_3 in tex"
+  },
+
+  "tex_E_a": {
+    "prefix": "Ea",
+    "body": ["\\$E_a\\$ "],
+    "description": "E_a in tex"
+  },
+
+  "tex_E_b": {
+    "prefix": "Eb",
+    "body": ["\\$E_b\\$ "],
+    "description": "E_b in tex"
+  },
+
+  "tex_E_c": {
+    "prefix": "Ec",
+    "body": ["\\$E_c\\$ "],
+    "description": "E_c in tex"
+  },
+
+  "tex_E_d": {
+    "prefix": "Ed",
+    "body": ["\\$E_d\\$ "],
+    "description": "E_d in tex"
+  },
+
+  "tex_E_e": {
+    "prefix": "Ee",
+    "body": ["\\$E_e\\$ "],
+    "description": "E_e in tex"
+  },
+
+  "tex_E_f": {
+    "prefix": "Ef",
+    "body": ["\\$E_f\\$ "],
+    "description": "E_f in tex"
+  },
+
+  "tex_E_g": {
+    "prefix": "Eg",
+    "body": ["\\$E_g\\$ "],
+    "description": "E_g in tex"
+  },
+
+  "tex_E_h": {
+    "prefix": "Eh",
+    "body": ["\\$E_h\\$ "],
+    "description": "E_h in tex"
+  },
+
+  "tex_E_i": {
+    "prefix": "Ei",
+    "body": ["\\$E_i\\$ "],
+    "description": "E_i in tex"
+  },
+
+  "tex_E_j": {
+    "prefix": "Ej",
+    "body": ["\\$E_j\\$ "],
+    "description": "E_j in tex"
+  },
+
+  "tex_E_k": {
+    "prefix": "Ek",
+    "body": ["\\$E_k\\$ "],
+    "description": "E_k in tex"
+  },
+
+  "tex_E_l": {
+    "prefix": "El",
+    "body": ["\\$E_l\\$ "],
+    "description": "E_l in tex"
+  },
+
+  "tex_E_m": {
+    "prefix": "Em",
+    "body": ["\\$E_m\\$ "],
+    "description": "E_m in tex"
+  },
+
+  "tex_E_n": {
+    "prefix": "En",
+    "body": ["\\$E_n\\$ "],
+    "description": "E_n in tex"
+  },
+
+  "tex_E_o": {
+    "prefix": "Eo",
+    "body": ["\\$E_o\\$ "],
+    "description": "E_o in tex"
+  },
+
+  "tex_E_p": {
+    "prefix": "Ep",
+    "body": ["\\$E_p\\$ "],
+    "description": "E_p in tex"
+  },
+
+  "tex_E_q": {
+    "prefix": "Eq",
+    "body": ["\\$E_q\\$ "],
+    "description": "E_q in tex"
+  },
+
+  "tex_E_r": {
+    "prefix": "Er",
+    "body": ["\\$E_r\\$ "],
+    "description": "E_r in tex"
+  },
+
+  "tex_E_s": {
+    "prefix": "Es",
+    "body": ["\\$E_s\\$ "],
+    "description": "E_s in tex"
+  },
+
+  "tex_E_t": {
+    "prefix": "Et",
+    "body": ["\\$E_t\\$ "],
+    "description": "E_t in tex"
+  },
+
+  "tex_E_u": {
+    "prefix": "Eu",
+    "body": ["\\$E_u\\$ "],
+    "description": "E_u in tex"
+  },
+
+  "tex_E_v": {
+    "prefix": "Ev",
+    "body": ["\\$E_v\\$ "],
+    "description": "E_v in tex"
+  },
+
+  "tex_E_w": {
+    "prefix": "Ew",
+    "body": ["\\$E_w\\$ "],
+    "description": "E_w in tex"
+  },
+
+  "tex_E_x": {
+    "prefix": "Ex",
+    "body": ["\\$E_x\\$ "],
+    "description": "E_x in tex"
+  },
+
+  "tex_E_y": {
+    "prefix": "Ey",
+    "body": ["\\$E_y\\$ "],
+    "description": "E_y in tex"
+  },
+
+  "tex_E_z": {
+    "prefix": "Ez",
+    "body": ["\\$E_z\\$ "],
+    "description": "E_z in tex"
+  },
+
+  "tex_f": {
+    "prefix": "f",
+    "body": ["\\$f\\$ "],
+    "description": "f in tex"
+  },
+
+  "tex_f_0": {
+    "prefix": "f0",
+    "body": ["\\$f_0\\$ "],
+    "description": "f_0 in tex"
+  },
+
+  "tex_f_1": {
+    "prefix": "f1",
+    "body": ["\\$f_1\\$ "],
+    "description": "f_1 in tex"
+  },
+
+  "tex_f_2": {
+    "prefix": "f2",
+    "body": ["\\$f_2\\$ "],
+    "description": "f_2 in tex"
+  },
+
+  "tex_f_3": {
+    "prefix": "f3",
+    "body": ["\\$f_3\\$ "],
+    "description": "f_3 in tex"
+  },
+
+  "tex_f_a": {
+    "prefix": "fa",
+    "body": ["\\$f_a\\$ "],
+    "description": "f_a in tex"
+  },
+
+  "tex_f_b": {
+    "prefix": "fb",
+    "body": ["\\$f_b\\$ "],
+    "description": "f_b in tex"
+  },
+
+  "tex_f_c": {
+    "prefix": "fc",
+    "body": ["\\$f_c\\$ "],
+    "description": "f_c in tex"
+  },
+
+  "tex_f_d": {
+    "prefix": "fd",
+    "body": ["\\$f_d\\$ "],
+    "description": "f_d in tex"
+  },
+
+  "tex_f_e": {
+    "prefix": "fe",
+    "body": ["\\$f_e\\$ "],
+    "description": "f_e in tex"
+  },
+
+  "tex_f_f": {
+    "prefix": "ff",
+    "body": ["\\$f_f\\$ "],
+    "description": "f_f in tex"
+  },
+
+  "tex_f_g": {
+    "prefix": "fg",
+    "body": ["\\$f_g\\$ "],
+    "description": "f_g in tex"
+  },
+
+  "tex_f_h": {
+    "prefix": "fh",
+    "body": ["\\$f_h\\$ "],
+    "description": "f_h in tex"
+  },
+
+  "tex_f_i": {
+    "prefix": "fi",
+    "body": ["\\$f_i\\$ "],
+    "description": "f_i in tex"
+  },
+
+  "tex_f_j": {
+    "prefix": "fj",
+    "body": ["\\$f_j\\$ "],
+    "description": "f_j in tex"
+  },
+
+  "tex_f_k": {
+    "prefix": "fk",
+    "body": ["\\$f_k\\$ "],
+    "description": "f_k in tex"
+  },
+
+  "tex_f_l": {
+    "prefix": "fl",
+    "body": ["\\$f_l\\$ "],
+    "description": "f_l in tex"
+  },
+
+  "tex_f_m": {
+    "prefix": "fm",
+    "body": ["\\$f_m\\$ "],
+    "description": "f_m in tex"
+  },
+
+  "tex_f_n": {
+    "prefix": "fn",
+    "body": ["\\$f_n\\$ "],
+    "description": "f_n in tex"
+  },
+
+  "tex_f_o": {
+    "prefix": "fo",
+    "body": ["\\$f_o\\$ "],
+    "description": "f_o in tex"
+  },
+
+  "tex_f_p": {
+    "prefix": "fp",
+    "body": ["\\$f_p\\$ "],
+    "description": "f_p in tex"
+  },
+
+  "tex_f_q": {
+    "prefix": "fq",
+    "body": ["\\$f_q\\$ "],
+    "description": "f_q in tex"
+  },
+
+  "tex_f_r": {
+    "prefix": "fr",
+    "body": ["\\$f_r\\$ "],
+    "description": "f_r in tex"
+  },
+
+  "tex_f_s": {
+    "prefix": "fs",
+    "body": ["\\$f_s\\$ "],
+    "description": "f_s in tex"
+  },
+
+  "tex_f_t": {
+    "prefix": "ft",
+    "body": ["\\$f_t\\$ "],
+    "description": "f_t in tex"
+  },
+
+  "tex_f_u": {
+    "prefix": "fu",
+    "body": ["\\$f_u\\$ "],
+    "description": "f_u in tex"
+  },
+
+  "tex_f_v": {
+    "prefix": "fv",
+    "body": ["\\$f_v\\$ "],
+    "description": "f_v in tex"
+  },
+
+  "tex_f_w": {
+    "prefix": "fw",
+    "body": ["\\$f_w\\$ "],
+    "description": "f_w in tex"
+  },
+
+  "tex_f_x": {
+    "prefix": "fx",
+    "body": ["\\$f_x\\$ "],
+    "description": "f_x in tex"
+  },
+
+  "tex_f_y": {
+    "prefix": "fy",
+    "body": ["\\$f_y\\$ "],
+    "description": "f_y in tex"
+  },
+
+  "tex_f_z": {
+    "prefix": "fz",
+    "body": ["\\$f_z\\$ "],
+    "description": "f_z in tex"
+  },
+
+  "tex_F": {
+    "prefix": "F",
+    "body": ["\\$F\\$ "],
+    "description": "F in tex"
+  },
+
+  "tex_F_0": {
+    "prefix": "F0",
+    "body": ["\\$F_0\\$ "],
+    "description": "F_0 in tex"
+  },
+
+  "tex_F_1": {
+    "prefix": "F1",
+    "body": ["\\$F_1\\$ "],
+    "description": "F_1 in tex"
+  },
+
+  "tex_F_2": {
+    "prefix": "F2",
+    "body": ["\\$F_2\\$ "],
+    "description": "F_2 in tex"
+  },
+
+  "tex_F_3": {
+    "prefix": "F3",
+    "body": ["\\$F_3\\$ "],
+    "description": "F_3 in tex"
+  },
+
+  "tex_F_a": {
+    "prefix": "Fa",
+    "body": ["\\$F_a\\$ "],
+    "description": "F_a in tex"
+  },
+
+  "tex_F_b": {
+    "prefix": "Fb",
+    "body": ["\\$F_b\\$ "],
+    "description": "F_b in tex"
+  },
+
+  "tex_F_c": {
+    "prefix": "Fc",
+    "body": ["\\$F_c\\$ "],
+    "description": "F_c in tex"
+  },
+
+  "tex_F_d": {
+    "prefix": "Fd",
+    "body": ["\\$F_d\\$ "],
+    "description": "F_d in tex"
+  },
+
+  "tex_F_e": {
+    "prefix": "Fe",
+    "body": ["\\$F_e\\$ "],
+    "description": "F_e in tex"
+  },
+
+  "tex_F_f": {
+    "prefix": "Ff",
+    "body": ["\\$F_f\\$ "],
+    "description": "F_f in tex"
+  },
+
+  "tex_F_g": {
+    "prefix": "Fg",
+    "body": ["\\$F_g\\$ "],
+    "description": "F_g in tex"
+  },
+
+  "tex_F_h": {
+    "prefix": "Fh",
+    "body": ["\\$F_h\\$ "],
+    "description": "F_h in tex"
+  },
+
+  "tex_F_i": {
+    "prefix": "Fi",
+    "body": ["\\$F_i\\$ "],
+    "description": "F_i in tex"
+  },
+
+  "tex_F_j": {
+    "prefix": "Fj",
+    "body": ["\\$F_j\\$ "],
+    "description": "F_j in tex"
+  },
+
+  "tex_F_k": {
+    "prefix": "Fk",
+    "body": ["\\$F_k\\$ "],
+    "description": "F_k in tex"
+  },
+
+  "tex_F_l": {
+    "prefix": "Fl",
+    "body": ["\\$F_l\\$ "],
+    "description": "F_l in tex"
+  },
+
+  "tex_F_m": {
+    "prefix": "Fm",
+    "body": ["\\$F_m\\$ "],
+    "description": "F_m in tex"
+  },
+
+  "tex_F_n": {
+    "prefix": "Fn",
+    "body": ["\\$F_n\\$ "],
+    "description": "F_n in tex"
+  },
+
+  "tex_F_o": {
+    "prefix": "Fo",
+    "body": ["\\$F_o\\$ "],
+    "description": "F_o in tex"
+  },
+
+  "tex_F_p": {
+    "prefix": "Fp",
+    "body": ["\\$F_p\\$ "],
+    "description": "F_p in tex"
+  },
+
+  "tex_F_q": {
+    "prefix": "Fq",
+    "body": ["\\$F_q\\$ "],
+    "description": "F_q in tex"
+  },
+
+  "tex_F_r": {
+    "prefix": "Fr",
+    "body": ["\\$F_r\\$ "],
+    "description": "F_r in tex"
+  },
+
+  "tex_F_s": {
+    "prefix": "Fs",
+    "body": ["\\$F_s\\$ "],
+    "description": "F_s in tex"
+  },
+
+  "tex_F_t": {
+    "prefix": "Ft",
+    "body": ["\\$F_t\\$ "],
+    "description": "F_t in tex"
+  },
+
+  "tex_F_u": {
+    "prefix": "Fu",
+    "body": ["\\$F_u\\$ "],
+    "description": "F_u in tex"
+  },
+
+  "tex_F_v": {
+    "prefix": "Fv",
+    "body": ["\\$F_v\\$ "],
+    "description": "F_v in tex"
+  },
+
+  "tex_F_w": {
+    "prefix": "Fw",
+    "body": ["\\$F_w\\$ "],
+    "description": "F_w in tex"
+  },
+
+  "tex_F_x": {
+    "prefix": "Fx",
+    "body": ["\\$F_x\\$ "],
+    "description": "F_x in tex"
+  },
+
+  "tex_F_y": {
+    "prefix": "Fy",
+    "body": ["\\$F_y\\$ "],
+    "description": "F_y in tex"
+  },
+
+  "tex_F_z": {
+    "prefix": "Fz",
+    "body": ["\\$F_z\\$ "],
+    "description": "F_z in tex"
+  },
+
+  "tex_g": {
+    "prefix": "g",
+    "body": ["\\$g\\$ "],
+    "description": "g in tex"
+  },
+
+  "tex_g_0": {
+    "prefix": "g0",
+    "body": ["\\$g_0\\$ "],
+    "description": "g_0 in tex"
+  },
+
+  "tex_g_1": {
+    "prefix": "g1",
+    "body": ["\\$g_1\\$ "],
+    "description": "g_1 in tex"
+  },
+
+  "tex_g_2": {
+    "prefix": "g2",
+    "body": ["\\$g_2\\$ "],
+    "description": "g_2 in tex"
+  },
+
+  "tex_g_3": {
+    "prefix": "g3",
+    "body": ["\\$g_3\\$ "],
+    "description": "g_3 in tex"
+  },
+
+  "tex_g_a": {
+    "prefix": "ga",
+    "body": ["\\$g_a\\$ "],
+    "description": "g_a in tex"
+  },
+
+  "tex_g_b": {
+    "prefix": "gb",
+    "body": ["\\$g_b\\$ "],
+    "description": "g_b in tex"
+  },
+
+  "tex_g_c": {
+    "prefix": "gc",
+    "body": ["\\$g_c\\$ "],
+    "description": "g_c in tex"
+  },
+
+  "tex_g_d": {
+    "prefix": "gd",
+    "body": ["\\$g_d\\$ "],
+    "description": "g_d in tex"
+  },
+
+  "tex_g_e": {
+    "prefix": "ge",
+    "body": ["\\$g_e\\$ "],
+    "description": "g_e in tex"
+  },
+
+  "tex_g_f": {
+    "prefix": "gf",
+    "body": ["\\$g_f\\$ "],
+    "description": "g_f in tex"
+  },
+
+  "tex_g_g": {
+    "prefix": "gg",
+    "body": ["\\$g_g\\$ "],
+    "description": "g_g in tex"
+  },
+
+  "tex_g_h": {
+    "prefix": "gh",
+    "body": ["\\$g_h\\$ "],
+    "description": "g_h in tex"
+  },
+
+  "tex_g_i": {
+    "prefix": "gi",
+    "body": ["\\$g_i\\$ "],
+    "description": "g_i in tex"
+  },
+
+  "tex_g_j": {
+    "prefix": "gj",
+    "body": ["\\$g_j\\$ "],
+    "description": "g_j in tex"
+  },
+
+  "tex_g_k": {
+    "prefix": "gk",
+    "body": ["\\$g_k\\$ "],
+    "description": "g_k in tex"
+  },
+
+  "tex_g_l": {
+    "prefix": "gl",
+    "body": ["\\$g_l\\$ "],
+    "description": "g_l in tex"
+  },
+
+  "tex_g_m": {
+    "prefix": "gm",
+    "body": ["\\$g_m\\$ "],
+    "description": "g_m in tex"
+  },
+
+  "tex_g_n": {
+    "prefix": "gn",
+    "body": ["\\$g_n\\$ "],
+    "description": "g_n in tex"
+  },
+
+  "tex_g_o": {
+    "prefix": "go",
+    "body": ["\\$g_o\\$ "],
+    "description": "g_o in tex"
+  },
+
+  "tex_g_p": {
+    "prefix": "gp",
+    "body": ["\\$g_p\\$ "],
+    "description": "g_p in tex"
+  },
+
+  "tex_g_q": {
+    "prefix": "gq",
+    "body": ["\\$g_q\\$ "],
+    "description": "g_q in tex"
+  },
+
+  "tex_g_r": {
+    "prefix": "gr",
+    "body": ["\\$g_r\\$ "],
+    "description": "g_r in tex"
+  },
+
+  "tex_g_s": {
+    "prefix": "gs",
+    "body": ["\\$g_s\\$ "],
+    "description": "g_s in tex"
+  },
+
+  "tex_g_t": {
+    "prefix": "gt",
+    "body": ["\\$g_t\\$ "],
+    "description": "g_t in tex"
+  },
+
+  "tex_g_u": {
+    "prefix": "gu",
+    "body": ["\\$g_u\\$ "],
+    "description": "g_u in tex"
+  },
+
+  "tex_g_v": {
+    "prefix": "gv",
+    "body": ["\\$g_v\\$ "],
+    "description": "g_v in tex"
+  },
+
+  "tex_g_w": {
+    "prefix": "gw",
+    "body": ["\\$g_w\\$ "],
+    "description": "g_w in tex"
+  },
+
+  "tex_g_x": {
+    "prefix": "gx",
+    "body": ["\\$g_x\\$ "],
+    "description": "g_x in tex"
+  },
+
+  "tex_g_y": {
+    "prefix": "gy",
+    "body": ["\\$g_y\\$ "],
+    "description": "g_y in tex"
+  },
+
+  "tex_g_z": {
+    "prefix": "gz",
+    "body": ["\\$g_z\\$ "],
+    "description": "g_z in tex"
+  },
+
+  "tex_G": {
+    "prefix": "G",
+    "body": ["\\$G\\$ "],
+    "description": "G in tex"
+  },
+
+  "tex_G_0": {
+    "prefix": "G0",
+    "body": ["\\$G_0\\$ "],
+    "description": "G_0 in tex"
+  },
+
+  "tex_G_1": {
+    "prefix": "G1",
+    "body": ["\\$G_1\\$ "],
+    "description": "G_1 in tex"
+  },
+
+  "tex_G_2": {
+    "prefix": "G2",
+    "body": ["\\$G_2\\$ "],
+    "description": "G_2 in tex"
+  },
+
+  "tex_G_3": {
+    "prefix": "G3",
+    "body": ["\\$G_3\\$ "],
+    "description": "G_3 in tex"
+  },
+
+  "tex_G_a": {
+    "prefix": "Ga",
+    "body": ["\\$G_a\\$ "],
+    "description": "G_a in tex"
+  },
+
+  "tex_G_b": {
+    "prefix": "Gb",
+    "body": ["\\$G_b\\$ "],
+    "description": "G_b in tex"
+  },
+
+  "tex_G_c": {
+    "prefix": "Gc",
+    "body": ["\\$G_c\\$ "],
+    "description": "G_c in tex"
+  },
+
+  "tex_G_d": {
+    "prefix": "Gd",
+    "body": ["\\$G_d\\$ "],
+    "description": "G_d in tex"
+  },
+
+  "tex_G_e": {
+    "prefix": "Ge",
+    "body": ["\\$G_e\\$ "],
+    "description": "G_e in tex"
+  },
+
+  "tex_G_f": {
+    "prefix": "Gf",
+    "body": ["\\$G_f\\$ "],
+    "description": "G_f in tex"
+  },
+
+  "tex_G_g": {
+    "prefix": "Gg",
+    "body": ["\\$G_g\\$ "],
+    "description": "G_g in tex"
+  },
+
+  "tex_G_h": {
+    "prefix": "Gh",
+    "body": ["\\$G_h\\$ "],
+    "description": "G_h in tex"
+  },
+
+  "tex_G_i": {
+    "prefix": "Gi",
+    "body": ["\\$G_i\\$ "],
+    "description": "G_i in tex"
+  },
+
+  "tex_G_j": {
+    "prefix": "Gj",
+    "body": ["\\$G_j\\$ "],
+    "description": "G_j in tex"
+  },
+
+  "tex_G_k": {
+    "prefix": "Gk",
+    "body": ["\\$G_k\\$ "],
+    "description": "G_k in tex"
+  },
+
+  "tex_G_l": {
+    "prefix": "Gl",
+    "body": ["\\$G_l\\$ "],
+    "description": "G_l in tex"
+  },
+
+  "tex_G_m": {
+    "prefix": "Gm",
+    "body": ["\\$G_m\\$ "],
+    "description": "G_m in tex"
+  },
+
+  "tex_G_n": {
+    "prefix": "Gn",
+    "body": ["\\$G_n\\$ "],
+    "description": "G_n in tex"
+  },
+
+  "tex_G_o": {
+    "prefix": "Go",
+    "body": ["\\$G_o\\$ "],
+    "description": "G_o in tex"
+  },
+
+  "tex_G_p": {
+    "prefix": "Gp",
+    "body": ["\\$G_p\\$ "],
+    "description": "G_p in tex"
+  },
+
+  "tex_G_q": {
+    "prefix": "Gq",
+    "body": ["\\$G_q\\$ "],
+    "description": "G_q in tex"
+  },
+
+  "tex_G_r": {
+    "prefix": "Gr",
+    "body": ["\\$G_r\\$ "],
+    "description": "G_r in tex"
+  },
+
+  "tex_G_s": {
+    "prefix": "Gs",
+    "body": ["\\$G_s\\$ "],
+    "description": "G_s in tex"
+  },
+
+  "tex_G_t": {
+    "prefix": "Gt",
+    "body": ["\\$G_t\\$ "],
+    "description": "G_t in tex"
+  },
+
+  "tex_G_u": {
+    "prefix": "Gu",
+    "body": ["\\$G_u\\$ "],
+    "description": "G_u in tex"
+  },
+
+  "tex_G_v": {
+    "prefix": "Gv",
+    "body": ["\\$G_v\\$ "],
+    "description": "G_v in tex"
+  },
+
+  "tex_G_w": {
+    "prefix": "Gw",
+    "body": ["\\$G_w\\$ "],
+    "description": "G_w in tex"
+  },
+
+  "tex_G_x": {
+    "prefix": "Gx",
+    "body": ["\\$G_x\\$ "],
+    "description": "G_x in tex"
+  },
+
+  "tex_G_y": {
+    "prefix": "Gy",
+    "body": ["\\$G_y\\$ "],
+    "description": "G_y in tex"
+  },
+
+  "tex_G_z": {
+    "prefix": "Gz",
+    "body": ["\\$G_z\\$ "],
+    "description": "G_z in tex"
+  },
+
+  "tex_h": {
+    "prefix": "h",
+    "body": ["\\$h\\$ "],
+    "description": "h in tex"
+  },
+
+  "tex_h_0": {
+    "prefix": "h0",
+    "body": ["\\$h_0\\$ "],
+    "description": "h_0 in tex"
+  },
+
+  "tex_h_1": {
+    "prefix": "h1",
+    "body": ["\\$h_1\\$ "],
+    "description": "h_1 in tex"
+  },
+
+  "tex_h_2": {
+    "prefix": "h2",
+    "body": ["\\$h_2\\$ "],
+    "description": "h_2 in tex"
+  },
+
+  "tex_h_3": {
+    "prefix": "h3",
+    "body": ["\\$h_3\\$ "],
+    "description": "h_3 in tex"
+  },
+
+  "tex_h_a": {
+    "prefix": "ha",
+    "body": ["\\$h_a\\$ "],
+    "description": "h_a in tex"
+  },
+
+  "tex_h_b": {
+    "prefix": "hb",
+    "body": ["\\$h_b\\$ "],
+    "description": "h_b in tex"
+  },
+
+  "tex_h_c": {
+    "prefix": "hc",
+    "body": ["\\$h_c\\$ "],
+    "description": "h_c in tex"
+  },
+
+  "tex_h_d": {
+    "prefix": "hd",
+    "body": ["\\$h_d\\$ "],
+    "description": "h_d in tex"
+  },
+
+  "tex_h_e": {
+    "prefix": "he",
+    "body": ["\\$h_e\\$ "],
+    "description": "h_e in tex"
+  },
+
+  "tex_h_f": {
+    "prefix": "hf",
+    "body": ["\\$h_f\\$ "],
+    "description": "h_f in tex"
+  },
+
+  "tex_h_g": {
+    "prefix": "hg",
+    "body": ["\\$h_g\\$ "],
+    "description": "h_g in tex"
+  },
+
+  "tex_h_h": {
+    "prefix": "hh",
+    "body": ["\\$h_h\\$ "],
+    "description": "h_h in tex"
+  },
+
+  "tex_h_i": {
+    "prefix": "hi",
+    "body": ["\\$h_i\\$ "],
+    "description": "h_i in tex"
+  },
+
+  "tex_h_j": {
+    "prefix": "hj",
+    "body": ["\\$h_j\\$ "],
+    "description": "h_j in tex"
+  },
+
+  "tex_h_k": {
+    "prefix": "hk",
+    "body": ["\\$h_k\\$ "],
+    "description": "h_k in tex"
+  },
+
+  "tex_h_l": {
+    "prefix": "hl",
+    "body": ["\\$h_l\\$ "],
+    "description": "h_l in tex"
+  },
+
+  "tex_h_m": {
+    "prefix": "hm",
+    "body": ["\\$h_m\\$ "],
+    "description": "h_m in tex"
+  },
+
+  "tex_h_n": {
+    "prefix": "hn",
+    "body": ["\\$h_n\\$ "],
+    "description": "h_n in tex"
+  },
+
+  "tex_h_o": {
+    "prefix": "ho",
+    "body": ["\\$h_o\\$ "],
+    "description": "h_o in tex"
+  },
+
+  "tex_h_p": {
+    "prefix": "hp",
+    "body": ["\\$h_p\\$ "],
+    "description": "h_p in tex"
+  },
+
+  "tex_h_q": {
+    "prefix": "hq",
+    "body": ["\\$h_q\\$ "],
+    "description": "h_q in tex"
+  },
+
+  "tex_h_r": {
+    "prefix": "hr",
+    "body": ["\\$h_r\\$ "],
+    "description": "h_r in tex"
+  },
+
+  "tex_h_s": {
+    "prefix": "hs",
+    "body": ["\\$h_s\\$ "],
+    "description": "h_s in tex"
+  },
+
+  "tex_h_t": {
+    "prefix": "ht",
+    "body": ["\\$h_t\\$ "],
+    "description": "h_t in tex"
+  },
+
+  "tex_h_u": {
+    "prefix": "hu",
+    "body": ["\\$h_u\\$ "],
+    "description": "h_u in tex"
+  },
+
+  "tex_h_v": {
+    "prefix": "hv",
+    "body": ["\\$h_v\\$ "],
+    "description": "h_v in tex"
+  },
+
+  "tex_h_w": {
+    "prefix": "hw",
+    "body": ["\\$h_w\\$ "],
+    "description": "h_w in tex"
+  },
+
+  "tex_h_x": {
+    "prefix": "hx",
+    "body": ["\\$h_x\\$ "],
+    "description": "h_x in tex"
+  },
+
+  "tex_h_y": {
+    "prefix": "hy",
+    "body": ["\\$h_y\\$ "],
+    "description": "h_y in tex"
+  },
+
+  "tex_h_z": {
+    "prefix": "hz",
+    "body": ["\\$h_z\\$ "],
+    "description": "h_z in tex"
+  },
+
+  "tex_H": {
+    "prefix": "H",
+    "body": ["\\$H\\$ "],
+    "description": "H in tex"
+  },
+
+  "tex_H_0": {
+    "prefix": "H0",
+    "body": ["\\$H_0\\$ "],
+    "description": "H_0 in tex"
+  },
+
+  "tex_H_1": {
+    "prefix": "H1",
+    "body": ["\\$H_1\\$ "],
+    "description": "H_1 in tex"
+  },
+
+  "tex_H_2": {
+    "prefix": "H2",
+    "body": ["\\$H_2\\$ "],
+    "description": "H_2 in tex"
+  },
+
+  "tex_H_3": {
+    "prefix": "H3",
+    "body": ["\\$H_3\\$ "],
+    "description": "H_3 in tex"
+  },
+
+  "tex_H_a": {
+    "prefix": "Ha",
+    "body": ["\\$H_a\\$ "],
+    "description": "H_a in tex"
+  },
+
+  "tex_H_b": {
+    "prefix": "Hb",
+    "body": ["\\$H_b\\$ "],
+    "description": "H_b in tex"
+  },
+
+  "tex_H_c": {
+    "prefix": "Hc",
+    "body": ["\\$H_c\\$ "],
+    "description": "H_c in tex"
+  },
+
+  "tex_H_d": {
+    "prefix": "Hd",
+    "body": ["\\$H_d\\$ "],
+    "description": "H_d in tex"
+  },
+
+  "tex_H_e": {
+    "prefix": "He",
+    "body": ["\\$H_e\\$ "],
+    "description": "H_e in tex"
+  },
+
+  "tex_H_f": {
+    "prefix": "Hf",
+    "body": ["\\$H_f\\$ "],
+    "description": "H_f in tex"
+  },
+
+  "tex_H_g": {
+    "prefix": "Hg",
+    "body": ["\\$H_g\\$ "],
+    "description": "H_g in tex"
+  },
+
+  "tex_H_h": {
+    "prefix": "Hh",
+    "body": ["\\$H_h\\$ "],
+    "description": "H_h in tex"
+  },
+
+  "tex_H_i": {
+    "prefix": "Hi",
+    "body": ["\\$H_i\\$ "],
+    "description": "H_i in tex"
+  },
+
+  "tex_H_j": {
+    "prefix": "Hj",
+    "body": ["\\$H_j\\$ "],
+    "description": "H_j in tex"
+  },
+
+  "tex_H_k": {
+    "prefix": "Hk",
+    "body": ["\\$H_k\\$ "],
+    "description": "H_k in tex"
+  },
+
+  "tex_H_l": {
+    "prefix": "Hl",
+    "body": ["\\$H_l\\$ "],
+    "description": "H_l in tex"
+  },
+
+  "tex_H_m": {
+    "prefix": "Hm",
+    "body": ["\\$H_m\\$ "],
+    "description": "H_m in tex"
+  },
+
+  "tex_H_n": {
+    "prefix": "Hn",
+    "body": ["\\$H_n\\$ "],
+    "description": "H_n in tex"
+  },
+
+  "tex_H_o": {
+    "prefix": "Ho",
+    "body": ["\\$H_o\\$ "],
+    "description": "H_o in tex"
+  },
+
+  "tex_H_p": {
+    "prefix": "Hp",
+    "body": ["\\$H_p\\$ "],
+    "description": "H_p in tex"
+  },
+
+  "tex_H_q": {
+    "prefix": "Hq",
+    "body": ["\\$H_q\\$ "],
+    "description": "H_q in tex"
+  },
+
+  "tex_H_r": {
+    "prefix": "Hr",
+    "body": ["\\$H_r\\$ "],
+    "description": "H_r in tex"
+  },
+
+  "tex_H_s": {
+    "prefix": "Hs",
+    "body": ["\\$H_s\\$ "],
+    "description": "H_s in tex"
+  },
+
+  "tex_H_t": {
+    "prefix": "Ht",
+    "body": ["\\$H_t\\$ "],
+    "description": "H_t in tex"
+  },
+
+  "tex_H_u": {
+    "prefix": "Hu",
+    "body": ["\\$H_u\\$ "],
+    "description": "H_u in tex"
+  },
+
+  "tex_H_v": {
+    "prefix": "Hv",
+    "body": ["\\$H_v\\$ "],
+    "description": "H_v in tex"
+  },
+
+  "tex_H_w": {
+    "prefix": "Hw",
+    "body": ["\\$H_w\\$ "],
+    "description": "H_w in tex"
+  },
+
+  "tex_H_x": {
+    "prefix": "Hx",
+    "body": ["\\$H_x\\$ "],
+    "description": "H_x in tex"
+  },
+
+  "tex_H_y": {
+    "prefix": "Hy",
+    "body": ["\\$H_y\\$ "],
+    "description": "H_y in tex"
+  },
+
+  "tex_H_z": {
+    "prefix": "Hz",
+    "body": ["\\$H_z\\$ "],
+    "description": "H_z in tex"
+  },
+
+  "tex_i": {
+    "prefix": "i",
+    "body": ["\\$i\\$ "],
+    "description": "i in tex"
+  },
+
+  "tex_i_0": {
+    "prefix": "i0",
+    "body": ["\\$i_0\\$ "],
+    "description": "i_0 in tex"
+  },
+
+  "tex_i_1": {
+    "prefix": "i1",
+    "body": ["\\$i_1\\$ "],
+    "description": "i_1 in tex"
+  },
+
+  "tex_i_2": {
+    "prefix": "i2",
+    "body": ["\\$i_2\\$ "],
+    "description": "i_2 in tex"
+  },
+
+  "tex_i_3": {
+    "prefix": "i3",
+    "body": ["\\$i_3\\$ "],
+    "description": "i_3 in tex"
+  },
+
+  "tex_i_a": {
+    "prefix": "ia",
+    "body": ["\\$i_a\\$ "],
+    "description": "i_a in tex"
+  },
+
+  "tex_i_b": {
+    "prefix": "ib",
+    "body": ["\\$i_b\\$ "],
+    "description": "i_b in tex"
+  },
+
+  "tex_i_c": {
+    "prefix": "ic",
+    "body": ["\\$i_c\\$ "],
+    "description": "i_c in tex"
+  },
+
+  "tex_i_d": {
+    "prefix": "id",
+    "body": ["\\$i_d\\$ "],
+    "description": "i_d in tex"
+  },
+
+  "tex_i_e": {
+    "prefix": "ie",
+    "body": ["\\$i_e\\$ "],
+    "description": "i_e in tex"
+  },
+
+  "tex_i_f": {
+    "prefix": "if",
+    "body": ["\\$i_f\\$ "],
+    "description": "i_f in tex"
+  },
+
+  "tex_i_g": {
+    "prefix": "ig",
+    "body": ["\\$i_g\\$ "],
+    "description": "i_g in tex"
+  },
+
+  "tex_i_h": {
+    "prefix": "ih",
+    "body": ["\\$i_h\\$ "],
+    "description": "i_h in tex"
+  },
+
+  "tex_i_i": {
+    "prefix": "ii",
+    "body": ["\\$i_i\\$ "],
+    "description": "i_i in tex"
+  },
+
+  "tex_i_j": {
+    "prefix": "ij",
+    "body": ["\\$i_j\\$ "],
+    "description": "i_j in tex"
+  },
+
+  "tex_i_k": {
+    "prefix": "ik",
+    "body": ["\\$i_k\\$ "],
+    "description": "i_k in tex"
+  },
+
+  "tex_i_l": {
+    "prefix": "il",
+    "body": ["\\$i_l\\$ "],
+    "description": "i_l in tex"
+  },
+
+  "tex_i_m": {
+    "prefix": "im",
+    "body": ["\\$i_m\\$ "],
+    "description": "i_m in tex"
+  },
+
+  "tex_i_n": {
+    "prefix": "in",
+    "body": ["\\$i_n\\$ "],
+    "description": "i_n in tex"
+  },
+
+  "tex_i_o": {
+    "prefix": "io",
+    "body": ["\\$i_o\\$ "],
+    "description": "i_o in tex"
+  },
+
+  "tex_i_p": {
+    "prefix": "ip",
+    "body": ["\\$i_p\\$ "],
+    "description": "i_p in tex"
+  },
+
+  "tex_i_q": {
+    "prefix": "iq",
+    "body": ["\\$i_q\\$ "],
+    "description": "i_q in tex"
+  },
+
+  "tex_i_r": {
+    "prefix": "ir",
+    "body": ["\\$i_r\\$ "],
+    "description": "i_r in tex"
+  },
+
+  "tex_i_s": {
+    "prefix": "is",
+    "body": ["\\$i_s\\$ "],
+    "description": "i_s in tex"
+  },
+
+  "tex_i_t": {
+    "prefix": "it",
+    "body": ["\\$i_t\\$ "],
+    "description": "i_t in tex"
+  },
+
+  "tex_i_u": {
+    "prefix": "iu",
+    "body": ["\\$i_u\\$ "],
+    "description": "i_u in tex"
+  },
+
+  "tex_i_v": {
+    "prefix": "iv",
+    "body": ["\\$i_v\\$ "],
+    "description": "i_v in tex"
+  },
+
+  "tex_i_w": {
+    "prefix": "iw",
+    "body": ["\\$i_w\\$ "],
+    "description": "i_w in tex"
+  },
+
+  "tex_i_x": {
+    "prefix": "ix",
+    "body": ["\\$i_x\\$ "],
+    "description": "i_x in tex"
+  },
+
+  "tex_i_y": {
+    "prefix": "iy",
+    "body": ["\\$i_y\\$ "],
+    "description": "i_y in tex"
+  },
+
+  "tex_i_z": {
+    "prefix": "iz",
+    "body": ["\\$i_z\\$ "],
+    "description": "i_z in tex"
+  },
+
+  "tex_I": {
+    "prefix": "I",
+    "body": ["\\$I\\$ "],
+    "description": "I in tex"
+  },
+
+  "tex_I_0": {
+    "prefix": "I0",
+    "body": ["\\$I_0\\$ "],
+    "description": "I_0 in tex"
+  },
+
+  "tex_I_1": {
+    "prefix": "I1",
+    "body": ["\\$I_1\\$ "],
+    "description": "I_1 in tex"
+  },
+
+  "tex_I_2": {
+    "prefix": "I2",
+    "body": ["\\$I_2\\$ "],
+    "description": "I_2 in tex"
+  },
+
+  "tex_I_3": {
+    "prefix": "I3",
+    "body": ["\\$I_3\\$ "],
+    "description": "I_3 in tex"
+  },
+
+  "tex_I_a": {
+    "prefix": "Ia",
+    "body": ["\\$I_a\\$ "],
+    "description": "I_a in tex"
+  },
+
+  "tex_I_b": {
+    "prefix": "Ib",
+    "body": ["\\$I_b\\$ "],
+    "description": "I_b in tex"
+  },
+
+  "tex_I_c": {
+    "prefix": "Ic",
+    "body": ["\\$I_c\\$ "],
+    "description": "I_c in tex"
+  },
+
+  "tex_I_d": {
+    "prefix": "Id",
+    "body": ["\\$I_d\\$ "],
+    "description": "I_d in tex"
+  },
+
+  "tex_I_e": {
+    "prefix": "Ie",
+    "body": ["\\$I_e\\$ "],
+    "description": "I_e in tex"
+  },
+
+  "tex_I_f": {
+    "prefix": "If",
+    "body": ["\\$I_f\\$ "],
+    "description": "I_f in tex"
+  },
+
+  "tex_I_g": {
+    "prefix": "Ig",
+    "body": ["\\$I_g\\$ "],
+    "description": "I_g in tex"
+  },
+
+  "tex_I_h": {
+    "prefix": "Ih",
+    "body": ["\\$I_h\\$ "],
+    "description": "I_h in tex"
+  },
+
+  "tex_I_i": {
+    "prefix": "Ii",
+    "body": ["\\$I_i\\$ "],
+    "description": "I_i in tex"
+  },
+
+  "tex_I_j": {
+    "prefix": "Ij",
+    "body": ["\\$I_j\\$ "],
+    "description": "I_j in tex"
+  },
+
+  "tex_I_k": {
+    "prefix": "Ik",
+    "body": ["\\$I_k\\$ "],
+    "description": "I_k in tex"
+  },
+
+  "tex_I_l": {
+    "prefix": "Il",
+    "body": ["\\$I_l\\$ "],
+    "description": "I_l in tex"
+  },
+
+  "tex_I_m": {
+    "prefix": "Im",
+    "body": ["\\$I_m\\$ "],
+    "description": "I_m in tex"
+  },
+
+  "tex_I_n": {
+    "prefix": "In",
+    "body": ["\\$I_n\\$ "],
+    "description": "I_n in tex"
+  },
+
+  "tex_I_o": {
+    "prefix": "Io",
+    "body": ["\\$I_o\\$ "],
+    "description": "I_o in tex"
+  },
+
+  "tex_I_p": {
+    "prefix": "Ip",
+    "body": ["\\$I_p\\$ "],
+    "description": "I_p in tex"
+  },
+
+  "tex_I_q": {
+    "prefix": "Iq",
+    "body": ["\\$I_q\\$ "],
+    "description": "I_q in tex"
+  },
+
+  "tex_I_r": {
+    "prefix": "Ir",
+    "body": ["\\$I_r\\$ "],
+    "description": "I_r in tex"
+  },
+
+  "tex_I_s": {
+    "prefix": "Is",
+    "body": ["\\$I_s\\$ "],
+    "description": "I_s in tex"
+  },
+
+  "tex_I_t": {
+    "prefix": "It",
+    "body": ["\\$I_t\\$ "],
+    "description": "I_t in tex"
+  },
+
+  "tex_I_u": {
+    "prefix": "Iu",
+    "body": ["\\$I_u\\$ "],
+    "description": "I_u in tex"
+  },
+
+  "tex_I_v": {
+    "prefix": "Iv",
+    "body": ["\\$I_v\\$ "],
+    "description": "I_v in tex"
+  },
+
+  "tex_I_w": {
+    "prefix": "Iw",
+    "body": ["\\$I_w\\$ "],
+    "description": "I_w in tex"
+  },
+
+  "tex_I_x": {
+    "prefix": "Ix",
+    "body": ["\\$I_x\\$ "],
+    "description": "I_x in tex"
+  },
+
+  "tex_I_y": {
+    "prefix": "Iy",
+    "body": ["\\$I_y\\$ "],
+    "description": "I_y in tex"
+  },
+
+  "tex_I_z": {
+    "prefix": "Iz",
+    "body": ["\\$I_z\\$ "],
+    "description": "I_z in tex"
+  },
+
+  "tex_j": {
+    "prefix": "j",
+    "body": ["\\$j\\$ "],
+    "description": "j in tex"
+  },
+
+  "tex_j_0": {
+    "prefix": "j0",
+    "body": ["\\$j_0\\$ "],
+    "description": "j_0 in tex"
+  },
+
+  "tex_j_1": {
+    "prefix": "j1",
+    "body": ["\\$j_1\\$ "],
+    "description": "j_1 in tex"
+  },
+
+  "tex_j_2": {
+    "prefix": "j2",
+    "body": ["\\$j_2\\$ "],
+    "description": "j_2 in tex"
+  },
+
+  "tex_j_3": {
+    "prefix": "j3",
+    "body": ["\\$j_3\\$ "],
+    "description": "j_3 in tex"
+  },
+
+  "tex_j_a": {
+    "prefix": "ja",
+    "body": ["\\$j_a\\$ "],
+    "description": "j_a in tex"
+  },
+
+  "tex_j_b": {
+    "prefix": "jb",
+    "body": ["\\$j_b\\$ "],
+    "description": "j_b in tex"
+  },
+
+  "tex_j_c": {
+    "prefix": "jc",
+    "body": ["\\$j_c\\$ "],
+    "description": "j_c in tex"
+  },
+
+  "tex_j_d": {
+    "prefix": "jd",
+    "body": ["\\$j_d\\$ "],
+    "description": "j_d in tex"
+  },
+
+  "tex_j_e": {
+    "prefix": "je",
+    "body": ["\\$j_e\\$ "],
+    "description": "j_e in tex"
+  },
+
+  "tex_j_f": {
+    "prefix": "jf",
+    "body": ["\\$j_f\\$ "],
+    "description": "j_f in tex"
+  },
+
+  "tex_j_g": {
+    "prefix": "jg",
+    "body": ["\\$j_g\\$ "],
+    "description": "j_g in tex"
+  },
+
+  "tex_j_h": {
+    "prefix": "jh",
+    "body": ["\\$j_h\\$ "],
+    "description": "j_h in tex"
+  },
+
+  "tex_j_i": {
+    "prefix": "ji",
+    "body": ["\\$j_i\\$ "],
+    "description": "j_i in tex"
+  },
+
+  "tex_j_j": {
+    "prefix": "jj",
+    "body": ["\\$j_j\\$ "],
+    "description": "j_j in tex"
+  },
+
+  "tex_j_k": {
+    "prefix": "jk",
+    "body": ["\\$j_k\\$ "],
+    "description": "j_k in tex"
+  },
+
+  "tex_j_l": {
+    "prefix": "jl",
+    "body": ["\\$j_l\\$ "],
+    "description": "j_l in tex"
+  },
+
+  "tex_j_m": {
+    "prefix": "jm",
+    "body": ["\\$j_m\\$ "],
+    "description": "j_m in tex"
+  },
+
+  "tex_j_n": {
+    "prefix": "jn",
+    "body": ["\\$j_n\\$ "],
+    "description": "j_n in tex"
+  },
+
+  "tex_j_o": {
+    "prefix": "jo",
+    "body": ["\\$j_o\\$ "],
+    "description": "j_o in tex"
+  },
+
+  "tex_j_p": {
+    "prefix": "jp",
+    "body": ["\\$j_p\\$ "],
+    "description": "j_p in tex"
+  },
+
+  "tex_j_q": {
+    "prefix": "jq",
+    "body": ["\\$j_q\\$ "],
+    "description": "j_q in tex"
+  },
+
+  "tex_j_r": {
+    "prefix": "jr",
+    "body": ["\\$j_r\\$ "],
+    "description": "j_r in tex"
+  },
+
+  "tex_j_s": {
+    "prefix": "js",
+    "body": ["\\$j_s\\$ "],
+    "description": "j_s in tex"
+  },
+
+  "tex_j_t": {
+    "prefix": "jt",
+    "body": ["\\$j_t\\$ "],
+    "description": "j_t in tex"
+  },
+
+  "tex_j_u": {
+    "prefix": "ju",
+    "body": ["\\$j_u\\$ "],
+    "description": "j_u in tex"
+  },
+
+  "tex_j_v": {
+    "prefix": "jv",
+    "body": ["\\$j_v\\$ "],
+    "description": "j_v in tex"
+  },
+
+  "tex_j_w": {
+    "prefix": "jw",
+    "body": ["\\$j_w\\$ "],
+    "description": "j_w in tex"
+  },
+
+  "tex_j_x": {
+    "prefix": "jx",
+    "body": ["\\$j_x\\$ "],
+    "description": "j_x in tex"
+  },
+
+  "tex_j_y": {
+    "prefix": "jy",
+    "body": ["\\$j_y\\$ "],
+    "description": "j_y in tex"
+  },
+
+  "tex_j_z": {
+    "prefix": "jz",
+    "body": ["\\$j_z\\$ "],
+    "description": "j_z in tex"
+  },
+
+  "tex_J": {
+    "prefix": "J",
+    "body": ["\\$J\\$ "],
+    "description": "J in tex"
+  },
+
+  "tex_J_0": {
+    "prefix": "J0",
+    "body": ["\\$J_0\\$ "],
+    "description": "J_0 in tex"
+  },
+
+  "tex_J_1": {
+    "prefix": "J1",
+    "body": ["\\$J_1\\$ "],
+    "description": "J_1 in tex"
+  },
+
+  "tex_J_2": {
+    "prefix": "J2",
+    "body": ["\\$J_2\\$ "],
+    "description": "J_2 in tex"
+  },
+
+  "tex_J_3": {
+    "prefix": "J3",
+    "body": ["\\$J_3\\$ "],
+    "description": "J_3 in tex"
+  },
+
+  "tex_J_a": {
+    "prefix": "Ja",
+    "body": ["\\$J_a\\$ "],
+    "description": "J_a in tex"
+  },
+
+  "tex_J_b": {
+    "prefix": "Jb",
+    "body": ["\\$J_b\\$ "],
+    "description": "J_b in tex"
+  },
+
+  "tex_J_c": {
+    "prefix": "Jc",
+    "body": ["\\$J_c\\$ "],
+    "description": "J_c in tex"
+  },
+
+  "tex_J_d": {
+    "prefix": "Jd",
+    "body": ["\\$J_d\\$ "],
+    "description": "J_d in tex"
+  },
+
+  "tex_J_e": {
+    "prefix": "Je",
+    "body": ["\\$J_e\\$ "],
+    "description": "J_e in tex"
+  },
+
+  "tex_J_f": {
+    "prefix": "Jf",
+    "body": ["\\$J_f\\$ "],
+    "description": "J_f in tex"
+  },
+
+  "tex_J_g": {
+    "prefix": "Jg",
+    "body": ["\\$J_g\\$ "],
+    "description": "J_g in tex"
+  },
+
+  "tex_J_h": {
+    "prefix": "Jh",
+    "body": ["\\$J_h\\$ "],
+    "description": "J_h in tex"
+  },
+
+  "tex_J_i": {
+    "prefix": "Ji",
+    "body": ["\\$J_i\\$ "],
+    "description": "J_i in tex"
+  },
+
+  "tex_J_j": {
+    "prefix": "Jj",
+    "body": ["\\$J_j\\$ "],
+    "description": "J_j in tex"
+  },
+
+  "tex_J_k": {
+    "prefix": "Jk",
+    "body": ["\\$J_k\\$ "],
+    "description": "J_k in tex"
+  },
+
+  "tex_J_l": {
+    "prefix": "Jl",
+    "body": ["\\$J_l\\$ "],
+    "description": "J_l in tex"
+  },
+
+  "tex_J_m": {
+    "prefix": "Jm",
+    "body": ["\\$J_m\\$ "],
+    "description": "J_m in tex"
+  },
+
+  "tex_J_n": {
+    "prefix": "Jn",
+    "body": ["\\$J_n\\$ "],
+    "description": "J_n in tex"
+  },
+
+  "tex_J_o": {
+    "prefix": "Jo",
+    "body": ["\\$J_o\\$ "],
+    "description": "J_o in tex"
+  },
+
+  "tex_J_p": {
+    "prefix": "Jp",
+    "body": ["\\$J_p\\$ "],
+    "description": "J_p in tex"
+  },
+
+  "tex_J_q": {
+    "prefix": "Jq",
+    "body": ["\\$J_q\\$ "],
+    "description": "J_q in tex"
+  },
+
+  "tex_J_r": {
+    "prefix": "Jr",
+    "body": ["\\$J_r\\$ "],
+    "description": "J_r in tex"
+  },
+
+  "tex_J_s": {
+    "prefix": "Js",
+    "body": ["\\$J_s\\$ "],
+    "description": "J_s in tex"
+  },
+
+  "tex_J_t": {
+    "prefix": "Jt",
+    "body": ["\\$J_t\\$ "],
+    "description": "J_t in tex"
+  },
+
+  "tex_J_u": {
+    "prefix": "Ju",
+    "body": ["\\$J_u\\$ "],
+    "description": "J_u in tex"
+  },
+
+  "tex_J_v": {
+    "prefix": "Jv",
+    "body": ["\\$J_v\\$ "],
+    "description": "J_v in tex"
+  },
+
+  "tex_J_w": {
+    "prefix": "Jw",
+    "body": ["\\$J_w\\$ "],
+    "description": "J_w in tex"
+  },
+
+  "tex_J_x": {
+    "prefix": "Jx",
+    "body": ["\\$J_x\\$ "],
+    "description": "J_x in tex"
+  },
+
+  "tex_J_y": {
+    "prefix": "Jy",
+    "body": ["\\$J_y\\$ "],
+    "description": "J_y in tex"
+  },
+
+  "tex_J_z": {
+    "prefix": "Jz",
+    "body": ["\\$J_z\\$ "],
+    "description": "J_z in tex"
+  },
+
+  "tex_k": {
+    "prefix": "k",
+    "body": ["\\$k\\$ "],
+    "description": "k in tex"
+  },
+
+  "tex_k_0": {
+    "prefix": "k0",
+    "body": ["\\$k_0\\$ "],
+    "description": "k_0 in tex"
+  },
+
+  "tex_k_1": {
+    "prefix": "k1",
+    "body": ["\\$k_1\\$ "],
+    "description": "k_1 in tex"
+  },
+
+  "tex_k_2": {
+    "prefix": "k2",
+    "body": ["\\$k_2\\$ "],
+    "description": "k_2 in tex"
+  },
+
+  "tex_k_3": {
+    "prefix": "k3",
+    "body": ["\\$k_3\\$ "],
+    "description": "k_3 in tex"
+  },
+
+  "tex_k_a": {
+    "prefix": "ka",
+    "body": ["\\$k_a\\$ "],
+    "description": "k_a in tex"
+  },
+
+  "tex_k_b": {
+    "prefix": "kb",
+    "body": ["\\$k_b\\$ "],
+    "description": "k_b in tex"
+  },
+
+  "tex_k_c": {
+    "prefix": "kc",
+    "body": ["\\$k_c\\$ "],
+    "description": "k_c in tex"
+  },
+
+  "tex_k_d": {
+    "prefix": "kd",
+    "body": ["\\$k_d\\$ "],
+    "description": "k_d in tex"
+  },
+
+  "tex_k_e": {
+    "prefix": "ke",
+    "body": ["\\$k_e\\$ "],
+    "description": "k_e in tex"
+  },
+
+  "tex_k_f": {
+    "prefix": "kf",
+    "body": ["\\$k_f\\$ "],
+    "description": "k_f in tex"
+  },
+
+  "tex_k_g": {
+    "prefix": "kg",
+    "body": ["\\$k_g\\$ "],
+    "description": "k_g in tex"
+  },
+
+  "tex_k_h": {
+    "prefix": "kh",
+    "body": ["\\$k_h\\$ "],
+    "description": "k_h in tex"
+  },
+
+  "tex_k_i": {
+    "prefix": "ki",
+    "body": ["\\$k_i\\$ "],
+    "description": "k_i in tex"
+  },
+
+  "tex_k_j": {
+    "prefix": "kj",
+    "body": ["\\$k_j\\$ "],
+    "description": "k_j in tex"
+  },
+
+  "tex_k_k": {
+    "prefix": "kk",
+    "body": ["\\$k_k\\$ "],
+    "description": "k_k in tex"
+  },
+
+  "tex_k_l": {
+    "prefix": "kl",
+    "body": ["\\$k_l\\$ "],
+    "description": "k_l in tex"
+  },
+
+  "tex_k_m": {
+    "prefix": "km",
+    "body": ["\\$k_m\\$ "],
+    "description": "k_m in tex"
+  },
+
+  "tex_k_n": {
+    "prefix": "kn",
+    "body": ["\\$k_n\\$ "],
+    "description": "k_n in tex"
+  },
+
+  "tex_k_o": {
+    "prefix": "ko",
+    "body": ["\\$k_o\\$ "],
+    "description": "k_o in tex"
+  },
+
+  "tex_k_p": {
+    "prefix": "kp",
+    "body": ["\\$k_p\\$ "],
+    "description": "k_p in tex"
+  },
+
+  "tex_k_q": {
+    "prefix": "kq",
+    "body": ["\\$k_q\\$ "],
+    "description": "k_q in tex"
+  },
+
+  "tex_k_r": {
+    "prefix": "kr",
+    "body": ["\\$k_r\\$ "],
+    "description": "k_r in tex"
+  },
+
+  "tex_k_s": {
+    "prefix": "ks",
+    "body": ["\\$k_s\\$ "],
+    "description": "k_s in tex"
+  },
+
+  "tex_k_t": {
+    "prefix": "kt",
+    "body": ["\\$k_t\\$ "],
+    "description": "k_t in tex"
+  },
+
+  "tex_k_u": {
+    "prefix": "ku",
+    "body": ["\\$k_u\\$ "],
+    "description": "k_u in tex"
+  },
+
+  "tex_k_v": {
+    "prefix": "kv",
+    "body": ["\\$k_v\\$ "],
+    "description": "k_v in tex"
+  },
+
+  "tex_k_w": {
+    "prefix": "kw",
+    "body": ["\\$k_w\\$ "],
+    "description": "k_w in tex"
+  },
+
+  "tex_k_x": {
+    "prefix": "kx",
+    "body": ["\\$k_x\\$ "],
+    "description": "k_x in tex"
+  },
+
+  "tex_k_y": {
+    "prefix": "ky",
+    "body": ["\\$k_y\\$ "],
+    "description": "k_y in tex"
+  },
+
+  "tex_k_z": {
+    "prefix": "kz",
+    "body": ["\\$k_z\\$ "],
+    "description": "k_z in tex"
+  },
+
+  "tex_K": {
+    "prefix": "K",
+    "body": ["\\$K\\$ "],
+    "description": "K in tex"
+  },
+
+  "tex_K_0": {
+    "prefix": "K0",
+    "body": ["\\$K_0\\$ "],
+    "description": "K_0 in tex"
+  },
+
+  "tex_K_1": {
+    "prefix": "K1",
+    "body": ["\\$K_1\\$ "],
+    "description": "K_1 in tex"
+  },
+
+  "tex_K_2": {
+    "prefix": "K2",
+    "body": ["\\$K_2\\$ "],
+    "description": "K_2 in tex"
+  },
+
+  "tex_K_3": {
+    "prefix": "K3",
+    "body": ["\\$K_3\\$ "],
+    "description": "K_3 in tex"
+  },
+
+  "tex_K_a": {
+    "prefix": "Ka",
+    "body": ["\\$K_a\\$ "],
+    "description": "K_a in tex"
+  },
+
+  "tex_K_b": {
+    "prefix": "Kb",
+    "body": ["\\$K_b\\$ "],
+    "description": "K_b in tex"
+  },
+
+  "tex_K_c": {
+    "prefix": "Kc",
+    "body": ["\\$K_c\\$ "],
+    "description": "K_c in tex"
+  },
+
+  "tex_K_d": {
+    "prefix": "Kd",
+    "body": ["\\$K_d\\$ "],
+    "description": "K_d in tex"
+  },
+
+  "tex_K_e": {
+    "prefix": "Ke",
+    "body": ["\\$K_e\\$ "],
+    "description": "K_e in tex"
+  },
+
+  "tex_K_f": {
+    "prefix": "Kf",
+    "body": ["\\$K_f\\$ "],
+    "description": "K_f in tex"
+  },
+
+  "tex_K_g": {
+    "prefix": "Kg",
+    "body": ["\\$K_g\\$ "],
+    "description": "K_g in tex"
+  },
+
+  "tex_K_h": {
+    "prefix": "Kh",
+    "body": ["\\$K_h\\$ "],
+    "description": "K_h in tex"
+  },
+
+  "tex_K_i": {
+    "prefix": "Ki",
+    "body": ["\\$K_i\\$ "],
+    "description": "K_i in tex"
+  },
+
+  "tex_K_j": {
+    "prefix": "Kj",
+    "body": ["\\$K_j\\$ "],
+    "description": "K_j in tex"
+  },
+
+  "tex_K_k": {
+    "prefix": "Kk",
+    "body": ["\\$K_k\\$ "],
+    "description": "K_k in tex"
+  },
+
+  "tex_K_l": {
+    "prefix": "Kl",
+    "body": ["\\$K_l\\$ "],
+    "description": "K_l in tex"
+  },
+
+  "tex_K_m": {
+    "prefix": "Km",
+    "body": ["\\$K_m\\$ "],
+    "description": "K_m in tex"
+  },
+
+  "tex_K_n": {
+    "prefix": "Kn",
+    "body": ["\\$K_n\\$ "],
+    "description": "K_n in tex"
+  },
+
+  "tex_K_o": {
+    "prefix": "Ko",
+    "body": ["\\$K_o\\$ "],
+    "description": "K_o in tex"
+  },
+
+  "tex_K_p": {
+    "prefix": "Kp",
+    "body": ["\\$K_p\\$ "],
+    "description": "K_p in tex"
+  },
+
+  "tex_K_q": {
+    "prefix": "Kq",
+    "body": ["\\$K_q\\$ "],
+    "description": "K_q in tex"
+  },
+
+  "tex_K_r": {
+    "prefix": "Kr",
+    "body": ["\\$K_r\\$ "],
+    "description": "K_r in tex"
+  },
+
+  "tex_K_s": {
+    "prefix": "Ks",
+    "body": ["\\$K_s\\$ "],
+    "description": "K_s in tex"
+  },
+
+  "tex_K_t": {
+    "prefix": "Kt",
+    "body": ["\\$K_t\\$ "],
+    "description": "K_t in tex"
+  },
+
+  "tex_K_u": {
+    "prefix": "Ku",
+    "body": ["\\$K_u\\$ "],
+    "description": "K_u in tex"
+  },
+
+  "tex_K_v": {
+    "prefix": "Kv",
+    "body": ["\\$K_v\\$ "],
+    "description": "K_v in tex"
+  },
+
+  "tex_K_w": {
+    "prefix": "Kw",
+    "body": ["\\$K_w\\$ "],
+    "description": "K_w in tex"
+  },
+
+  "tex_K_x": {
+    "prefix": "Kx",
+    "body": ["\\$K_x\\$ "],
+    "description": "K_x in tex"
+  },
+
+  "tex_K_y": {
+    "prefix": "Ky",
+    "body": ["\\$K_y\\$ "],
+    "description": "K_y in tex"
+  },
+
+  "tex_K_z": {
+    "prefix": "Kz",
+    "body": ["\\$K_z\\$ "],
+    "description": "K_z in tex"
+  },
+
+  "tex_l": {
+    "prefix": "l",
+    "body": ["\\$l\\$ "],
+    "description": "l in tex"
+  },
+
+  "tex_l_0": {
+    "prefix": "l0",
+    "body": ["\\$l_0\\$ "],
+    "description": "l_0 in tex"
+  },
+
+  "tex_l_1": {
+    "prefix": "l1",
+    "body": ["\\$l_1\\$ "],
+    "description": "l_1 in tex"
+  },
+
+  "tex_l_2": {
+    "prefix": "l2",
+    "body": ["\\$l_2\\$ "],
+    "description": "l_2 in tex"
+  },
+
+  "tex_l_3": {
+    "prefix": "l3",
+    "body": ["\\$l_3\\$ "],
+    "description": "l_3 in tex"
+  },
+
+  "tex_l_a": {
+    "prefix": "la",
+    "body": ["\\$l_a\\$ "],
+    "description": "l_a in tex"
+  },
+
+  "tex_l_b": {
+    "prefix": "lb",
+    "body": ["\\$l_b\\$ "],
+    "description": "l_b in tex"
+  },
+
+  "tex_l_c": {
+    "prefix": "lc",
+    "body": ["\\$l_c\\$ "],
+    "description": "l_c in tex"
+  },
+
+  "tex_l_d": {
+    "prefix": "ld",
+    "body": ["\\$l_d\\$ "],
+    "description": "l_d in tex"
+  },
+
+  "tex_l_e": {
+    "prefix": "le",
+    "body": ["\\$l_e\\$ "],
+    "description": "l_e in tex"
+  },
+
+  "tex_l_f": {
+    "prefix": "lf",
+    "body": ["\\$l_f\\$ "],
+    "description": "l_f in tex"
+  },
+
+  "tex_l_g": {
+    "prefix": "lg",
+    "body": ["\\$l_g\\$ "],
+    "description": "l_g in tex"
+  },
+
+  "tex_l_h": {
+    "prefix": "lh",
+    "body": ["\\$l_h\\$ "],
+    "description": "l_h in tex"
+  },
+
+  "tex_l_i": {
+    "prefix": "li",
+    "body": ["\\$l_i\\$ "],
+    "description": "l_i in tex"
+  },
+
+  "tex_l_j": {
+    "prefix": "lj",
+    "body": ["\\$l_j\\$ "],
+    "description": "l_j in tex"
+  },
+
+  "tex_l_k": {
+    "prefix": "lk",
+    "body": ["\\$l_k\\$ "],
+    "description": "l_k in tex"
+  },
+
+  "tex_l_l": {
+    "prefix": "ll",
+    "body": ["\\$l_l\\$ "],
+    "description": "l_l in tex"
+  },
+
+  "tex_l_m": {
+    "prefix": "lm",
+    "body": ["\\$l_m\\$ "],
+    "description": "l_m in tex"
+  },
+
+  "tex_l_n": {
+    "prefix": "ln",
+    "body": ["\\$l_n\\$ "],
+    "description": "l_n in tex"
+  },
+
+  "tex_l_o": {
+    "prefix": "lo",
+    "body": ["\\$l_o\\$ "],
+    "description": "l_o in tex"
+  },
+
+  "tex_l_p": {
+    "prefix": "lp",
+    "body": ["\\$l_p\\$ "],
+    "description": "l_p in tex"
+  },
+
+  "tex_l_q": {
+    "prefix": "lq",
+    "body": ["\\$l_q\\$ "],
+    "description": "l_q in tex"
+  },
+
+  "tex_l_r": {
+    "prefix": "lr",
+    "body": ["\\$l_r\\$ "],
+    "description": "l_r in tex"
+  },
+
+  "tex_l_s": {
+    "prefix": "ls",
+    "body": ["\\$l_s\\$ "],
+    "description": "l_s in tex"
+  },
+
+  "tex_l_t": {
+    "prefix": "lt",
+    "body": ["\\$l_t\\$ "],
+    "description": "l_t in tex"
+  },
+
+  "tex_l_u": {
+    "prefix": "lu",
+    "body": ["\\$l_u\\$ "],
+    "description": "l_u in tex"
+  },
+
+  "tex_l_v": {
+    "prefix": "lv",
+    "body": ["\\$l_v\\$ "],
+    "description": "l_v in tex"
+  },
+
+  "tex_l_w": {
+    "prefix": "lw",
+    "body": ["\\$l_w\\$ "],
+    "description": "l_w in tex"
+  },
+
+  "tex_l_x": {
+    "prefix": "lx",
+    "body": ["\\$l_x\\$ "],
+    "description": "l_x in tex"
+  },
+
+  "tex_l_y": {
+    "prefix": "ly",
+    "body": ["\\$l_y\\$ "],
+    "description": "l_y in tex"
+  },
+
+  "tex_l_z": {
+    "prefix": "lz",
+    "body": ["\\$l_z\\$ "],
+    "description": "l_z in tex"
+  },
+
+  "tex_L": {
+    "prefix": "L",
+    "body": ["\\$L\\$ "],
+    "description": "L in tex"
+  },
+
+  "tex_L_0": {
+    "prefix": "L0",
+    "body": ["\\$L_0\\$ "],
+    "description": "L_0 in tex"
+  },
+
+  "tex_L_1": {
+    "prefix": "L1",
+    "body": ["\\$L_1\\$ "],
+    "description": "L_1 in tex"
+  },
+
+  "tex_L_2": {
+    "prefix": "L2",
+    "body": ["\\$L_2\\$ "],
+    "description": "L_2 in tex"
+  },
+
+  "tex_L_3": {
+    "prefix": "L3",
+    "body": ["\\$L_3\\$ "],
+    "description": "L_3 in tex"
+  },
+
+  "tex_L_a": {
+    "prefix": "La",
+    "body": ["\\$L_a\\$ "],
+    "description": "L_a in tex"
+  },
+
+  "tex_L_b": {
+    "prefix": "Lb",
+    "body": ["\\$L_b\\$ "],
+    "description": "L_b in tex"
+  },
+
+  "tex_L_c": {
+    "prefix": "Lc",
+    "body": ["\\$L_c\\$ "],
+    "description": "L_c in tex"
+  },
+
+  "tex_L_d": {
+    "prefix": "Ld",
+    "body": ["\\$L_d\\$ "],
+    "description": "L_d in tex"
+  },
+
+  "tex_L_e": {
+    "prefix": "Le",
+    "body": ["\\$L_e\\$ "],
+    "description": "L_e in tex"
+  },
+
+  "tex_L_f": {
+    "prefix": "Lf",
+    "body": ["\\$L_f\\$ "],
+    "description": "L_f in tex"
+  },
+
+  "tex_L_g": {
+    "prefix": "Lg",
+    "body": ["\\$L_g\\$ "],
+    "description": "L_g in tex"
+  },
+
+  "tex_L_h": {
+    "prefix": "Lh",
+    "body": ["\\$L_h\\$ "],
+    "description": "L_h in tex"
+  },
+
+  "tex_L_i": {
+    "prefix": "Li",
+    "body": ["\\$L_i\\$ "],
+    "description": "L_i in tex"
+  },
+
+  "tex_L_j": {
+    "prefix": "Lj",
+    "body": ["\\$L_j\\$ "],
+    "description": "L_j in tex"
+  },
+
+  "tex_L_k": {
+    "prefix": "Lk",
+    "body": ["\\$L_k\\$ "],
+    "description": "L_k in tex"
+  },
+
+  "tex_L_l": {
+    "prefix": "Ll",
+    "body": ["\\$L_l\\$ "],
+    "description": "L_l in tex"
+  },
+
+  "tex_L_m": {
+    "prefix": "Lm",
+    "body": ["\\$L_m\\$ "],
+    "description": "L_m in tex"
+  },
+
+  "tex_L_n": {
+    "prefix": "Ln",
+    "body": ["\\$L_n\\$ "],
+    "description": "L_n in tex"
+  },
+
+  "tex_L_o": {
+    "prefix": "Lo",
+    "body": ["\\$L_o\\$ "],
+    "description": "L_o in tex"
+  },
+
+  "tex_L_p": {
+    "prefix": "Lp",
+    "body": ["\\$L_p\\$ "],
+    "description": "L_p in tex"
+  },
+
+  "tex_L_q": {
+    "prefix": "Lq",
+    "body": ["\\$L_q\\$ "],
+    "description": "L_q in tex"
+  },
+
+  "tex_L_r": {
+    "prefix": "Lr",
+    "body": ["\\$L_r\\$ "],
+    "description": "L_r in tex"
+  },
+
+  "tex_L_s": {
+    "prefix": "Ls",
+    "body": ["\\$L_s\\$ "],
+    "description": "L_s in tex"
+  },
+
+  "tex_L_t": {
+    "prefix": "Lt",
+    "body": ["\\$L_t\\$ "],
+    "description": "L_t in tex"
+  },
+
+  "tex_L_u": {
+    "prefix": "Lu",
+    "body": ["\\$L_u\\$ "],
+    "description": "L_u in tex"
+  },
+
+  "tex_L_v": {
+    "prefix": "Lv",
+    "body": ["\\$L_v\\$ "],
+    "description": "L_v in tex"
+  },
+
+  "tex_L_w": {
+    "prefix": "Lw",
+    "body": ["\\$L_w\\$ "],
+    "description": "L_w in tex"
+  },
+
+  "tex_L_x": {
+    "prefix": "Lx",
+    "body": ["\\$L_x\\$ "],
+    "description": "L_x in tex"
+  },
+
+  "tex_L_y": {
+    "prefix": "Ly",
+    "body": ["\\$L_y\\$ "],
+    "description": "L_y in tex"
+  },
+
+  "tex_L_z": {
+    "prefix": "Lz",
+    "body": ["\\$L_z\\$ "],
+    "description": "L_z in tex"
+  },
+
+  "tex_m": {
+    "prefix": "m",
+    "body": ["\\$m\\$ "],
+    "description": "m in tex"
+  },
+
+  "tex_m_0": {
+    "prefix": "m0",
+    "body": ["\\$m_0\\$ "],
+    "description": "m_0 in tex"
+  },
+
+  "tex_m_1": {
+    "prefix": "m1",
+    "body": ["\\$m_1\\$ "],
+    "description": "m_1 in tex"
+  },
+
+  "tex_m_2": {
+    "prefix": "m2",
+    "body": ["\\$m_2\\$ "],
+    "description": "m_2 in tex"
+  },
+
+  "tex_m_3": {
+    "prefix": "m3",
+    "body": ["\\$m_3\\$ "],
+    "description": "m_3 in tex"
+  },
+
+  "tex_m_a": {
+    "prefix": "ma",
+    "body": ["\\$m_a\\$ "],
+    "description": "m_a in tex"
+  },
+
+  "tex_m_b": {
+    "prefix": "mb",
+    "body": ["\\$m_b\\$ "],
+    "description": "m_b in tex"
+  },
+
+  "tex_m_c": {
+    "prefix": "mc",
+    "body": ["\\$m_c\\$ "],
+    "description": "m_c in tex"
+  },
+
+  "tex_m_d": {
+    "prefix": "md",
+    "body": ["\\$m_d\\$ "],
+    "description": "m_d in tex"
+  },
+
+  "tex_m_e": {
+    "prefix": "me",
+    "body": ["\\$m_e\\$ "],
+    "description": "m_e in tex"
+  },
+
+  "tex_m_f": {
+    "prefix": "mf",
+    "body": ["\\$m_f\\$ "],
+    "description": "m_f in tex"
+  },
+
+  "tex_m_g": {
+    "prefix": "mg",
+    "body": ["\\$m_g\\$ "],
+    "description": "m_g in tex"
+  },
+
+  "tex_m_h": {
+    "prefix": "mh",
+    "body": ["\\$m_h\\$ "],
+    "description": "m_h in tex"
+  },
+
+  "tex_m_i": {
+    "prefix": "mi",
+    "body": ["\\$m_i\\$ "],
+    "description": "m_i in tex"
+  },
+
+  "tex_m_j": {
+    "prefix": "mj",
+    "body": ["\\$m_j\\$ "],
+    "description": "m_j in tex"
+  },
+
+  "tex_m_k": {
+    "prefix": "mk",
+    "body": ["\\$m_k\\$ "],
+    "description": "m_k in tex"
+  },
+
+  "tex_m_l": {
+    "prefix": "ml",
+    "body": ["\\$m_l\\$ "],
+    "description": "m_l in tex"
+  },
+
+  "tex_m_m": {
+    "prefix": "mm",
+    "body": ["\\$m_m\\$ "],
+    "description": "m_m in tex"
+  },
+
+  "tex_m_n": {
+    "prefix": "mn",
+    "body": ["\\$m_n\\$ "],
+    "description": "m_n in tex"
+  },
+
+  "tex_m_o": {
+    "prefix": "mo",
+    "body": ["\\$m_o\\$ "],
+    "description": "m_o in tex"
+  },
+
+  "tex_m_p": {
+    "prefix": "mp",
+    "body": ["\\$m_p\\$ "],
+    "description": "m_p in tex"
+  },
+
+  "tex_m_q": {
+    "prefix": "mq",
+    "body": ["\\$m_q\\$ "],
+    "description": "m_q in tex"
+  },
+
+  "tex_m_r": {
+    "prefix": "mr",
+    "body": ["\\$m_r\\$ "],
+    "description": "m_r in tex"
+  },
+
+  "tex_m_s": {
+    "prefix": "ms",
+    "body": ["\\$m_s\\$ "],
+    "description": "m_s in tex"
+  },
+
+  "tex_m_t": {
+    "prefix": "mt",
+    "body": ["\\$m_t\\$ "],
+    "description": "m_t in tex"
+  },
+
+  "tex_m_u": {
+    "prefix": "mu",
+    "body": ["\\$m_u\\$ "],
+    "description": "m_u in tex"
+  },
+
+  "tex_m_v": {
+    "prefix": "mv",
+    "body": ["\\$m_v\\$ "],
+    "description": "m_v in tex"
+  },
+
+  "tex_m_w": {
+    "prefix": "mw",
+    "body": ["\\$m_w\\$ "],
+    "description": "m_w in tex"
+  },
+
+  "tex_m_x": {
+    "prefix": "mx",
+    "body": ["\\$m_x\\$ "],
+    "description": "m_x in tex"
+  },
+
+  "tex_m_y": {
+    "prefix": "my",
+    "body": ["\\$m_y\\$ "],
+    "description": "m_y in tex"
+  },
+
+  "tex_m_z": {
+    "prefix": "mz",
+    "body": ["\\$m_z\\$ "],
+    "description": "m_z in tex"
+  },
+
+  "tex_M": {
+    "prefix": "M",
+    "body": ["\\$M\\$ "],
+    "description": "M in tex"
+  },
+
+  "tex_M_0": {
+    "prefix": "M0",
+    "body": ["\\$M_0\\$ "],
+    "description": "M_0 in tex"
+  },
+
+  "tex_M_1": {
+    "prefix": "M1",
+    "body": ["\\$M_1\\$ "],
+    "description": "M_1 in tex"
+  },
+
+  "tex_M_2": {
+    "prefix": "M2",
+    "body": ["\\$M_2\\$ "],
+    "description": "M_2 in tex"
+  },
+
+  "tex_M_3": {
+    "prefix": "M3",
+    "body": ["\\$M_3\\$ "],
+    "description": "M_3 in tex"
+  },
+
+  "tex_M_a": {
+    "prefix": "Ma",
+    "body": ["\\$M_a\\$ "],
+    "description": "M_a in tex"
+  },
+
+  "tex_M_b": {
+    "prefix": "Mb",
+    "body": ["\\$M_b\\$ "],
+    "description": "M_b in tex"
+  },
+
+  "tex_M_c": {
+    "prefix": "Mc",
+    "body": ["\\$M_c\\$ "],
+    "description": "M_c in tex"
+  },
+
+  "tex_M_d": {
+    "prefix": "Md",
+    "body": ["\\$M_d\\$ "],
+    "description": "M_d in tex"
+  },
+
+  "tex_M_e": {
+    "prefix": "Me",
+    "body": ["\\$M_e\\$ "],
+    "description": "M_e in tex"
+  },
+
+  "tex_M_f": {
+    "prefix": "Mf",
+    "body": ["\\$M_f\\$ "],
+    "description": "M_f in tex"
+  },
+
+  "tex_M_g": {
+    "prefix": "Mg",
+    "body": ["\\$M_g\\$ "],
+    "description": "M_g in tex"
+  },
+
+  "tex_M_h": {
+    "prefix": "Mh",
+    "body": ["\\$M_h\\$ "],
+    "description": "M_h in tex"
+  },
+
+  "tex_M_i": {
+    "prefix": "Mi",
+    "body": ["\\$M_i\\$ "],
+    "description": "M_i in tex"
+  },
+
+  "tex_M_j": {
+    "prefix": "Mj",
+    "body": ["\\$M_j\\$ "],
+    "description": "M_j in tex"
+  },
+
+  "tex_M_k": {
+    "prefix": "Mk",
+    "body": ["\\$M_k\\$ "],
+    "description": "M_k in tex"
+  },
+
+  "tex_M_l": {
+    "prefix": "Ml",
+    "body": ["\\$M_l\\$ "],
+    "description": "M_l in tex"
+  },
+
+  "tex_M_m": {
+    "prefix": "Mm",
+    "body": ["\\$M_m\\$ "],
+    "description": "M_m in tex"
+  },
+
+  "tex_M_n": {
+    "prefix": "Mn",
+    "body": ["\\$M_n\\$ "],
+    "description": "M_n in tex"
+  },
+
+  "tex_M_o": {
+    "prefix": "Mo",
+    "body": ["\\$M_o\\$ "],
+    "description": "M_o in tex"
+  },
+
+  "tex_M_p": {
+    "prefix": "Mp",
+    "body": ["\\$M_p\\$ "],
+    "description": "M_p in tex"
+  },
+
+  "tex_M_q": {
+    "prefix": "Mq",
+    "body": ["\\$M_q\\$ "],
+    "description": "M_q in tex"
+  },
+
+  "tex_M_r": {
+    "prefix": "Mr",
+    "body": ["\\$M_r\\$ "],
+    "description": "M_r in tex"
+  },
+
+  "tex_M_s": {
+    "prefix": "Ms",
+    "body": ["\\$M_s\\$ "],
+    "description": "M_s in tex"
+  },
+
+  "tex_M_t": {
+    "prefix": "Mt",
+    "body": ["\\$M_t\\$ "],
+    "description": "M_t in tex"
+  },
+
+  "tex_M_u": {
+    "prefix": "Mu",
+    "body": ["\\$M_u\\$ "],
+    "description": "M_u in tex"
+  },
+
+  "tex_M_v": {
+    "prefix": "Mv",
+    "body": ["\\$M_v\\$ "],
+    "description": "M_v in tex"
+  },
+
+  "tex_M_w": {
+    "prefix": "Mw",
+    "body": ["\\$M_w\\$ "],
+    "description": "M_w in tex"
+  },
+
+  "tex_M_x": {
+    "prefix": "Mx",
+    "body": ["\\$M_x\\$ "],
+    "description": "M_x in tex"
+  },
+
+  "tex_M_y": {
+    "prefix": "My",
+    "body": ["\\$M_y\\$ "],
+    "description": "M_y in tex"
+  },
+
+  "tex_M_z": {
+    "prefix": "Mz",
+    "body": ["\\$M_z\\$ "],
+    "description": "M_z in tex"
+  },
+
+  "tex_n": {
+    "prefix": "n",
+    "body": ["\\$n\\$ "],
+    "description": "n in tex"
+  },
+
+  "tex_n_0": {
+    "prefix": "n0",
+    "body": ["\\$n_0\\$ "],
+    "description": "n_0 in tex"
+  },
+
+  "tex_n_1": {
+    "prefix": "n1",
+    "body": ["\\$n_1\\$ "],
+    "description": "n_1 in tex"
+  },
+
+  "tex_n_2": {
+    "prefix": "n2",
+    "body": ["\\$n_2\\$ "],
+    "description": "n_2 in tex"
+  },
+
+  "tex_n_3": {
+    "prefix": "n3",
+    "body": ["\\$n_3\\$ "],
+    "description": "n_3 in tex"
+  },
+
+  "tex_n_a": {
+    "prefix": "na",
+    "body": ["\\$n_a\\$ "],
+    "description": "n_a in tex"
+  },
+
+  "tex_n_b": {
+    "prefix": "nb",
+    "body": ["\\$n_b\\$ "],
+    "description": "n_b in tex"
+  },
+
+  "tex_n_c": {
+    "prefix": "nc",
+    "body": ["\\$n_c\\$ "],
+    "description": "n_c in tex"
+  },
+
+  "tex_n_d": {
+    "prefix": "nd",
+    "body": ["\\$n_d\\$ "],
+    "description": "n_d in tex"
+  },
+
+  "tex_n_e": {
+    "prefix": "ne",
+    "body": ["\\$n_e\\$ "],
+    "description": "n_e in tex"
+  },
+
+  "tex_n_f": {
+    "prefix": "nf",
+    "body": ["\\$n_f\\$ "],
+    "description": "n_f in tex"
+  },
+
+  "tex_n_g": {
+    "prefix": "ng",
+    "body": ["\\$n_g\\$ "],
+    "description": "n_g in tex"
+  },
+
+  "tex_n_h": {
+    "prefix": "nh",
+    "body": ["\\$n_h\\$ "],
+    "description": "n_h in tex"
+  },
+
+  "tex_n_i": {
+    "prefix": "ni",
+    "body": ["\\$n_i\\$ "],
+    "description": "n_i in tex"
+  },
+
+  "tex_n_j": {
+    "prefix": "nj",
+    "body": ["\\$n_j\\$ "],
+    "description": "n_j in tex"
+  },
+
+  "tex_n_k": {
+    "prefix": "nk",
+    "body": ["\\$n_k\\$ "],
+    "description": "n_k in tex"
+  },
+
+  "tex_n_l": {
+    "prefix": "nl",
+    "body": ["\\$n_l\\$ "],
+    "description": "n_l in tex"
+  },
+
+  "tex_n_m": {
+    "prefix": "nm",
+    "body": ["\\$n_m\\$ "],
+    "description": "n_m in tex"
+  },
+
+  "tex_n_n": {
+    "prefix": "nn",
+    "body": ["\\$n_n\\$ "],
+    "description": "n_n in tex"
+  },
+
+  "tex_n_o": {
+    "prefix": "no",
+    "body": ["\\$n_o\\$ "],
+    "description": "n_o in tex"
+  },
+
+  "tex_n_p": {
+    "prefix": "np",
+    "body": ["\\$n_p\\$ "],
+    "description": "n_p in tex"
+  },
+
+  "tex_n_q": {
+    "prefix": "nq",
+    "body": ["\\$n_q\\$ "],
+    "description": "n_q in tex"
+  },
+
+  "tex_n_r": {
+    "prefix": "nr",
+    "body": ["\\$n_r\\$ "],
+    "description": "n_r in tex"
+  },
+
+  "tex_n_s": {
+    "prefix": "ns",
+    "body": ["\\$n_s\\$ "],
+    "description": "n_s in tex"
+  },
+
+  "tex_n_t": {
+    "prefix": "nt",
+    "body": ["\\$n_t\\$ "],
+    "description": "n_t in tex"
+  },
+
+  "tex_n_u": {
+    "prefix": "nu",
+    "body": ["\\$n_u\\$ "],
+    "description": "n_u in tex"
+  },
+
+  "tex_n_v": {
+    "prefix": "nv",
+    "body": ["\\$n_v\\$ "],
+    "description": "n_v in tex"
+  },
+
+  "tex_n_w": {
+    "prefix": "nw",
+    "body": ["\\$n_w\\$ "],
+    "description": "n_w in tex"
+  },
+
+  "tex_n_x": {
+    "prefix": "nx",
+    "body": ["\\$n_x\\$ "],
+    "description": "n_x in tex"
+  },
+
+  "tex_n_y": {
+    "prefix": "ny",
+    "body": ["\\$n_y\\$ "],
+    "description": "n_y in tex"
+  },
+
+  "tex_n_z": {
+    "prefix": "nz",
+    "body": ["\\$n_z\\$ "],
+    "description": "n_z in tex"
+  },
+
+  "tex_N": {
+    "prefix": "N",
+    "body": ["\\$N\\$ "],
+    "description": "N in tex"
+  },
+
+  "tex_N_0": {
+    "prefix": "N0",
+    "body": ["\\$N_0\\$ "],
+    "description": "N_0 in tex"
+  },
+
+  "tex_N_1": {
+    "prefix": "N1",
+    "body": ["\\$N_1\\$ "],
+    "description": "N_1 in tex"
+  },
+
+  "tex_N_2": {
+    "prefix": "N2",
+    "body": ["\\$N_2\\$ "],
+    "description": "N_2 in tex"
+  },
+
+  "tex_N_3": {
+    "prefix": "N3",
+    "body": ["\\$N_3\\$ "],
+    "description": "N_3 in tex"
+  },
+
+  "tex_N_a": {
+    "prefix": "Na",
+    "body": ["\\$N_a\\$ "],
+    "description": "N_a in tex"
+  },
+
+  "tex_N_b": {
+    "prefix": "Nb",
+    "body": ["\\$N_b\\$ "],
+    "description": "N_b in tex"
+  },
+
+  "tex_N_c": {
+    "prefix": "Nc",
+    "body": ["\\$N_c\\$ "],
+    "description": "N_c in tex"
+  },
+
+  "tex_N_d": {
+    "prefix": "Nd",
+    "body": ["\\$N_d\\$ "],
+    "description": "N_d in tex"
+  },
+
+  "tex_N_e": {
+    "prefix": "Ne",
+    "body": ["\\$N_e\\$ "],
+    "description": "N_e in tex"
+  },
+
+  "tex_N_f": {
+    "prefix": "Nf",
+    "body": ["\\$N_f\\$ "],
+    "description": "N_f in tex"
+  },
+
+  "tex_N_g": {
+    "prefix": "Ng",
+    "body": ["\\$N_g\\$ "],
+    "description": "N_g in tex"
+  },
+
+  "tex_N_h": {
+    "prefix": "Nh",
+    "body": ["\\$N_h\\$ "],
+    "description": "N_h in tex"
+  },
+
+  "tex_N_i": {
+    "prefix": "Ni",
+    "body": ["\\$N_i\\$ "],
+    "description": "N_i in tex"
+  },
+
+  "tex_N_j": {
+    "prefix": "Nj",
+    "body": ["\\$N_j\\$ "],
+    "description": "N_j in tex"
+  },
+
+  "tex_N_k": {
+    "prefix": "Nk",
+    "body": ["\\$N_k\\$ "],
+    "description": "N_k in tex"
+  },
+
+  "tex_N_l": {
+    "prefix": "Nl",
+    "body": ["\\$N_l\\$ "],
+    "description": "N_l in tex"
+  },
+
+  "tex_N_m": {
+    "prefix": "Nm",
+    "body": ["\\$N_m\\$ "],
+    "description": "N_m in tex"
+  },
+
+  "tex_N_n": {
+    "prefix": "Nn",
+    "body": ["\\$N_n\\$ "],
+    "description": "N_n in tex"
+  },
+
+  "tex_N_o": {
+    "prefix": "No",
+    "body": ["\\$N_o\\$ "],
+    "description": "N_o in tex"
+  },
+
+  "tex_N_p": {
+    "prefix": "Np",
+    "body": ["\\$N_p\\$ "],
+    "description": "N_p in tex"
+  },
+
+  "tex_N_q": {
+    "prefix": "Nq",
+    "body": ["\\$N_q\\$ "],
+    "description": "N_q in tex"
+  },
+
+  "tex_N_r": {
+    "prefix": "Nr",
+    "body": ["\\$N_r\\$ "],
+    "description": "N_r in tex"
+  },
+
+  "tex_N_s": {
+    "prefix": "Ns",
+    "body": ["\\$N_s\\$ "],
+    "description": "N_s in tex"
+  },
+
+  "tex_N_t": {
+    "prefix": "Nt",
+    "body": ["\\$N_t\\$ "],
+    "description": "N_t in tex"
+  },
+
+  "tex_N_u": {
+    "prefix": "Nu",
+    "body": ["\\$N_u\\$ "],
+    "description": "N_u in tex"
+  },
+
+  "tex_N_v": {
+    "prefix": "Nv",
+    "body": ["\\$N_v\\$ "],
+    "description": "N_v in tex"
+  },
+
+  "tex_N_w": {
+    "prefix": "Nw",
+    "body": ["\\$N_w\\$ "],
+    "description": "N_w in tex"
+  },
+
+  "tex_N_x": {
+    "prefix": "Nx",
+    "body": ["\\$N_x\\$ "],
+    "description": "N_x in tex"
+  },
+
+  "tex_N_y": {
+    "prefix": "Ny",
+    "body": ["\\$N_y\\$ "],
+    "description": "N_y in tex"
+  },
+
+  "tex_N_z": {
+    "prefix": "Nz",
+    "body": ["\\$N_z\\$ "],
+    "description": "N_z in tex"
+  },
+
+  "tex_o": {
+    "prefix": "o",
+    "body": ["\\$o\\$ "],
+    "description": "o in tex"
+  },
+
+  "tex_o_0": {
+    "prefix": "o0",
+    "body": ["\\$o_0\\$ "],
+    "description": "o_0 in tex"
+  },
+
+  "tex_o_1": {
+    "prefix": "o1",
+    "body": ["\\$o_1\\$ "],
+    "description": "o_1 in tex"
+  },
+
+  "tex_o_2": {
+    "prefix": "o2",
+    "body": ["\\$o_2\\$ "],
+    "description": "o_2 in tex"
+  },
+
+  "tex_o_3": {
+    "prefix": "o3",
+    "body": ["\\$o_3\\$ "],
+    "description": "o_3 in tex"
+  },
+
+  "tex_o_a": {
+    "prefix": "oa",
+    "body": ["\\$o_a\\$ "],
+    "description": "o_a in tex"
+  },
+
+  "tex_o_b": {
+    "prefix": "ob",
+    "body": ["\\$o_b\\$ "],
+    "description": "o_b in tex"
+  },
+
+  "tex_o_c": {
+    "prefix": "oc",
+    "body": ["\\$o_c\\$ "],
+    "description": "o_c in tex"
+  },
+
+  "tex_o_d": {
+    "prefix": "od",
+    "body": ["\\$o_d\\$ "],
+    "description": "o_d in tex"
+  },
+
+  "tex_o_e": {
+    "prefix": "oe",
+    "body": ["\\$o_e\\$ "],
+    "description": "o_e in tex"
+  },
+
+  "tex_o_f": {
+    "prefix": "of",
+    "body": ["\\$o_f\\$ "],
+    "description": "o_f in tex"
+  },
+
+  "tex_o_g": {
+    "prefix": "og",
+    "body": ["\\$o_g\\$ "],
+    "description": "o_g in tex"
+  },
+
+  "tex_o_h": {
+    "prefix": "oh",
+    "body": ["\\$o_h\\$ "],
+    "description": "o_h in tex"
+  },
+
+  "tex_o_i": {
+    "prefix": "oi",
+    "body": ["\\$o_i\\$ "],
+    "description": "o_i in tex"
+  },
+
+  "tex_o_j": {
+    "prefix": "oj",
+    "body": ["\\$o_j\\$ "],
+    "description": "o_j in tex"
+  },
+
+  "tex_o_k": {
+    "prefix": "ok",
+    "body": ["\\$o_k\\$ "],
+    "description": "o_k in tex"
+  },
+
+  "tex_o_l": {
+    "prefix": "ol",
+    "body": ["\\$o_l\\$ "],
+    "description": "o_l in tex"
+  },
+
+  "tex_o_m": {
+    "prefix": "om",
+    "body": ["\\$o_m\\$ "],
+    "description": "o_m in tex"
+  },
+
+  "tex_o_n": {
+    "prefix": "on",
+    "body": ["\\$o_n\\$ "],
+    "description": "o_n in tex"
+  },
+
+  "tex_o_o": {
+    "prefix": "oo",
+    "body": ["\\$o_o\\$ "],
+    "description": "o_o in tex"
+  },
+
+  "tex_o_p": {
+    "prefix": "op",
+    "body": ["\\$o_p\\$ "],
+    "description": "o_p in tex"
+  },
+
+  "tex_o_q": {
+    "prefix": "oq",
+    "body": ["\\$o_q\\$ "],
+    "description": "o_q in tex"
+  },
+
+  "tex_o_r": {
+    "prefix": "or",
+    "body": ["\\$o_r\\$ "],
+    "description": "o_r in tex"
+  },
+
+  "tex_o_s": {
+    "prefix": "os",
+    "body": ["\\$o_s\\$ "],
+    "description": "o_s in tex"
+  },
+
+  "tex_o_t": {
+    "prefix": "ot",
+    "body": ["\\$o_t\\$ "],
+    "description": "o_t in tex"
+  },
+
+  "tex_o_u": {
+    "prefix": "ou",
+    "body": ["\\$o_u\\$ "],
+    "description": "o_u in tex"
+  },
+
+  "tex_o_v": {
+    "prefix": "ov",
+    "body": ["\\$o_v\\$ "],
+    "description": "o_v in tex"
+  },
+
+  "tex_o_w": {
+    "prefix": "ow",
+    "body": ["\\$o_w\\$ "],
+    "description": "o_w in tex"
+  },
+
+  "tex_o_x": {
+    "prefix": "ox",
+    "body": ["\\$o_x\\$ "],
+    "description": "o_x in tex"
+  },
+
+  "tex_o_y": {
+    "prefix": "oy",
+    "body": ["\\$o_y\\$ "],
+    "description": "o_y in tex"
+  },
+
+  "tex_o_z": {
+    "prefix": "oz",
+    "body": ["\\$o_z\\$ "],
+    "description": "o_z in tex"
+  },
+
+  "tex_O": {
+    "prefix": "O",
+    "body": ["\\$O\\$ "],
+    "description": "O in tex"
+  },
+
+  "tex_O_0": {
+    "prefix": "O0",
+    "body": ["\\$O_0\\$ "],
+    "description": "O_0 in tex"
+  },
+
+  "tex_O_1": {
+    "prefix": "O1",
+    "body": ["\\$O_1\\$ "],
+    "description": "O_1 in tex"
+  },
+
+  "tex_O_2": {
+    "prefix": "O2",
+    "body": ["\\$O_2\\$ "],
+    "description": "O_2 in tex"
+  },
+
+  "tex_O_3": {
+    "prefix": "O3",
+    "body": ["\\$O_3\\$ "],
+    "description": "O_3 in tex"
+  },
+
+  "tex_O_a": {
+    "prefix": "Oa",
+    "body": ["\\$O_a\\$ "],
+    "description": "O_a in tex"
+  },
+
+  "tex_O_b": {
+    "prefix": "Ob",
+    "body": ["\\$O_b\\$ "],
+    "description": "O_b in tex"
+  },
+
+  "tex_O_c": {
+    "prefix": "Oc",
+    "body": ["\\$O_c\\$ "],
+    "description": "O_c in tex"
+  },
+
+  "tex_O_d": {
+    "prefix": "Od",
+    "body": ["\\$O_d\\$ "],
+    "description": "O_d in tex"
+  },
+
+  "tex_O_e": {
+    "prefix": "Oe",
+    "body": ["\\$O_e\\$ "],
+    "description": "O_e in tex"
+  },
+
+  "tex_O_f": {
+    "prefix": "Of",
+    "body": ["\\$O_f\\$ "],
+    "description": "O_f in tex"
+  },
+
+  "tex_O_g": {
+    "prefix": "Og",
+    "body": ["\\$O_g\\$ "],
+    "description": "O_g in tex"
+  },
+
+  "tex_O_h": {
+    "prefix": "Oh",
+    "body": ["\\$O_h\\$ "],
+    "description": "O_h in tex"
+  },
+
+  "tex_O_i": {
+    "prefix": "Oi",
+    "body": ["\\$O_i\\$ "],
+    "description": "O_i in tex"
+  },
+
+  "tex_O_j": {
+    "prefix": "Oj",
+    "body": ["\\$O_j\\$ "],
+    "description": "O_j in tex"
+  },
+
+  "tex_O_k": {
+    "prefix": "Ok",
+    "body": ["\\$O_k\\$ "],
+    "description": "O_k in tex"
+  },
+
+  "tex_O_l": {
+    "prefix": "Ol",
+    "body": ["\\$O_l\\$ "],
+    "description": "O_l in tex"
+  },
+
+  "tex_O_m": {
+    "prefix": "Om",
+    "body": ["\\$O_m\\$ "],
+    "description": "O_m in tex"
+  },
+
+  "tex_O_n": {
+    "prefix": "On",
+    "body": ["\\$O_n\\$ "],
+    "description": "O_n in tex"
+  },
+
+  "tex_O_o": {
+    "prefix": "Oo",
+    "body": ["\\$O_o\\$ "],
+    "description": "O_o in tex"
+  },
+
+  "tex_O_p": {
+    "prefix": "Op",
+    "body": ["\\$O_p\\$ "],
+    "description": "O_p in tex"
+  },
+
+  "tex_O_q": {
+    "prefix": "Oq",
+    "body": ["\\$O_q\\$ "],
+    "description": "O_q in tex"
+  },
+
+  "tex_O_r": {
+    "prefix": "Or",
+    "body": ["\\$O_r\\$ "],
+    "description": "O_r in tex"
+  },
+
+  "tex_O_s": {
+    "prefix": "Os",
+    "body": ["\\$O_s\\$ "],
+    "description": "O_s in tex"
+  },
+
+  "tex_O_t": {
+    "prefix": "Ot",
+    "body": ["\\$O_t\\$ "],
+    "description": "O_t in tex"
+  },
+
+  "tex_O_u": {
+    "prefix": "Ou",
+    "body": ["\\$O_u\\$ "],
+    "description": "O_u in tex"
+  },
+
+  "tex_O_v": {
+    "prefix": "Ov",
+    "body": ["\\$O_v\\$ "],
+    "description": "O_v in tex"
+  },
+
+  "tex_O_w": {
+    "prefix": "Ow",
+    "body": ["\\$O_w\\$ "],
+    "description": "O_w in tex"
+  },
+
+  "tex_O_x": {
+    "prefix": "Ox",
+    "body": ["\\$O_x\\$ "],
+    "description": "O_x in tex"
+  },
+
+  "tex_O_y": {
+    "prefix": "Oy",
+    "body": ["\\$O_y\\$ "],
+    "description": "O_y in tex"
+  },
+
+  "tex_O_z": {
+    "prefix": "Oz",
+    "body": ["\\$O_z\\$ "],
+    "description": "O_z in tex"
+  },
+
+  "tex_p": {
+    "prefix": "p",
+    "body": ["\\$p\\$ "],
+    "description": "p in tex"
+  },
+
+  "tex_p_0": {
+    "prefix": "p0",
+    "body": ["\\$p_0\\$ "],
+    "description": "p_0 in tex"
+  },
+
+  "tex_p_1": {
+    "prefix": "p1",
+    "body": ["\\$p_1\\$ "],
+    "description": "p_1 in tex"
+  },
+
+  "tex_p_2": {
+    "prefix": "p2",
+    "body": ["\\$p_2\\$ "],
+    "description": "p_2 in tex"
+  },
+
+  "tex_p_3": {
+    "prefix": "p3",
+    "body": ["\\$p_3\\$ "],
+    "description": "p_3 in tex"
+  },
+
+  "tex_p_a": {
+    "prefix": "pa",
+    "body": ["\\$p_a\\$ "],
+    "description": "p_a in tex"
+  },
+
+  "tex_p_b": {
+    "prefix": "pb",
+    "body": ["\\$p_b\\$ "],
+    "description": "p_b in tex"
+  },
+
+  "tex_p_c": {
+    "prefix": "pc",
+    "body": ["\\$p_c\\$ "],
+    "description": "p_c in tex"
+  },
+
+  "tex_p_d": {
+    "prefix": "pd",
+    "body": ["\\$p_d\\$ "],
+    "description": "p_d in tex"
+  },
+
+  "tex_p_e": {
+    "prefix": "pe",
+    "body": ["\\$p_e\\$ "],
+    "description": "p_e in tex"
+  },
+
+  "tex_p_f": {
+    "prefix": "pf",
+    "body": ["\\$p_f\\$ "],
+    "description": "p_f in tex"
+  },
+
+  "tex_p_g": {
+    "prefix": "pg",
+    "body": ["\\$p_g\\$ "],
+    "description": "p_g in tex"
+  },
+
+  "tex_p_h": {
+    "prefix": "ph",
+    "body": ["\\$p_h\\$ "],
+    "description": "p_h in tex"
+  },
+
+  "tex_p_i": {
+    "prefix": "pi",
+    "body": ["\\$p_i\\$ "],
+    "description": "p_i in tex"
+  },
+
+  "tex_p_j": {
+    "prefix": "pj",
+    "body": ["\\$p_j\\$ "],
+    "description": "p_j in tex"
+  },
+
+  "tex_p_k": {
+    "prefix": "pk",
+    "body": ["\\$p_k\\$ "],
+    "description": "p_k in tex"
+  },
+
+  "tex_p_l": {
+    "prefix": "pl",
+    "body": ["\\$p_l\\$ "],
+    "description": "p_l in tex"
+  },
+
+  "tex_p_m": {
+    "prefix": "pm",
+    "body": ["\\$p_m\\$ "],
+    "description": "p_m in tex"
+  },
+
+  "tex_p_n": {
+    "prefix": "pn",
+    "body": ["\\$p_n\\$ "],
+    "description": "p_n in tex"
+  },
+
+  "tex_p_o": {
+    "prefix": "po",
+    "body": ["\\$p_o\\$ "],
+    "description": "p_o in tex"
+  },
+
+  "tex_p_p": {
+    "prefix": "pp",
+    "body": ["\\$p_p\\$ "],
+    "description": "p_p in tex"
+  },
+
+  "tex_p_q": {
+    "prefix": "pq",
+    "body": ["\\$p_q\\$ "],
+    "description": "p_q in tex"
+  },
+
+  "tex_p_r": {
+    "prefix": "pr",
+    "body": ["\\$p_r\\$ "],
+    "description": "p_r in tex"
+  },
+
+  "tex_p_s": {
+    "prefix": "ps",
+    "body": ["\\$p_s\\$ "],
+    "description": "p_s in tex"
+  },
+
+  "tex_p_t": {
+    "prefix": "pt",
+    "body": ["\\$p_t\\$ "],
+    "description": "p_t in tex"
+  },
+
+  "tex_p_u": {
+    "prefix": "pu",
+    "body": ["\\$p_u\\$ "],
+    "description": "p_u in tex"
+  },
+
+  "tex_p_v": {
+    "prefix": "pv",
+    "body": ["\\$p_v\\$ "],
+    "description": "p_v in tex"
+  },
+
+  "tex_p_w": {
+    "prefix": "pw",
+    "body": ["\\$p_w\\$ "],
+    "description": "p_w in tex"
+  },
+
+  "tex_p_x": {
+    "prefix": "px",
+    "body": ["\\$p_x\\$ "],
+    "description": "p_x in tex"
+  },
+
+  "tex_p_y": {
+    "prefix": "py",
+    "body": ["\\$p_y\\$ "],
+    "description": "p_y in tex"
+  },
+
+  "tex_p_z": {
+    "prefix": "pz",
+    "body": ["\\$p_z\\$ "],
+    "description": "p_z in tex"
+  },
+
+  "tex_P": {
+    "prefix": "P",
+    "body": ["\\$P\\$ "],
+    "description": "P in tex"
+  },
+
+  "tex_P_0": {
+    "prefix": "P0",
+    "body": ["\\$P_0\\$ "],
+    "description": "P_0 in tex"
+  },
+
+  "tex_P_1": {
+    "prefix": "P1",
+    "body": ["\\$P_1\\$ "],
+    "description": "P_1 in tex"
+  },
+
+  "tex_P_2": {
+    "prefix": "P2",
+    "body": ["\\$P_2\\$ "],
+    "description": "P_2 in tex"
+  },
+
+  "tex_P_3": {
+    "prefix": "P3",
+    "body": ["\\$P_3\\$ "],
+    "description": "P_3 in tex"
+  },
+
+  "tex_P_a": {
+    "prefix": "Pa",
+    "body": ["\\$P_a\\$ "],
+    "description": "P_a in tex"
+  },
+
+  "tex_P_b": {
+    "prefix": "Pb",
+    "body": ["\\$P_b\\$ "],
+    "description": "P_b in tex"
+  },
+
+  "tex_P_c": {
+    "prefix": "Pc",
+    "body": ["\\$P_c\\$ "],
+    "description": "P_c in tex"
+  },
+
+  "tex_P_d": {
+    "prefix": "Pd",
+    "body": ["\\$P_d\\$ "],
+    "description": "P_d in tex"
+  },
+
+  "tex_P_e": {
+    "prefix": "Pe",
+    "body": ["\\$P_e\\$ "],
+    "description": "P_e in tex"
+  },
+
+  "tex_P_f": {
+    "prefix": "Pf",
+    "body": ["\\$P_f\\$ "],
+    "description": "P_f in tex"
+  },
+
+  "tex_P_g": {
+    "prefix": "Pg",
+    "body": ["\\$P_g\\$ "],
+    "description": "P_g in tex"
+  },
+
+  "tex_P_h": {
+    "prefix": "Ph",
+    "body": ["\\$P_h\\$ "],
+    "description": "P_h in tex"
+  },
+
+  "tex_P_i": {
+    "prefix": "Pi",
+    "body": ["\\$P_i\\$ "],
+    "description": "P_i in tex"
+  },
+
+  "tex_P_j": {
+    "prefix": "Pj",
+    "body": ["\\$P_j\\$ "],
+    "description": "P_j in tex"
+  },
+
+  "tex_P_k": {
+    "prefix": "Pk",
+    "body": ["\\$P_k\\$ "],
+    "description": "P_k in tex"
+  },
+
+  "tex_P_l": {
+    "prefix": "Pl",
+    "body": ["\\$P_l\\$ "],
+    "description": "P_l in tex"
+  },
+
+  "tex_P_m": {
+    "prefix": "Pm",
+    "body": ["\\$P_m\\$ "],
+    "description": "P_m in tex"
+  },
+
+  "tex_P_n": {
+    "prefix": "Pn",
+    "body": ["\\$P_n\\$ "],
+    "description": "P_n in tex"
+  },
+
+  "tex_P_o": {
+    "prefix": "Po",
+    "body": ["\\$P_o\\$ "],
+    "description": "P_o in tex"
+  },
+
+  "tex_P_p": {
+    "prefix": "Pp",
+    "body": ["\\$P_p\\$ "],
+    "description": "P_p in tex"
+  },
+
+  "tex_P_q": {
+    "prefix": "Pq",
+    "body": ["\\$P_q\\$ "],
+    "description": "P_q in tex"
+  },
+
+  "tex_P_r": {
+    "prefix": "Pr",
+    "body": ["\\$P_r\\$ "],
+    "description": "P_r in tex"
+  },
+
+  "tex_P_s": {
+    "prefix": "Ps",
+    "body": ["\\$P_s\\$ "],
+    "description": "P_s in tex"
+  },
+
+  "tex_P_t": {
+    "prefix": "Pt",
+    "body": ["\\$P_t\\$ "],
+    "description": "P_t in tex"
+  },
+
+  "tex_P_u": {
+    "prefix": "Pu",
+    "body": ["\\$P_u\\$ "],
+    "description": "P_u in tex"
+  },
+
+  "tex_P_v": {
+    "prefix": "Pv",
+    "body": ["\\$P_v\\$ "],
+    "description": "P_v in tex"
+  },
+
+  "tex_P_w": {
+    "prefix": "Pw",
+    "body": ["\\$P_w\\$ "],
+    "description": "P_w in tex"
+  },
+
+  "tex_P_x": {
+    "prefix": "Px",
+    "body": ["\\$P_x\\$ "],
+    "description": "P_x in tex"
+  },
+
+  "tex_P_y": {
+    "prefix": "Py",
+    "body": ["\\$P_y\\$ "],
+    "description": "P_y in tex"
+  },
+
+  "tex_P_z": {
+    "prefix": "Pz",
+    "body": ["\\$P_z\\$ "],
+    "description": "P_z in tex"
+  },
+
+  "tex_q": {
+    "prefix": "q",
+    "body": ["\\$q\\$ "],
+    "description": "q in tex"
+  },
+
+  "tex_q_0": {
+    "prefix": "q0",
+    "body": ["\\$q_0\\$ "],
+    "description": "q_0 in tex"
+  },
+
+  "tex_q_1": {
+    "prefix": "q1",
+    "body": ["\\$q_1\\$ "],
+    "description": "q_1 in tex"
+  },
+
+  "tex_q_2": {
+    "prefix": "q2",
+    "body": ["\\$q_2\\$ "],
+    "description": "q_2 in tex"
+  },
+
+  "tex_q_3": {
+    "prefix": "q3",
+    "body": ["\\$q_3\\$ "],
+    "description": "q_3 in tex"
+  },
+
+  "tex_q_a": {
+    "prefix": "qa",
+    "body": ["\\$q_a\\$ "],
+    "description": "q_a in tex"
+  },
+
+  "tex_q_b": {
+    "prefix": "qb",
+    "body": ["\\$q_b\\$ "],
+    "description": "q_b in tex"
+  },
+
+  "tex_q_c": {
+    "prefix": "qc",
+    "body": ["\\$q_c\\$ "],
+    "description": "q_c in tex"
+  },
+
+  "tex_q_d": {
+    "prefix": "qd",
+    "body": ["\\$q_d\\$ "],
+    "description": "q_d in tex"
+  },
+
+  "tex_q_e": {
+    "prefix": "qe",
+    "body": ["\\$q_e\\$ "],
+    "description": "q_e in tex"
+  },
+
+  "tex_q_f": {
+    "prefix": "qf",
+    "body": ["\\$q_f\\$ "],
+    "description": "q_f in tex"
+  },
+
+  "tex_q_g": {
+    "prefix": "qg",
+    "body": ["\\$q_g\\$ "],
+    "description": "q_g in tex"
+  },
+
+  "tex_q_h": {
+    "prefix": "qh",
+    "body": ["\\$q_h\\$ "],
+    "description": "q_h in tex"
+  },
+
+  "tex_q_i": {
+    "prefix": "qi",
+    "body": ["\\$q_i\\$ "],
+    "description": "q_i in tex"
+  },
+
+  "tex_q_j": {
+    "prefix": "qj",
+    "body": ["\\$q_j\\$ "],
+    "description": "q_j in tex"
+  },
+
+  "tex_q_k": {
+    "prefix": "qk",
+    "body": ["\\$q_k\\$ "],
+    "description": "q_k in tex"
+  },
+
+  "tex_q_l": {
+    "prefix": "ql",
+    "body": ["\\$q_l\\$ "],
+    "description": "q_l in tex"
+  },
+
+  "tex_q_m": {
+    "prefix": "qm",
+    "body": ["\\$q_m\\$ "],
+    "description": "q_m in tex"
+  },
+
+  "tex_q_n": {
+    "prefix": "qn",
+    "body": ["\\$q_n\\$ "],
+    "description": "q_n in tex"
+  },
+
+  "tex_q_o": {
+    "prefix": "qo",
+    "body": ["\\$q_o\\$ "],
+    "description": "q_o in tex"
+  },
+
+  "tex_q_p": {
+    "prefix": "qp",
+    "body": ["\\$q_p\\$ "],
+    "description": "q_p in tex"
+  },
+
+  "tex_q_q": {
+    "prefix": "qq",
+    "body": ["\\$q_q\\$ "],
+    "description": "q_q in tex"
+  },
+
+  "tex_q_r": {
+    "prefix": "qr",
+    "body": ["\\$q_r\\$ "],
+    "description": "q_r in tex"
+  },
+
+  "tex_q_s": {
+    "prefix": "qs",
+    "body": ["\\$q_s\\$ "],
+    "description": "q_s in tex"
+  },
+
+  "tex_q_t": {
+    "prefix": "qt",
+    "body": ["\\$q_t\\$ "],
+    "description": "q_t in tex"
+  },
+
+  "tex_q_u": {
+    "prefix": "qu",
+    "body": ["\\$q_u\\$ "],
+    "description": "q_u in tex"
+  },
+
+  "tex_q_v": {
+    "prefix": "qv",
+    "body": ["\\$q_v\\$ "],
+    "description": "q_v in tex"
+  },
+
+  "tex_q_w": {
+    "prefix": "qw",
+    "body": ["\\$q_w\\$ "],
+    "description": "q_w in tex"
+  },
+
+  "tex_q_x": {
+    "prefix": "qx",
+    "body": ["\\$q_x\\$ "],
+    "description": "q_x in tex"
+  },
+
+  "tex_q_y": {
+    "prefix": "qy",
+    "body": ["\\$q_y\\$ "],
+    "description": "q_y in tex"
+  },
+
+  "tex_q_z": {
+    "prefix": "qz",
+    "body": ["\\$q_z\\$ "],
+    "description": "q_z in tex"
+  },
+
+  "tex_Q": {
+    "prefix": "Q",
+    "body": ["\\$Q\\$ "],
+    "description": "Q in tex"
+  },
+
+  "tex_Q_0": {
+    "prefix": "Q0",
+    "body": ["\\$Q_0\\$ "],
+    "description": "Q_0 in tex"
+  },
+
+  "tex_Q_1": {
+    "prefix": "Q1",
+    "body": ["\\$Q_1\\$ "],
+    "description": "Q_1 in tex"
+  },
+
+  "tex_Q_2": {
+    "prefix": "Q2",
+    "body": ["\\$Q_2\\$ "],
+    "description": "Q_2 in tex"
+  },
+
+  "tex_Q_3": {
+    "prefix": "Q3",
+    "body": ["\\$Q_3\\$ "],
+    "description": "Q_3 in tex"
+  },
+
+  "tex_Q_a": {
+    "prefix": "Qa",
+    "body": ["\\$Q_a\\$ "],
+    "description": "Q_a in tex"
+  },
+
+  "tex_Q_b": {
+    "prefix": "Qb",
+    "body": ["\\$Q_b\\$ "],
+    "description": "Q_b in tex"
+  },
+
+  "tex_Q_c": {
+    "prefix": "Qc",
+    "body": ["\\$Q_c\\$ "],
+    "description": "Q_c in tex"
+  },
+
+  "tex_Q_d": {
+    "prefix": "Qd",
+    "body": ["\\$Q_d\\$ "],
+    "description": "Q_d in tex"
+  },
+
+  "tex_Q_e": {
+    "prefix": "Qe",
+    "body": ["\\$Q_e\\$ "],
+    "description": "Q_e in tex"
+  },
+
+  "tex_Q_f": {
+    "prefix": "Qf",
+    "body": ["\\$Q_f\\$ "],
+    "description": "Q_f in tex"
+  },
+
+  "tex_Q_g": {
+    "prefix": "Qg",
+    "body": ["\\$Q_g\\$ "],
+    "description": "Q_g in tex"
+  },
+
+  "tex_Q_h": {
+    "prefix": "Qh",
+    "body": ["\\$Q_h\\$ "],
+    "description": "Q_h in tex"
+  },
+
+  "tex_Q_i": {
+    "prefix": "Qi",
+    "body": ["\\$Q_i\\$ "],
+    "description": "Q_i in tex"
+  },
+
+  "tex_Q_j": {
+    "prefix": "Qj",
+    "body": ["\\$Q_j\\$ "],
+    "description": "Q_j in tex"
+  },
+
+  "tex_Q_k": {
+    "prefix": "Qk",
+    "body": ["\\$Q_k\\$ "],
+    "description": "Q_k in tex"
+  },
+
+  "tex_Q_l": {
+    "prefix": "Ql",
+    "body": ["\\$Q_l\\$ "],
+    "description": "Q_l in tex"
+  },
+
+  "tex_Q_m": {
+    "prefix": "Qm",
+    "body": ["\\$Q_m\\$ "],
+    "description": "Q_m in tex"
+  },
+
+  "tex_Q_n": {
+    "prefix": "Qn",
+    "body": ["\\$Q_n\\$ "],
+    "description": "Q_n in tex"
+  },
+
+  "tex_Q_o": {
+    "prefix": "Qo",
+    "body": ["\\$Q_o\\$ "],
+    "description": "Q_o in tex"
+  },
+
+  "tex_Q_p": {
+    "prefix": "Qp",
+    "body": ["\\$Q_p\\$ "],
+    "description": "Q_p in tex"
+  },
+
+  "tex_Q_q": {
+    "prefix": "Qq",
+    "body": ["\\$Q_q\\$ "],
+    "description": "Q_q in tex"
+  },
+
+  "tex_Q_r": {
+    "prefix": "Qr",
+    "body": ["\\$Q_r\\$ "],
+    "description": "Q_r in tex"
+  },
+
+  "tex_Q_s": {
+    "prefix": "Qs",
+    "body": ["\\$Q_s\\$ "],
+    "description": "Q_s in tex"
+  },
+
+  "tex_Q_t": {
+    "prefix": "Qt",
+    "body": ["\\$Q_t\\$ "],
+    "description": "Q_t in tex"
+  },
+
+  "tex_Q_u": {
+    "prefix": "Qu",
+    "body": ["\\$Q_u\\$ "],
+    "description": "Q_u in tex"
+  },
+
+  "tex_Q_v": {
+    "prefix": "Qv",
+    "body": ["\\$Q_v\\$ "],
+    "description": "Q_v in tex"
+  },
+
+  "tex_Q_w": {
+    "prefix": "Qw",
+    "body": ["\\$Q_w\\$ "],
+    "description": "Q_w in tex"
+  },
+
+  "tex_Q_x": {
+    "prefix": "Qx",
+    "body": ["\\$Q_x\\$ "],
+    "description": "Q_x in tex"
+  },
+
+  "tex_Q_y": {
+    "prefix": "Qy",
+    "body": ["\\$Q_y\\$ "],
+    "description": "Q_y in tex"
+  },
+
+  "tex_Q_z": {
+    "prefix": "Qz",
+    "body": ["\\$Q_z\\$ "],
+    "description": "Q_z in tex"
+  },
+
+  "tex_r": {
+    "prefix": "r",
+    "body": ["\\$r\\$ "],
+    "description": "r in tex"
+  },
+
+  "tex_r_0": {
+    "prefix": "r0",
+    "body": ["\\$r_0\\$ "],
+    "description": "r_0 in tex"
+  },
+
+  "tex_r_1": {
+    "prefix": "r1",
+    "body": ["\\$r_1\\$ "],
+    "description": "r_1 in tex"
+  },
+
+  "tex_r_2": {
+    "prefix": "r2",
+    "body": ["\\$r_2\\$ "],
+    "description": "r_2 in tex"
+  },
+
+  "tex_r_3": {
+    "prefix": "r3",
+    "body": ["\\$r_3\\$ "],
+    "description": "r_3 in tex"
+  },
+
+  "tex_r_a": {
+    "prefix": "ra",
+    "body": ["\\$r_a\\$ "],
+    "description": "r_a in tex"
+  },
+
+  "tex_r_b": {
+    "prefix": "rb",
+    "body": ["\\$r_b\\$ "],
+    "description": "r_b in tex"
+  },
+
+  "tex_r_c": {
+    "prefix": "rc",
+    "body": ["\\$r_c\\$ "],
+    "description": "r_c in tex"
+  },
+
+  "tex_r_d": {
+    "prefix": "rd",
+    "body": ["\\$r_d\\$ "],
+    "description": "r_d in tex"
+  },
+
+  "tex_r_e": {
+    "prefix": "re",
+    "body": ["\\$r_e\\$ "],
+    "description": "r_e in tex"
+  },
+
+  "tex_r_f": {
+    "prefix": "rf",
+    "body": ["\\$r_f\\$ "],
+    "description": "r_f in tex"
+  },
+
+  "tex_r_g": {
+    "prefix": "rg",
+    "body": ["\\$r_g\\$ "],
+    "description": "r_g in tex"
+  },
+
+  "tex_r_h": {
+    "prefix": "rh",
+    "body": ["\\$r_h\\$ "],
+    "description": "r_h in tex"
+  },
+
+  "tex_r_i": {
+    "prefix": "ri",
+    "body": ["\\$r_i\\$ "],
+    "description": "r_i in tex"
+  },
+
+  "tex_r_j": {
+    "prefix": "rj",
+    "body": ["\\$r_j\\$ "],
+    "description": "r_j in tex"
+  },
+
+  "tex_r_k": {
+    "prefix": "rk",
+    "body": ["\\$r_k\\$ "],
+    "description": "r_k in tex"
+  },
+
+  "tex_r_l": {
+    "prefix": "rl",
+    "body": ["\\$r_l\\$ "],
+    "description": "r_l in tex"
+  },
+
+  "tex_r_m": {
+    "prefix": "rm",
+    "body": ["\\$r_m\\$ "],
+    "description": "r_m in tex"
+  },
+
+  "tex_r_n": {
+    "prefix": "rn",
+    "body": ["\\$r_n\\$ "],
+    "description": "r_n in tex"
+  },
+
+  "tex_r_o": {
+    "prefix": "ro",
+    "body": ["\\$r_o\\$ "],
+    "description": "r_o in tex"
+  },
+
+  "tex_r_p": {
+    "prefix": "rp",
+    "body": ["\\$r_p\\$ "],
+    "description": "r_p in tex"
+  },
+
+  "tex_r_q": {
+    "prefix": "rq",
+    "body": ["\\$r_q\\$ "],
+    "description": "r_q in tex"
+  },
+
+  "tex_r_r": {
+    "prefix": "rr",
+    "body": ["\\$r_r\\$ "],
+    "description": "r_r in tex"
+  },
+
+  "tex_r_s": {
+    "prefix": "rs",
+    "body": ["\\$r_s\\$ "],
+    "description": "r_s in tex"
+  },
+
+  "tex_r_t": {
+    "prefix": "rt",
+    "body": ["\\$r_t\\$ "],
+    "description": "r_t in tex"
+  },
+
+  "tex_r_u": {
+    "prefix": "ru",
+    "body": ["\\$r_u\\$ "],
+    "description": "r_u in tex"
+  },
+
+  "tex_r_v": {
+    "prefix": "rv",
+    "body": ["\\$r_v\\$ "],
+    "description": "r_v in tex"
+  },
+
+  "tex_r_w": {
+    "prefix": "rw",
+    "body": ["\\$r_w\\$ "],
+    "description": "r_w in tex"
+  },
+
+  "tex_r_x": {
+    "prefix": "rx",
+    "body": ["\\$r_x\\$ "],
+    "description": "r_x in tex"
+  },
+
+  "tex_r_y": {
+    "prefix": "ry",
+    "body": ["\\$r_y\\$ "],
+    "description": "r_y in tex"
+  },
+
+  "tex_r_z": {
+    "prefix": "rz",
+    "body": ["\\$r_z\\$ "],
+    "description": "r_z in tex"
+  },
+
+  "tex_R": {
+    "prefix": "R",
+    "body": ["\\$R\\$ "],
+    "description": "R in tex"
+  },
+
+  "tex_R_0": {
+    "prefix": "R0",
+    "body": ["\\$R_0\\$ "],
+    "description": "R_0 in tex"
+  },
+
+  "tex_R_1": {
+    "prefix": "R1",
+    "body": ["\\$R_1\\$ "],
+    "description": "R_1 in tex"
+  },
+
+  "tex_R_2": {
+    "prefix": "R2",
+    "body": ["\\$R_2\\$ "],
+    "description": "R_2 in tex"
+  },
+
+  "tex_R_3": {
+    "prefix": "R3",
+    "body": ["\\$R_3\\$ "],
+    "description": "R_3 in tex"
+  },
+
+  "tex_R_a": {
+    "prefix": "Ra",
+    "body": ["\\$R_a\\$ "],
+    "description": "R_a in tex"
+  },
+
+  "tex_R_b": {
+    "prefix": "Rb",
+    "body": ["\\$R_b\\$ "],
+    "description": "R_b in tex"
+  },
+
+  "tex_R_c": {
+    "prefix": "Rc",
+    "body": ["\\$R_c\\$ "],
+    "description": "R_c in tex"
+  },
+
+  "tex_R_d": {
+    "prefix": "Rd",
+    "body": ["\\$R_d\\$ "],
+    "description": "R_d in tex"
+  },
+
+  "tex_R_e": {
+    "prefix": "Re",
+    "body": ["\\$R_e\\$ "],
+    "description": "R_e in tex"
+  },
+
+  "tex_R_f": {
+    "prefix": "Rf",
+    "body": ["\\$R_f\\$ "],
+    "description": "R_f in tex"
+  },
+
+  "tex_R_g": {
+    "prefix": "Rg",
+    "body": ["\\$R_g\\$ "],
+    "description": "R_g in tex"
+  },
+
+  "tex_R_h": {
+    "prefix": "Rh",
+    "body": ["\\$R_h\\$ "],
+    "description": "R_h in tex"
+  },
+
+  "tex_R_i": {
+    "prefix": "Ri",
+    "body": ["\\$R_i\\$ "],
+    "description": "R_i in tex"
+  },
+
+  "tex_R_j": {
+    "prefix": "Rj",
+    "body": ["\\$R_j\\$ "],
+    "description": "R_j in tex"
+  },
+
+  "tex_R_k": {
+    "prefix": "Rk",
+    "body": ["\\$R_k\\$ "],
+    "description": "R_k in tex"
+  },
+
+  "tex_R_l": {
+    "prefix": "Rl",
+    "body": ["\\$R_l\\$ "],
+    "description": "R_l in tex"
+  },
+
+  "tex_R_m": {
+    "prefix": "Rm",
+    "body": ["\\$R_m\\$ "],
+    "description": "R_m in tex"
+  },
+
+  "tex_R_n": {
+    "prefix": "Rn",
+    "body": ["\\$R_n\\$ "],
+    "description": "R_n in tex"
+  },
+
+  "tex_R_o": {
+    "prefix": "Ro",
+    "body": ["\\$R_o\\$ "],
+    "description": "R_o in tex"
+  },
+
+  "tex_R_p": {
+    "prefix": "Rp",
+    "body": ["\\$R_p\\$ "],
+    "description": "R_p in tex"
+  },
+
+  "tex_R_q": {
+    "prefix": "Rq",
+    "body": ["\\$R_q\\$ "],
+    "description": "R_q in tex"
+  },
+
+  "tex_R_r": {
+    "prefix": "Rr",
+    "body": ["\\$R_r\\$ "],
+    "description": "R_r in tex"
+  },
+
+  "tex_R_s": {
+    "prefix": "Rs",
+    "body": ["\\$R_s\\$ "],
+    "description": "R_s in tex"
+  },
+
+  "tex_R_t": {
+    "prefix": "Rt",
+    "body": ["\\$R_t\\$ "],
+    "description": "R_t in tex"
+  },
+
+  "tex_R_u": {
+    "prefix": "Ru",
+    "body": ["\\$R_u\\$ "],
+    "description": "R_u in tex"
+  },
+
+  "tex_R_v": {
+    "prefix": "Rv",
+    "body": ["\\$R_v\\$ "],
+    "description": "R_v in tex"
+  },
+
+  "tex_R_w": {
+    "prefix": "Rw",
+    "body": ["\\$R_w\\$ "],
+    "description": "R_w in tex"
+  },
+
+  "tex_R_x": {
+    "prefix": "Rx",
+    "body": ["\\$R_x\\$ "],
+    "description": "R_x in tex"
+  },
+
+  "tex_R_y": {
+    "prefix": "Ry",
+    "body": ["\\$R_y\\$ "],
+    "description": "R_y in tex"
+  },
+
+  "tex_R_z": {
+    "prefix": "Rz",
+    "body": ["\\$R_z\\$ "],
+    "description": "R_z in tex"
+  },
+
+  "tex_s": {
+    "prefix": "s",
+    "body": ["\\$s\\$ "],
+    "description": "s in tex"
+  },
+
+  "tex_s_0": {
+    "prefix": "s0",
+    "body": ["\\$s_0\\$ "],
+    "description": "s_0 in tex"
+  },
+
+  "tex_s_1": {
+    "prefix": "s1",
+    "body": ["\\$s_1\\$ "],
+    "description": "s_1 in tex"
+  },
+
+  "tex_s_2": {
+    "prefix": "s2",
+    "body": ["\\$s_2\\$ "],
+    "description": "s_2 in tex"
+  },
+
+  "tex_s_3": {
+    "prefix": "s3",
+    "body": ["\\$s_3\\$ "],
+    "description": "s_3 in tex"
+  },
+
+  "tex_s_a": {
+    "prefix": "sa",
+    "body": ["\\$s_a\\$ "],
+    "description": "s_a in tex"
+  },
+
+  "tex_s_b": {
+    "prefix": "sb",
+    "body": ["\\$s_b\\$ "],
+    "description": "s_b in tex"
+  },
+
+  "tex_s_c": {
+    "prefix": "sc",
+    "body": ["\\$s_c\\$ "],
+    "description": "s_c in tex"
+  },
+
+  "tex_s_d": {
+    "prefix": "sd",
+    "body": ["\\$s_d\\$ "],
+    "description": "s_d in tex"
+  },
+
+  "tex_s_e": {
+    "prefix": "se",
+    "body": ["\\$s_e\\$ "],
+    "description": "s_e in tex"
+  },
+
+  "tex_s_f": {
+    "prefix": "sf",
+    "body": ["\\$s_f\\$ "],
+    "description": "s_f in tex"
+  },
+
+  "tex_s_g": {
+    "prefix": "sg",
+    "body": ["\\$s_g\\$ "],
+    "description": "s_g in tex"
+  },
+
+  "tex_s_h": {
+    "prefix": "sh",
+    "body": ["\\$s_h\\$ "],
+    "description": "s_h in tex"
+  },
+
+  "tex_s_i": {
+    "prefix": "si",
+    "body": ["\\$s_i\\$ "],
+    "description": "s_i in tex"
+  },
+
+  "tex_s_j": {
+    "prefix": "sj",
+    "body": ["\\$s_j\\$ "],
+    "description": "s_j in tex"
+  },
+
+  "tex_s_k": {
+    "prefix": "sk",
+    "body": ["\\$s_k\\$ "],
+    "description": "s_k in tex"
+  },
+
+  "tex_s_l": {
+    "prefix": "sl",
+    "body": ["\\$s_l\\$ "],
+    "description": "s_l in tex"
+  },
+
+  "tex_s_m": {
+    "prefix": "sm",
+    "body": ["\\$s_m\\$ "],
+    "description": "s_m in tex"
+  },
+
+  "tex_s_n": {
+    "prefix": "sn",
+    "body": ["\\$s_n\\$ "],
+    "description": "s_n in tex"
+  },
+
+  "tex_s_o": {
+    "prefix": "so",
+    "body": ["\\$s_o\\$ "],
+    "description": "s_o in tex"
+  },
+
+  "tex_s_p": {
+    "prefix": "sp",
+    "body": ["\\$s_p\\$ "],
+    "description": "s_p in tex"
+  },
+
+  "tex_s_q": {
+    "prefix": "sq",
+    "body": ["\\$s_q\\$ "],
+    "description": "s_q in tex"
+  },
+
+  "tex_s_r": {
+    "prefix": "sr",
+    "body": ["\\$s_r\\$ "],
+    "description": "s_r in tex"
+  },
+
+  "tex_s_s": {
+    "prefix": "ss",
+    "body": ["\\$s_s\\$ "],
+    "description": "s_s in tex"
+  },
+
+  "tex_s_t": {
+    "prefix": "st",
+    "body": ["\\$s_t\\$ "],
+    "description": "s_t in tex"
+  },
+
+  "tex_s_u": {
+    "prefix": "su",
+    "body": ["\\$s_u\\$ "],
+    "description": "s_u in tex"
+  },
+
+  "tex_s_v": {
+    "prefix": "sv",
+    "body": ["\\$s_v\\$ "],
+    "description": "s_v in tex"
+  },
+
+  "tex_s_w": {
+    "prefix": "sw",
+    "body": ["\\$s_w\\$ "],
+    "description": "s_w in tex"
+  },
+
+  "tex_s_x": {
+    "prefix": "sx",
+    "body": ["\\$s_x\\$ "],
+    "description": "s_x in tex"
+  },
+
+  "tex_s_y": {
+    "prefix": "sy",
+    "body": ["\\$s_y\\$ "],
+    "description": "s_y in tex"
+  },
+
+  "tex_s_z": {
+    "prefix": "sz",
+    "body": ["\\$s_z\\$ "],
+    "description": "s_z in tex"
+  },
+
+  "tex_S": {
+    "prefix": "S",
+    "body": ["\\$S\\$ "],
+    "description": "S in tex"
+  },
+
+  "tex_S_0": {
+    "prefix": "S0",
+    "body": ["\\$S_0\\$ "],
+    "description": "S_0 in tex"
+  },
+
+  "tex_S_1": {
+    "prefix": "S1",
+    "body": ["\\$S_1\\$ "],
+    "description": "S_1 in tex"
+  },
+
+  "tex_S_2": {
+    "prefix": "S2",
+    "body": ["\\$S_2\\$ "],
+    "description": "S_2 in tex"
+  },
+
+  "tex_S_3": {
+    "prefix": "S3",
+    "body": ["\\$S_3\\$ "],
+    "description": "S_3 in tex"
+  },
+
+  "tex_S_a": {
+    "prefix": "Sa",
+    "body": ["\\$S_a\\$ "],
+    "description": "S_a in tex"
+  },
+
+  "tex_S_b": {
+    "prefix": "Sb",
+    "body": ["\\$S_b\\$ "],
+    "description": "S_b in tex"
+  },
+
+  "tex_S_c": {
+    "prefix": "Sc",
+    "body": ["\\$S_c\\$ "],
+    "description": "S_c in tex"
+  },
+
+  "tex_S_d": {
+    "prefix": "Sd",
+    "body": ["\\$S_d\\$ "],
+    "description": "S_d in tex"
+  },
+
+  "tex_S_e": {
+    "prefix": "Se",
+    "body": ["\\$S_e\\$ "],
+    "description": "S_e in tex"
+  },
+
+  "tex_S_f": {
+    "prefix": "Sf",
+    "body": ["\\$S_f\\$ "],
+    "description": "S_f in tex"
+  },
+
+  "tex_S_g": {
+    "prefix": "Sg",
+    "body": ["\\$S_g\\$ "],
+    "description": "S_g in tex"
+  },
+
+  "tex_S_h": {
+    "prefix": "Sh",
+    "body": ["\\$S_h\\$ "],
+    "description": "S_h in tex"
+  },
+
+  "tex_S_i": {
+    "prefix": "Si",
+    "body": ["\\$S_i\\$ "],
+    "description": "S_i in tex"
+  },
+
+  "tex_S_j": {
+    "prefix": "Sj",
+    "body": ["\\$S_j\\$ "],
+    "description": "S_j in tex"
+  },
+
+  "tex_S_k": {
+    "prefix": "Sk",
+    "body": ["\\$S_k\\$ "],
+    "description": "S_k in tex"
+  },
+
+  "tex_S_l": {
+    "prefix": "Sl",
+    "body": ["\\$S_l\\$ "],
+    "description": "S_l in tex"
+  },
+
+  "tex_S_m": {
+    "prefix": "Sm",
+    "body": ["\\$S_m\\$ "],
+    "description": "S_m in tex"
+  },
+
+  "tex_S_n": {
+    "prefix": "Sn",
+    "body": ["\\$S_n\\$ "],
+    "description": "S_n in tex"
+  },
+
+  "tex_S_o": {
+    "prefix": "So",
+    "body": ["\\$S_o\\$ "],
+    "description": "S_o in tex"
+  },
+
+  "tex_S_p": {
+    "prefix": "Sp",
+    "body": ["\\$S_p\\$ "],
+    "description": "S_p in tex"
+  },
+
+  "tex_S_q": {
+    "prefix": "Sq",
+    "body": ["\\$S_q\\$ "],
+    "description": "S_q in tex"
+  },
+
+  "tex_S_r": {
+    "prefix": "Sr",
+    "body": ["\\$S_r\\$ "],
+    "description": "S_r in tex"
+  },
+
+  "tex_S_s": {
+    "prefix": "Ss",
+    "body": ["\\$S_s\\$ "],
+    "description": "S_s in tex"
+  },
+
+  "tex_S_t": {
+    "prefix": "St",
+    "body": ["\\$S_t\\$ "],
+    "description": "S_t in tex"
+  },
+
+  "tex_S_u": {
+    "prefix": "Su",
+    "body": ["\\$S_u\\$ "],
+    "description": "S_u in tex"
+  },
+
+  "tex_S_v": {
+    "prefix": "Sv",
+    "body": ["\\$S_v\\$ "],
+    "description": "S_v in tex"
+  },
+
+  "tex_S_w": {
+    "prefix": "Sw",
+    "body": ["\\$S_w\\$ "],
+    "description": "S_w in tex"
+  },
+
+  "tex_S_x": {
+    "prefix": "Sx",
+    "body": ["\\$S_x\\$ "],
+    "description": "S_x in tex"
+  },
+
+  "tex_S_y": {
+    "prefix": "Sy",
+    "body": ["\\$S_y\\$ "],
+    "description": "S_y in tex"
+  },
+
+  "tex_S_z": {
+    "prefix": "Sz",
+    "body": ["\\$S_z\\$ "],
+    "description": "S_z in tex"
+  },
+
+  "tex_t": {
+    "prefix": "t",
+    "body": ["\\$t\\$ "],
+    "description": "t in tex"
+  },
+
+  "tex_t_0": {
+    "prefix": "t0",
+    "body": ["\\$t_0\\$ "],
+    "description": "t_0 in tex"
+  },
+
+  "tex_t_1": {
+    "prefix": "t1",
+    "body": ["\\$t_1\\$ "],
+    "description": "t_1 in tex"
+  },
+
+  "tex_t_2": {
+    "prefix": "t2",
+    "body": ["\\$t_2\\$ "],
+    "description": "t_2 in tex"
+  },
+
+  "tex_t_3": {
+    "prefix": "t3",
+    "body": ["\\$t_3\\$ "],
+    "description": "t_3 in tex"
+  },
+
+  "tex_t_a": {
+    "prefix": "ta",
+    "body": ["\\$t_a\\$ "],
+    "description": "t_a in tex"
+  },
+
+  "tex_t_b": {
+    "prefix": "tb",
+    "body": ["\\$t_b\\$ "],
+    "description": "t_b in tex"
+  },
+
+  "tex_t_c": {
+    "prefix": "tc",
+    "body": ["\\$t_c\\$ "],
+    "description": "t_c in tex"
+  },
+
+  "tex_t_d": {
+    "prefix": "td",
+    "body": ["\\$t_d\\$ "],
+    "description": "t_d in tex"
+  },
+
+  "tex_t_e": {
+    "prefix": "te",
+    "body": ["\\$t_e\\$ "],
+    "description": "t_e in tex"
+  },
+
+  "tex_t_f": {
+    "prefix": "tf",
+    "body": ["\\$t_f\\$ "],
+    "description": "t_f in tex"
+  },
+
+  "tex_t_g": {
+    "prefix": "tg",
+    "body": ["\\$t_g\\$ "],
+    "description": "t_g in tex"
+  },
+
+  "tex_t_h": {
+    "prefix": "th",
+    "body": ["\\$t_h\\$ "],
+    "description": "t_h in tex"
+  },
+
+  "tex_t_i": {
+    "prefix": "ti",
+    "body": ["\\$t_i\\$ "],
+    "description": "t_i in tex"
+  },
+
+  "tex_t_j": {
+    "prefix": "tj",
+    "body": ["\\$t_j\\$ "],
+    "description": "t_j in tex"
+  },
+
+  "tex_t_k": {
+    "prefix": "tk",
+    "body": ["\\$t_k\\$ "],
+    "description": "t_k in tex"
+  },
+
+  "tex_t_l": {
+    "prefix": "tl",
+    "body": ["\\$t_l\\$ "],
+    "description": "t_l in tex"
+  },
+
+  "tex_t_m": {
+    "prefix": "tm",
+    "body": ["\\$t_m\\$ "],
+    "description": "t_m in tex"
+  },
+
+  "tex_t_n": {
+    "prefix": "tn",
+    "body": ["\\$t_n\\$ "],
+    "description": "t_n in tex"
+  },
+
+  "tex_t_o": {
+    "prefix": "to",
+    "body": ["\\$t_o\\$ "],
+    "description": "t_o in tex"
+  },
+
+  "tex_t_p": {
+    "prefix": "tp",
+    "body": ["\\$t_p\\$ "],
+    "description": "t_p in tex"
+  },
+
+  "tex_t_q": {
+    "prefix": "tq",
+    "body": ["\\$t_q\\$ "],
+    "description": "t_q in tex"
+  },
+
+  "tex_t_r": {
+    "prefix": "tr",
+    "body": ["\\$t_r\\$ "],
+    "description": "t_r in tex"
+  },
+
+  "tex_t_s": {
+    "prefix": "ts",
+    "body": ["\\$t_s\\$ "],
+    "description": "t_s in tex"
+  },
+
+  "tex_t_t": {
+    "prefix": "tt",
+    "body": ["\\$t_t\\$ "],
+    "description": "t_t in tex"
+  },
+
+  "tex_t_u": {
+    "prefix": "tu",
+    "body": ["\\$t_u\\$ "],
+    "description": "t_u in tex"
+  },
+
+  "tex_t_v": {
+    "prefix": "tv",
+    "body": ["\\$t_v\\$ "],
+    "description": "t_v in tex"
+  },
+
+  "tex_t_w": {
+    "prefix": "tw",
+    "body": ["\\$t_w\\$ "],
+    "description": "t_w in tex"
+  },
+
+  "tex_t_x": {
+    "prefix": "tx",
+    "body": ["\\$t_x\\$ "],
+    "description": "t_x in tex"
+  },
+
+  "tex_t_y": {
+    "prefix": "ty",
+    "body": ["\\$t_y\\$ "],
+    "description": "t_y in tex"
+  },
+
+  "tex_t_z": {
+    "prefix": "tz",
+    "body": ["\\$t_z\\$ "],
+    "description": "t_z in tex"
+  },
+
+  "tex_T": {
+    "prefix": "T",
+    "body": ["\\$T\\$ "],
+    "description": "T in tex"
+  },
+
+  "tex_T_0": {
+    "prefix": "T0",
+    "body": ["\\$T_0\\$ "],
+    "description": "T_0 in tex"
+  },
+
+  "tex_T_1": {
+    "prefix": "T1",
+    "body": ["\\$T_1\\$ "],
+    "description": "T_1 in tex"
+  },
+
+  "tex_T_2": {
+    "prefix": "T2",
+    "body": ["\\$T_2\\$ "],
+    "description": "T_2 in tex"
+  },
+
+  "tex_T_3": {
+    "prefix": "T3",
+    "body": ["\\$T_3\\$ "],
+    "description": "T_3 in tex"
+  },
+
+  "tex_T_a": {
+    "prefix": "Ta",
+    "body": ["\\$T_a\\$ "],
+    "description": "T_a in tex"
+  },
+
+  "tex_T_b": {
+    "prefix": "Tb",
+    "body": ["\\$T_b\\$ "],
+    "description": "T_b in tex"
+  },
+
+  "tex_T_c": {
+    "prefix": "Tc",
+    "body": ["\\$T_c\\$ "],
+    "description": "T_c in tex"
+  },
+
+  "tex_T_d": {
+    "prefix": "Td",
+    "body": ["\\$T_d\\$ "],
+    "description": "T_d in tex"
+  },
+
+  "tex_T_e": {
+    "prefix": "Te",
+    "body": ["\\$T_e\\$ "],
+    "description": "T_e in tex"
+  },
+
+  "tex_T_f": {
+    "prefix": "Tf",
+    "body": ["\\$T_f\\$ "],
+    "description": "T_f in tex"
+  },
+
+  "tex_T_g": {
+    "prefix": "Tg",
+    "body": ["\\$T_g\\$ "],
+    "description": "T_g in tex"
+  },
+
+  "tex_T_h": {
+    "prefix": "Th",
+    "body": ["\\$T_h\\$ "],
+    "description": "T_h in tex"
+  },
+
+  "tex_T_i": {
+    "prefix": "Ti",
+    "body": ["\\$T_i\\$ "],
+    "description": "T_i in tex"
+  },
+
+  "tex_T_j": {
+    "prefix": "Tj",
+    "body": ["\\$T_j\\$ "],
+    "description": "T_j in tex"
+  },
+
+  "tex_T_k": {
+    "prefix": "Tk",
+    "body": ["\\$T_k\\$ "],
+    "description": "T_k in tex"
+  },
+
+  "tex_T_l": {
+    "prefix": "Tl",
+    "body": ["\\$T_l\\$ "],
+    "description": "T_l in tex"
+  },
+
+  "tex_T_m": {
+    "prefix": "Tm",
+    "body": ["\\$T_m\\$ "],
+    "description": "T_m in tex"
+  },
+
+  "tex_T_n": {
+    "prefix": "Tn",
+    "body": ["\\$T_n\\$ "],
+    "description": "T_n in tex"
+  },
+
+  "tex_T_o": {
+    "prefix": "To",
+    "body": ["\\$T_o\\$ "],
+    "description": "T_o in tex"
+  },
+
+  "tex_T_p": {
+    "prefix": "Tp",
+    "body": ["\\$T_p\\$ "],
+    "description": "T_p in tex"
+  },
+
+  "tex_T_q": {
+    "prefix": "Tq",
+    "body": ["\\$T_q\\$ "],
+    "description": "T_q in tex"
+  },
+
+  "tex_T_r": {
+    "prefix": "Tr",
+    "body": ["\\$T_r\\$ "],
+    "description": "T_r in tex"
+  },
+
+  "tex_T_s": {
+    "prefix": "Ts",
+    "body": ["\\$T_s\\$ "],
+    "description": "T_s in tex"
+  },
+
+  "tex_T_t": {
+    "prefix": "Tt",
+    "body": ["\\$T_t\\$ "],
+    "description": "T_t in tex"
+  },
+
+  "tex_T_u": {
+    "prefix": "Tu",
+    "body": ["\\$T_u\\$ "],
+    "description": "T_u in tex"
+  },
+
+  "tex_T_v": {
+    "prefix": "Tv",
+    "body": ["\\$T_v\\$ "],
+    "description": "T_v in tex"
+  },
+
+  "tex_T_w": {
+    "prefix": "Tw",
+    "body": ["\\$T_w\\$ "],
+    "description": "T_w in tex"
+  },
+
+  "tex_T_x": {
+    "prefix": "Tx",
+    "body": ["\\$T_x\\$ "],
+    "description": "T_x in tex"
+  },
+
+  "tex_T_y": {
+    "prefix": "Ty",
+    "body": ["\\$T_y\\$ "],
+    "description": "T_y in tex"
+  },
+
+  "tex_T_z": {
+    "prefix": "Tz",
+    "body": ["\\$T_z\\$ "],
+    "description": "T_z in tex"
+  },
+
+  "tex_u": {
+    "prefix": "u",
+    "body": ["\\$u\\$ "],
+    "description": "u in tex"
+  },
+
+  "tex_u_0": {
+    "prefix": "u0",
+    "body": ["\\$u_0\\$ "],
+    "description": "u_0 in tex"
+  },
+
+  "tex_u_1": {
+    "prefix": "u1",
+    "body": ["\\$u_1\\$ "],
+    "description": "u_1 in tex"
+  },
+
+  "tex_u_2": {
+    "prefix": "u2",
+    "body": ["\\$u_2\\$ "],
+    "description": "u_2 in tex"
+  },
+
+  "tex_u_3": {
+    "prefix": "u3",
+    "body": ["\\$u_3\\$ "],
+    "description": "u_3 in tex"
+  },
+
+  "tex_u_a": {
+    "prefix": "ua",
+    "body": ["\\$u_a\\$ "],
+    "description": "u_a in tex"
+  },
+
+  "tex_u_b": {
+    "prefix": "ub",
+    "body": ["\\$u_b\\$ "],
+    "description": "u_b in tex"
+  },
+
+  "tex_u_c": {
+    "prefix": "uc",
+    "body": ["\\$u_c\\$ "],
+    "description": "u_c in tex"
+  },
+
+  "tex_u_d": {
+    "prefix": "ud",
+    "body": ["\\$u_d\\$ "],
+    "description": "u_d in tex"
+  },
+
+  "tex_u_e": {
+    "prefix": "ue",
+    "body": ["\\$u_e\\$ "],
+    "description": "u_e in tex"
+  },
+
+  "tex_u_f": {
+    "prefix": "uf",
+    "body": ["\\$u_f\\$ "],
+    "description": "u_f in tex"
+  },
+
+  "tex_u_g": {
+    "prefix": "ug",
+    "body": ["\\$u_g\\$ "],
+    "description": "u_g in tex"
+  },
+
+  "tex_u_h": {
+    "prefix": "uh",
+    "body": ["\\$u_h\\$ "],
+    "description": "u_h in tex"
+  },
+
+  "tex_u_i": {
+    "prefix": "ui",
+    "body": ["\\$u_i\\$ "],
+    "description": "u_i in tex"
+  },
+
+  "tex_u_j": {
+    "prefix": "uj",
+    "body": ["\\$u_j\\$ "],
+    "description": "u_j in tex"
+  },
+
+  "tex_u_k": {
+    "prefix": "uk",
+    "body": ["\\$u_k\\$ "],
+    "description": "u_k in tex"
+  },
+
+  "tex_u_l": {
+    "prefix": "ul",
+    "body": ["\\$u_l\\$ "],
+    "description": "u_l in tex"
+  },
+
+  "tex_u_m": {
+    "prefix": "um",
+    "body": ["\\$u_m\\$ "],
+    "description": "u_m in tex"
+  },
+
+  "tex_u_n": {
+    "prefix": "un",
+    "body": ["\\$u_n\\$ "],
+    "description": "u_n in tex"
+  },
+
+  "tex_u_o": {
+    "prefix": "uo",
+    "body": ["\\$u_o\\$ "],
+    "description": "u_o in tex"
+  },
+
+  "tex_u_p": {
+    "prefix": "up",
+    "body": ["\\$u_p\\$ "],
+    "description": "u_p in tex"
+  },
+
+  "tex_u_q": {
+    "prefix": "uq",
+    "body": ["\\$u_q\\$ "],
+    "description": "u_q in tex"
+  },
+
+  "tex_u_r": {
+    "prefix": "ur",
+    "body": ["\\$u_r\\$ "],
+    "description": "u_r in tex"
+  },
+
+  "tex_u_s": {
+    "prefix": "us",
+    "body": ["\\$u_s\\$ "],
+    "description": "u_s in tex"
+  },
+
+  "tex_u_t": {
+    "prefix": "ut",
+    "body": ["\\$u_t\\$ "],
+    "description": "u_t in tex"
+  },
+
+  "tex_u_u": {
+    "prefix": "uu",
+    "body": ["\\$u_u\\$ "],
+    "description": "u_u in tex"
+  },
+
+  "tex_u_v": {
+    "prefix": "uv",
+    "body": ["\\$u_v\\$ "],
+    "description": "u_v in tex"
+  },
+
+  "tex_u_w": {
+    "prefix": "uw",
+    "body": ["\\$u_w\\$ "],
+    "description": "u_w in tex"
+  },
+
+  "tex_u_x": {
+    "prefix": "ux",
+    "body": ["\\$u_x\\$ "],
+    "description": "u_x in tex"
+  },
+
+  "tex_u_y": {
+    "prefix": "uy",
+    "body": ["\\$u_y\\$ "],
+    "description": "u_y in tex"
+  },
+
+  "tex_u_z": {
+    "prefix": "uz",
+    "body": ["\\$u_z\\$ "],
+    "description": "u_z in tex"
+  },
+
+  "tex_U": {
+    "prefix": "U",
+    "body": ["\\$U\\$ "],
+    "description": "U in tex"
+  },
+
+  "tex_U_0": {
+    "prefix": "U0",
+    "body": ["\\$U_0\\$ "],
+    "description": "U_0 in tex"
+  },
+
+  "tex_U_1": {
+    "prefix": "U1",
+    "body": ["\\$U_1\\$ "],
+    "description": "U_1 in tex"
+  },
+
+  "tex_U_2": {
+    "prefix": "U2",
+    "body": ["\\$U_2\\$ "],
+    "description": "U_2 in tex"
+  },
+
+  "tex_U_3": {
+    "prefix": "U3",
+    "body": ["\\$U_3\\$ "],
+    "description": "U_3 in tex"
+  },
+
+  "tex_U_a": {
+    "prefix": "Ua",
+    "body": ["\\$U_a\\$ "],
+    "description": "U_a in tex"
+  },
+
+  "tex_U_b": {
+    "prefix": "Ub",
+    "body": ["\\$U_b\\$ "],
+    "description": "U_b in tex"
+  },
+
+  "tex_U_c": {
+    "prefix": "Uc",
+    "body": ["\\$U_c\\$ "],
+    "description": "U_c in tex"
+  },
+
+  "tex_U_d": {
+    "prefix": "Ud",
+    "body": ["\\$U_d\\$ "],
+    "description": "U_d in tex"
+  },
+
+  "tex_U_e": {
+    "prefix": "Ue",
+    "body": ["\\$U_e\\$ "],
+    "description": "U_e in tex"
+  },
+
+  "tex_U_f": {
+    "prefix": "Uf",
+    "body": ["\\$U_f\\$ "],
+    "description": "U_f in tex"
+  },
+
+  "tex_U_g": {
+    "prefix": "Ug",
+    "body": ["\\$U_g\\$ "],
+    "description": "U_g in tex"
+  },
+
+  "tex_U_h": {
+    "prefix": "Uh",
+    "body": ["\\$U_h\\$ "],
+    "description": "U_h in tex"
+  },
+
+  "tex_U_i": {
+    "prefix": "Ui",
+    "body": ["\\$U_i\\$ "],
+    "description": "U_i in tex"
+  },
+
+  "tex_U_j": {
+    "prefix": "Uj",
+    "body": ["\\$U_j\\$ "],
+    "description": "U_j in tex"
+  },
+
+  "tex_U_k": {
+    "prefix": "Uk",
+    "body": ["\\$U_k\\$ "],
+    "description": "U_k in tex"
+  },
+
+  "tex_U_l": {
+    "prefix": "Ul",
+    "body": ["\\$U_l\\$ "],
+    "description": "U_l in tex"
+  },
+
+  "tex_U_m": {
+    "prefix": "Um",
+    "body": ["\\$U_m\\$ "],
+    "description": "U_m in tex"
+  },
+
+  "tex_U_n": {
+    "prefix": "Un",
+    "body": ["\\$U_n\\$ "],
+    "description": "U_n in tex"
+  },
+
+  "tex_U_o": {
+    "prefix": "Uo",
+    "body": ["\\$U_o\\$ "],
+    "description": "U_o in tex"
+  },
+
+  "tex_U_p": {
+    "prefix": "Up",
+    "body": ["\\$U_p\\$ "],
+    "description": "U_p in tex"
+  },
+
+  "tex_U_q": {
+    "prefix": "Uq",
+    "body": ["\\$U_q\\$ "],
+    "description": "U_q in tex"
+  },
+
+  "tex_U_r": {
+    "prefix": "Ur",
+    "body": ["\\$U_r\\$ "],
+    "description": "U_r in tex"
+  },
+
+  "tex_U_s": {
+    "prefix": "Us",
+    "body": ["\\$U_s\\$ "],
+    "description": "U_s in tex"
+  },
+
+  "tex_U_t": {
+    "prefix": "Ut",
+    "body": ["\\$U_t\\$ "],
+    "description": "U_t in tex"
+  },
+
+  "tex_U_u": {
+    "prefix": "Uu",
+    "body": ["\\$U_u\\$ "],
+    "description": "U_u in tex"
+  },
+
+  "tex_U_v": {
+    "prefix": "Uv",
+    "body": ["\\$U_v\\$ "],
+    "description": "U_v in tex"
+  },
+
+  "tex_U_w": {
+    "prefix": "Uw",
+    "body": ["\\$U_w\\$ "],
+    "description": "U_w in tex"
+  },
+
+  "tex_U_x": {
+    "prefix": "Ux",
+    "body": ["\\$U_x\\$ "],
+    "description": "U_x in tex"
+  },
+
+  "tex_U_y": {
+    "prefix": "Uy",
+    "body": ["\\$U_y\\$ "],
+    "description": "U_y in tex"
+  },
+
+  "tex_U_z": {
+    "prefix": "Uz",
+    "body": ["\\$U_z\\$ "],
+    "description": "U_z in tex"
+  },
+
+  "tex_v": {
+    "prefix": "v",
+    "body": ["\\$v\\$ "],
+    "description": "v in tex"
+  },
+
+  "tex_v_0": {
+    "prefix": "v0",
+    "body": ["\\$v_0\\$ "],
+    "description": "v_0 in tex"
+  },
+
+  "tex_v_1": {
+    "prefix": "v1",
+    "body": ["\\$v_1\\$ "],
+    "description": "v_1 in tex"
+  },
+
+  "tex_v_2": {
+    "prefix": "v2",
+    "body": ["\\$v_2\\$ "],
+    "description": "v_2 in tex"
+  },
+
+  "tex_v_3": {
+    "prefix": "v3",
+    "body": ["\\$v_3\\$ "],
+    "description": "v_3 in tex"
+  },
+
+  "tex_v_a": {
+    "prefix": "va",
+    "body": ["\\$v_a\\$ "],
+    "description": "v_a in tex"
+  },
+
+  "tex_v_b": {
+    "prefix": "vb",
+    "body": ["\\$v_b\\$ "],
+    "description": "v_b in tex"
+  },
+
+  "tex_v_c": {
+    "prefix": "vc",
+    "body": ["\\$v_c\\$ "],
+    "description": "v_c in tex"
+  },
+
+  "tex_v_d": {
+    "prefix": "vd",
+    "body": ["\\$v_d\\$ "],
+    "description": "v_d in tex"
+  },
+
+  "tex_v_e": {
+    "prefix": "ve",
+    "body": ["\\$v_e\\$ "],
+    "description": "v_e in tex"
+  },
+
+  "tex_v_f": {
+    "prefix": "vf",
+    "body": ["\\$v_f\\$ "],
+    "description": "v_f in tex"
+  },
+
+  "tex_v_g": {
+    "prefix": "vg",
+    "body": ["\\$v_g\\$ "],
+    "description": "v_g in tex"
+  },
+
+  "tex_v_h": {
+    "prefix": "vh",
+    "body": ["\\$v_h\\$ "],
+    "description": "v_h in tex"
+  },
+
+  "tex_v_i": {
+    "prefix": "vi",
+    "body": ["\\$v_i\\$ "],
+    "description": "v_i in tex"
+  },
+
+  "tex_v_j": {
+    "prefix": "vj",
+    "body": ["\\$v_j\\$ "],
+    "description": "v_j in tex"
+  },
+
+  "tex_v_k": {
+    "prefix": "vk",
+    "body": ["\\$v_k\\$ "],
+    "description": "v_k in tex"
+  },
+
+  "tex_v_l": {
+    "prefix": "vl",
+    "body": ["\\$v_l\\$ "],
+    "description": "v_l in tex"
+  },
+
+  "tex_v_m": {
+    "prefix": "vm",
+    "body": ["\\$v_m\\$ "],
+    "description": "v_m in tex"
+  },
+
+  "tex_v_n": {
+    "prefix": "vn",
+    "body": ["\\$v_n\\$ "],
+    "description": "v_n in tex"
+  },
+
+  "tex_v_o": {
+    "prefix": "vo",
+    "body": ["\\$v_o\\$ "],
+    "description": "v_o in tex"
+  },
+
+  "tex_v_p": {
+    "prefix": "vp",
+    "body": ["\\$v_p\\$ "],
+    "description": "v_p in tex"
+  },
+
+  "tex_v_q": {
+    "prefix": "vq",
+    "body": ["\\$v_q\\$ "],
+    "description": "v_q in tex"
+  },
+
+  "tex_v_r": {
+    "prefix": "vr",
+    "body": ["\\$v_r\\$ "],
+    "description": "v_r in tex"
+  },
+
+  "tex_v_s": {
+    "prefix": "vs",
+    "body": ["\\$v_s\\$ "],
+    "description": "v_s in tex"
+  },
+
+  "tex_v_t": {
+    "prefix": "vt",
+    "body": ["\\$v_t\\$ "],
+    "description": "v_t in tex"
+  },
+
+  "tex_v_u": {
+    "prefix": "vu",
+    "body": ["\\$v_u\\$ "],
+    "description": "v_u in tex"
+  },
+
+  "tex_v_v": {
+    "prefix": "vv",
+    "body": ["\\$v_v\\$ "],
+    "description": "v_v in tex"
+  },
+
+  "tex_v_w": {
+    "prefix": "vw",
+    "body": ["\\$v_w\\$ "],
+    "description": "v_w in tex"
+  },
+
+  "tex_v_x": {
+    "prefix": "vx",
+    "body": ["\\$v_x\\$ "],
+    "description": "v_x in tex"
+  },
+
+  "tex_v_y": {
+    "prefix": "vy",
+    "body": ["\\$v_y\\$ "],
+    "description": "v_y in tex"
+  },
+
+  "tex_v_z": {
+    "prefix": "vz",
+    "body": ["\\$v_z\\$ "],
+    "description": "v_z in tex"
+  },
+
+  "tex_V": {
+    "prefix": "V",
+    "body": ["\\$V\\$ "],
+    "description": "V in tex"
+  },
+
+  "tex_V_0": {
+    "prefix": "V0",
+    "body": ["\\$V_0\\$ "],
+    "description": "V_0 in tex"
+  },
+
+  "tex_V_1": {
+    "prefix": "V1",
+    "body": ["\\$V_1\\$ "],
+    "description": "V_1 in tex"
+  },
+
+  "tex_V_2": {
+    "prefix": "V2",
+    "body": ["\\$V_2\\$ "],
+    "description": "V_2 in tex"
+  },
+
+  "tex_V_3": {
+    "prefix": "V3",
+    "body": ["\\$V_3\\$ "],
+    "description": "V_3 in tex"
+  },
+
+  "tex_V_a": {
+    "prefix": "Va",
+    "body": ["\\$V_a\\$ "],
+    "description": "V_a in tex"
+  },
+
+  "tex_V_b": {
+    "prefix": "Vb",
+    "body": ["\\$V_b\\$ "],
+    "description": "V_b in tex"
+  },
+
+  "tex_V_c": {
+    "prefix": "Vc",
+    "body": ["\\$V_c\\$ "],
+    "description": "V_c in tex"
+  },
+
+  "tex_V_d": {
+    "prefix": "Vd",
+    "body": ["\\$V_d\\$ "],
+    "description": "V_d in tex"
+  },
+
+  "tex_V_e": {
+    "prefix": "Ve",
+    "body": ["\\$V_e\\$ "],
+    "description": "V_e in tex"
+  },
+
+  "tex_V_f": {
+    "prefix": "Vf",
+    "body": ["\\$V_f\\$ "],
+    "description": "V_f in tex"
+  },
+
+  "tex_V_g": {
+    "prefix": "Vg",
+    "body": ["\\$V_g\\$ "],
+    "description": "V_g in tex"
+  },
+
+  "tex_V_h": {
+    "prefix": "Vh",
+    "body": ["\\$V_h\\$ "],
+    "description": "V_h in tex"
+  },
+
+  "tex_V_i": {
+    "prefix": "Vi",
+    "body": ["\\$V_i\\$ "],
+    "description": "V_i in tex"
+  },
+
+  "tex_V_j": {
+    "prefix": "Vj",
+    "body": ["\\$V_j\\$ "],
+    "description": "V_j in tex"
+  },
+
+  "tex_V_k": {
+    "prefix": "Vk",
+    "body": ["\\$V_k\\$ "],
+    "description": "V_k in tex"
+  },
+
+  "tex_V_l": {
+    "prefix": "Vl",
+    "body": ["\\$V_l\\$ "],
+    "description": "V_l in tex"
+  },
+
+  "tex_V_m": {
+    "prefix": "Vm",
+    "body": ["\\$V_m\\$ "],
+    "description": "V_m in tex"
+  },
+
+  "tex_V_n": {
+    "prefix": "Vn",
+    "body": ["\\$V_n\\$ "],
+    "description": "V_n in tex"
+  },
+
+  "tex_V_o": {
+    "prefix": "Vo",
+    "body": ["\\$V_o\\$ "],
+    "description": "V_o in tex"
+  },
+
+  "tex_V_p": {
+    "prefix": "Vp",
+    "body": ["\\$V_p\\$ "],
+    "description": "V_p in tex"
+  },
+
+  "tex_V_q": {
+    "prefix": "Vq",
+    "body": ["\\$V_q\\$ "],
+    "description": "V_q in tex"
+  },
+
+  "tex_V_r": {
+    "prefix": "Vr",
+    "body": ["\\$V_r\\$ "],
+    "description": "V_r in tex"
+  },
+
+  "tex_V_s": {
+    "prefix": "Vs",
+    "body": ["\\$V_s\\$ "],
+    "description": "V_s in tex"
+  },
+
+  "tex_V_t": {
+    "prefix": "Vt",
+    "body": ["\\$V_t\\$ "],
+    "description": "V_t in tex"
+  },
+
+  "tex_V_u": {
+    "prefix": "Vu",
+    "body": ["\\$V_u\\$ "],
+    "description": "V_u in tex"
+  },
+
+  "tex_V_v": {
+    "prefix": "Vv",
+    "body": ["\\$V_v\\$ "],
+    "description": "V_v in tex"
+  },
+
+  "tex_V_w": {
+    "prefix": "Vw",
+    "body": ["\\$V_w\\$ "],
+    "description": "V_w in tex"
+  },
+
+  "tex_V_x": {
+    "prefix": "Vx",
+    "body": ["\\$V_x\\$ "],
+    "description": "V_x in tex"
+  },
+
+  "tex_V_y": {
+    "prefix": "Vy",
+    "body": ["\\$V_y\\$ "],
+    "description": "V_y in tex"
+  },
+
+  "tex_V_z": {
+    "prefix": "Vz",
+    "body": ["\\$V_z\\$ "],
+    "description": "V_z in tex"
+  },
+
+  "tex_w": {
+    "prefix": "w",
+    "body": ["\\$w\\$ "],
+    "description": "w in tex"
+  },
+
+  "tex_w_0": {
+    "prefix": "w0",
+    "body": ["\\$w_0\\$ "],
+    "description": "w_0 in tex"
+  },
+
+  "tex_w_1": {
+    "prefix": "w1",
+    "body": ["\\$w_1\\$ "],
+    "description": "w_1 in tex"
+  },
+
+  "tex_w_2": {
+    "prefix": "w2",
+    "body": ["\\$w_2\\$ "],
+    "description": "w_2 in tex"
+  },
+
+  "tex_w_3": {
+    "prefix": "w3",
+    "body": ["\\$w_3\\$ "],
+    "description": "w_3 in tex"
+  },
+
+  "tex_w_a": {
+    "prefix": "wa",
+    "body": ["\\$w_a\\$ "],
+    "description": "w_a in tex"
+  },
+
+  "tex_w_b": {
+    "prefix": "wb",
+    "body": ["\\$w_b\\$ "],
+    "description": "w_b in tex"
+  },
+
+  "tex_w_c": {
+    "prefix": "wc",
+    "body": ["\\$w_c\\$ "],
+    "description": "w_c in tex"
+  },
+
+  "tex_w_d": {
+    "prefix": "wd",
+    "body": ["\\$w_d\\$ "],
+    "description": "w_d in tex"
+  },
+
+  "tex_w_e": {
+    "prefix": "we",
+    "body": ["\\$w_e\\$ "],
+    "description": "w_e in tex"
+  },
+
+  "tex_w_f": {
+    "prefix": "wf",
+    "body": ["\\$w_f\\$ "],
+    "description": "w_f in tex"
+  },
+
+  "tex_w_g": {
+    "prefix": "wg",
+    "body": ["\\$w_g\\$ "],
+    "description": "w_g in tex"
+  },
+
+  "tex_w_h": {
+    "prefix": "wh",
+    "body": ["\\$w_h\\$ "],
+    "description": "w_h in tex"
+  },
+
+  "tex_w_i": {
+    "prefix": "wi",
+    "body": ["\\$w_i\\$ "],
+    "description": "w_i in tex"
+  },
+
+  "tex_w_j": {
+    "prefix": "wj",
+    "body": ["\\$w_j\\$ "],
+    "description": "w_j in tex"
+  },
+
+  "tex_w_k": {
+    "prefix": "wk",
+    "body": ["\\$w_k\\$ "],
+    "description": "w_k in tex"
+  },
+
+  "tex_w_l": {
+    "prefix": "wl",
+    "body": ["\\$w_l\\$ "],
+    "description": "w_l in tex"
+  },
+
+  "tex_w_m": {
+    "prefix": "wm",
+    "body": ["\\$w_m\\$ "],
+    "description": "w_m in tex"
+  },
+
+  "tex_w_n": {
+    "prefix": "wn",
+    "body": ["\\$w_n\\$ "],
+    "description": "w_n in tex"
+  },
+
+  "tex_w_o": {
+    "prefix": "wo",
+    "body": ["\\$w_o\\$ "],
+    "description": "w_o in tex"
+  },
+
+  "tex_w_p": {
+    "prefix": "wp",
+    "body": ["\\$w_p\\$ "],
+    "description": "w_p in tex"
+  },
+
+  "tex_w_q": {
+    "prefix": "wq",
+    "body": ["\\$w_q\\$ "],
+    "description": "w_q in tex"
+  },
+
+  "tex_w_r": {
+    "prefix": "wr",
+    "body": ["\\$w_r\\$ "],
+    "description": "w_r in tex"
+  },
+
+  "tex_w_s": {
+    "prefix": "ws",
+    "body": ["\\$w_s\\$ "],
+    "description": "w_s in tex"
+  },
+
+  "tex_w_t": {
+    "prefix": "wt",
+    "body": ["\\$w_t\\$ "],
+    "description": "w_t in tex"
+  },
+
+  "tex_w_u": {
+    "prefix": "wu",
+    "body": ["\\$w_u\\$ "],
+    "description": "w_u in tex"
+  },
+
+  "tex_w_v": {
+    "prefix": "wv",
+    "body": ["\\$w_v\\$ "],
+    "description": "w_v in tex"
+  },
+
+  "tex_w_w": {
+    "prefix": "ww",
+    "body": ["\\$w_w\\$ "],
+    "description": "w_w in tex"
+  },
+
+  "tex_w_x": {
+    "prefix": "wx",
+    "body": ["\\$w_x\\$ "],
+    "description": "w_x in tex"
+  },
+
+  "tex_w_y": {
+    "prefix": "wy",
+    "body": ["\\$w_y\\$ "],
+    "description": "w_y in tex"
+  },
+
+  "tex_w_z": {
+    "prefix": "wz",
+    "body": ["\\$w_z\\$ "],
+    "description": "w_z in tex"
+  },
+
+  "tex_W": {
+    "prefix": "W",
+    "body": ["\\$W\\$ "],
+    "description": "W in tex"
+  },
+
+  "tex_W_0": {
+    "prefix": "W0",
+    "body": ["\\$W_0\\$ "],
+    "description": "W_0 in tex"
+  },
+
+  "tex_W_1": {
+    "prefix": "W1",
+    "body": ["\\$W_1\\$ "],
+    "description": "W_1 in tex"
+  },
+
+  "tex_W_2": {
+    "prefix": "W2",
+    "body": ["\\$W_2\\$ "],
+    "description": "W_2 in tex"
+  },
+
+  "tex_W_3": {
+    "prefix": "W3",
+    "body": ["\\$W_3\\$ "],
+    "description": "W_3 in tex"
+  },
+
+  "tex_W_a": {
+    "prefix": "Wa",
+    "body": ["\\$W_a\\$ "],
+    "description": "W_a in tex"
+  },
+
+  "tex_W_b": {
+    "prefix": "Wb",
+    "body": ["\\$W_b\\$ "],
+    "description": "W_b in tex"
+  },
+
+  "tex_W_c": {
+    "prefix": "Wc",
+    "body": ["\\$W_c\\$ "],
+    "description": "W_c in tex"
+  },
+
+  "tex_W_d": {
+    "prefix": "Wd",
+    "body": ["\\$W_d\\$ "],
+    "description": "W_d in tex"
+  },
+
+  "tex_W_e": {
+    "prefix": "We",
+    "body": ["\\$W_e\\$ "],
+    "description": "W_e in tex"
+  },
+
+  "tex_W_f": {
+    "prefix": "Wf",
+    "body": ["\\$W_f\\$ "],
+    "description": "W_f in tex"
+  },
+
+  "tex_W_g": {
+    "prefix": "Wg",
+    "body": ["\\$W_g\\$ "],
+    "description": "W_g in tex"
+  },
+
+  "tex_W_h": {
+    "prefix": "Wh",
+    "body": ["\\$W_h\\$ "],
+    "description": "W_h in tex"
+  },
+
+  "tex_W_i": {
+    "prefix": "Wi",
+    "body": ["\\$W_i\\$ "],
+    "description": "W_i in tex"
+  },
+
+  "tex_W_j": {
+    "prefix": "Wj",
+    "body": ["\\$W_j\\$ "],
+    "description": "W_j in tex"
+  },
+
+  "tex_W_k": {
+    "prefix": "Wk",
+    "body": ["\\$W_k\\$ "],
+    "description": "W_k in tex"
+  },
+
+  "tex_W_l": {
+    "prefix": "Wl",
+    "body": ["\\$W_l\\$ "],
+    "description": "W_l in tex"
+  },
+
+  "tex_W_m": {
+    "prefix": "Wm",
+    "body": ["\\$W_m\\$ "],
+    "description": "W_m in tex"
+  },
+
+  "tex_W_n": {
+    "prefix": "Wn",
+    "body": ["\\$W_n\\$ "],
+    "description": "W_n in tex"
+  },
+
+  "tex_W_o": {
+    "prefix": "Wo",
+    "body": ["\\$W_o\\$ "],
+    "description": "W_o in tex"
+  },
+
+  "tex_W_p": {
+    "prefix": "Wp",
+    "body": ["\\$W_p\\$ "],
+    "description": "W_p in tex"
+  },
+
+  "tex_W_q": {
+    "prefix": "Wq",
+    "body": ["\\$W_q\\$ "],
+    "description": "W_q in tex"
+  },
+
+  "tex_W_r": {
+    "prefix": "Wr",
+    "body": ["\\$W_r\\$ "],
+    "description": "W_r in tex"
+  },
+
+  "tex_W_s": {
+    "prefix": "Ws",
+    "body": ["\\$W_s\\$ "],
+    "description": "W_s in tex"
+  },
+
+  "tex_W_t": {
+    "prefix": "Wt",
+    "body": ["\\$W_t\\$ "],
+    "description": "W_t in tex"
+  },
+
+  "tex_W_u": {
+    "prefix": "Wu",
+    "body": ["\\$W_u\\$ "],
+    "description": "W_u in tex"
+  },
+
+  "tex_W_v": {
+    "prefix": "Wv",
+    "body": ["\\$W_v\\$ "],
+    "description": "W_v in tex"
+  },
+
+  "tex_W_w": {
+    "prefix": "Ww",
+    "body": ["\\$W_w\\$ "],
+    "description": "W_w in tex"
+  },
+
+  "tex_W_x": {
+    "prefix": "Wx",
+    "body": ["\\$W_x\\$ "],
+    "description": "W_x in tex"
+  },
+
+  "tex_W_y": {
+    "prefix": "Wy",
+    "body": ["\\$W_y\\$ "],
+    "description": "W_y in tex"
+  },
+
+  "tex_W_z": {
+    "prefix": "Wz",
+    "body": ["\\$W_z\\$ "],
+    "description": "W_z in tex"
+  },
+
+  "tex_x": {
+    "prefix": "x",
+    "body": ["\\$x\\$ "],
+    "description": "x in tex"
+  },
+
+  "tex_x_0": {
+    "prefix": "x0",
+    "body": ["\\$x_0\\$ "],
+    "description": "x_0 in tex"
+  },
+
+  "tex_x_1": {
+    "prefix": "x1",
+    "body": ["\\$x_1\\$ "],
+    "description": "x_1 in tex"
+  },
+
+  "tex_x_2": {
+    "prefix": "x2",
+    "body": ["\\$x_2\\$ "],
+    "description": "x_2 in tex"
+  },
+
+  "tex_x_3": {
+    "prefix": "x3",
+    "body": ["\\$x_3\\$ "],
+    "description": "x_3 in tex"
+  },
+
+  "tex_x_a": {
+    "prefix": "xa",
+    "body": ["\\$x_a\\$ "],
+    "description": "x_a in tex"
+  },
+
+  "tex_x_b": {
+    "prefix": "xb",
+    "body": ["\\$x_b\\$ "],
+    "description": "x_b in tex"
+  },
+
+  "tex_x_c": {
+    "prefix": "xc",
+    "body": ["\\$x_c\\$ "],
+    "description": "x_c in tex"
+  },
+
+  "tex_x_d": {
+    "prefix": "xd",
+    "body": ["\\$x_d\\$ "],
+    "description": "x_d in tex"
+  },
+
+  "tex_x_e": {
+    "prefix": "xe",
+    "body": ["\\$x_e\\$ "],
+    "description": "x_e in tex"
+  },
+
+  "tex_x_f": {
+    "prefix": "xf",
+    "body": ["\\$x_f\\$ "],
+    "description": "x_f in tex"
+  },
+
+  "tex_x_g": {
+    "prefix": "xg",
+    "body": ["\\$x_g\\$ "],
+    "description": "x_g in tex"
+  },
+
+  "tex_x_h": {
+    "prefix": "xh",
+    "body": ["\\$x_h\\$ "],
+    "description": "x_h in tex"
+  },
+
+  "tex_x_i": {
+    "prefix": "xi",
+    "body": ["\\$x_i\\$ "],
+    "description": "x_i in tex"
+  },
+
+  "tex_x_j": {
+    "prefix": "xj",
+    "body": ["\\$x_j\\$ "],
+    "description": "x_j in tex"
+  },
+
+  "tex_x_k": {
+    "prefix": "xk",
+    "body": ["\\$x_k\\$ "],
+    "description": "x_k in tex"
+  },
+
+  "tex_x_l": {
+    "prefix": "xl",
+    "body": ["\\$x_l\\$ "],
+    "description": "x_l in tex"
+  },
+
+  "tex_x_m": {
+    "prefix": "xm",
+    "body": ["\\$x_m\\$ "],
+    "description": "x_m in tex"
+  },
+
+  "tex_x_n": {
+    "prefix": "xn",
+    "body": ["\\$x_n\\$ "],
+    "description": "x_n in tex"
+  },
+
+  "tex_x_o": {
+    "prefix": "xo",
+    "body": ["\\$x_o\\$ "],
+    "description": "x_o in tex"
+  },
+
+  "tex_x_p": {
+    "prefix": "xp",
+    "body": ["\\$x_p\\$ "],
+    "description": "x_p in tex"
+  },
+
+  "tex_x_q": {
+    "prefix": "xq",
+    "body": ["\\$x_q\\$ "],
+    "description": "x_q in tex"
+  },
+
+  "tex_x_r": {
+    "prefix": "xr",
+    "body": ["\\$x_r\\$ "],
+    "description": "x_r in tex"
+  },
+
+  "tex_x_s": {
+    "prefix": "xs",
+    "body": ["\\$x_s\\$ "],
+    "description": "x_s in tex"
+  },
+
+  "tex_x_t": {
+    "prefix": "xt",
+    "body": ["\\$x_t\\$ "],
+    "description": "x_t in tex"
+  },
+
+  "tex_x_u": {
+    "prefix": "xu",
+    "body": ["\\$x_u\\$ "],
+    "description": "x_u in tex"
+  },
+
+  "tex_x_v": {
+    "prefix": "xv",
+    "body": ["\\$x_v\\$ "],
+    "description": "x_v in tex"
+  },
+
+  "tex_x_w": {
+    "prefix": "xw",
+    "body": ["\\$x_w\\$ "],
+    "description": "x_w in tex"
+  },
+
+  "tex_x_x": {
+    "prefix": "xx",
+    "body": ["\\$x_x\\$ "],
+    "description": "x_x in tex"
+  },
+
+  "tex_x_y": {
+    "prefix": "xy",
+    "body": ["\\$x_y\\$ "],
+    "description": "x_y in tex"
+  },
+
+  "tex_x_z": {
+    "prefix": "xz",
+    "body": ["\\$x_z\\$ "],
+    "description": "x_z in tex"
+  },
+
+  "tex_X": {
+    "prefix": "X",
+    "body": ["\\$X\\$ "],
+    "description": "X in tex"
+  },
+
+  "tex_X_0": {
+    "prefix": "X0",
+    "body": ["\\$X_0\\$ "],
+    "description": "X_0 in tex"
+  },
+
+  "tex_X_1": {
+    "prefix": "X1",
+    "body": ["\\$X_1\\$ "],
+    "description": "X_1 in tex"
+  },
+
+  "tex_X_2": {
+    "prefix": "X2",
+    "body": ["\\$X_2\\$ "],
+    "description": "X_2 in tex"
+  },
+
+  "tex_X_3": {
+    "prefix": "X3",
+    "body": ["\\$X_3\\$ "],
+    "description": "X_3 in tex"
+  },
+
+  "tex_X_a": {
+    "prefix": "Xa",
+    "body": ["\\$X_a\\$ "],
+    "description": "X_a in tex"
+  },
+
+  "tex_X_b": {
+    "prefix": "Xb",
+    "body": ["\\$X_b\\$ "],
+    "description": "X_b in tex"
+  },
+
+  "tex_X_c": {
+    "prefix": "Xc",
+    "body": ["\\$X_c\\$ "],
+    "description": "X_c in tex"
+  },
+
+  "tex_X_d": {
+    "prefix": "Xd",
+    "body": ["\\$X_d\\$ "],
+    "description": "X_d in tex"
+  },
+
+  "tex_X_e": {
+    "prefix": "Xe",
+    "body": ["\\$X_e\\$ "],
+    "description": "X_e in tex"
+  },
+
+  "tex_X_f": {
+    "prefix": "Xf",
+    "body": ["\\$X_f\\$ "],
+    "description": "X_f in tex"
+  },
+
+  "tex_X_g": {
+    "prefix": "Xg",
+    "body": ["\\$X_g\\$ "],
+    "description": "X_g in tex"
+  },
+
+  "tex_X_h": {
+    "prefix": "Xh",
+    "body": ["\\$X_h\\$ "],
+    "description": "X_h in tex"
+  },
+
+  "tex_X_i": {
+    "prefix": "Xi",
+    "body": ["\\$X_i\\$ "],
+    "description": "X_i in tex"
+  },
+
+  "tex_X_j": {
+    "prefix": "Xj",
+    "body": ["\\$X_j\\$ "],
+    "description": "X_j in tex"
+  },
+
+  "tex_X_k": {
+    "prefix": "Xk",
+    "body": ["\\$X_k\\$ "],
+    "description": "X_k in tex"
+  },
+
+  "tex_X_l": {
+    "prefix": "Xl",
+    "body": ["\\$X_l\\$ "],
+    "description": "X_l in tex"
+  },
+
+  "tex_X_m": {
+    "prefix": "Xm",
+    "body": ["\\$X_m\\$ "],
+    "description": "X_m in tex"
+  },
+
+  "tex_X_n": {
+    "prefix": "Xn",
+    "body": ["\\$X_n\\$ "],
+    "description": "X_n in tex"
+  },
+
+  "tex_X_o": {
+    "prefix": "Xo",
+    "body": ["\\$X_o\\$ "],
+    "description": "X_o in tex"
+  },
+
+  "tex_X_p": {
+    "prefix": "Xp",
+    "body": ["\\$X_p\\$ "],
+    "description": "X_p in tex"
+  },
+
+  "tex_X_q": {
+    "prefix": "Xq",
+    "body": ["\\$X_q\\$ "],
+    "description": "X_q in tex"
+  },
+
+  "tex_X_r": {
+    "prefix": "Xr",
+    "body": ["\\$X_r\\$ "],
+    "description": "X_r in tex"
+  },
+
+  "tex_X_s": {
+    "prefix": "Xs",
+    "body": ["\\$X_s\\$ "],
+    "description": "X_s in tex"
+  },
+
+  "tex_X_t": {
+    "prefix": "Xt",
+    "body": ["\\$X_t\\$ "],
+    "description": "X_t in tex"
+  },
+
+  "tex_X_u": {
+    "prefix": "Xu",
+    "body": ["\\$X_u\\$ "],
+    "description": "X_u in tex"
+  },
+
+  "tex_X_v": {
+    "prefix": "Xv",
+    "body": ["\\$X_v\\$ "],
+    "description": "X_v in tex"
+  },
+
+  "tex_X_w": {
+    "prefix": "Xw",
+    "body": ["\\$X_w\\$ "],
+    "description": "X_w in tex"
+  },
+
+  "tex_X_x": {
+    "prefix": "Xx",
+    "body": ["\\$X_x\\$ "],
+    "description": "X_x in tex"
+  },
+
+  "tex_X_y": {
+    "prefix": "Xy",
+    "body": ["\\$X_y\\$ "],
+    "description": "X_y in tex"
+  },
+
+  "tex_X_z": {
+    "prefix": "Xz",
+    "body": ["\\$X_z\\$ "],
+    "description": "X_z in tex"
+  },
+
+  "tex_y": {
+    "prefix": "y",
+    "body": ["\\$y\\$ "],
+    "description": "y in tex"
+  },
+
+  "tex_y_0": {
+    "prefix": "y0",
+    "body": ["\\$y_0\\$ "],
+    "description": "y_0 in tex"
+  },
+
+  "tex_y_1": {
+    "prefix": "y1",
+    "body": ["\\$y_1\\$ "],
+    "description": "y_1 in tex"
+  },
+
+  "tex_y_2": {
+    "prefix": "y2",
+    "body": ["\\$y_2\\$ "],
+    "description": "y_2 in tex"
+  },
+
+  "tex_y_3": {
+    "prefix": "y3",
+    "body": ["\\$y_3\\$ "],
+    "description": "y_3 in tex"
+  },
+
+  "tex_y_a": {
+    "prefix": "ya",
+    "body": ["\\$y_a\\$ "],
+    "description": "y_a in tex"
+  },
+
+  "tex_y_b": {
+    "prefix": "yb",
+    "body": ["\\$y_b\\$ "],
+    "description": "y_b in tex"
+  },
+
+  "tex_y_c": {
+    "prefix": "yc",
+    "body": ["\\$y_c\\$ "],
+    "description": "y_c in tex"
+  },
+
+  "tex_y_d": {
+    "prefix": "yd",
+    "body": ["\\$y_d\\$ "],
+    "description": "y_d in tex"
+  },
+
+  "tex_y_e": {
+    "prefix": "ye",
+    "body": ["\\$y_e\\$ "],
+    "description": "y_e in tex"
+  },
+
+  "tex_y_f": {
+    "prefix": "yf",
+    "body": ["\\$y_f\\$ "],
+    "description": "y_f in tex"
+  },
+
+  "tex_y_g": {
+    "prefix": "yg",
+    "body": ["\\$y_g\\$ "],
+    "description": "y_g in tex"
+  },
+
+  "tex_y_h": {
+    "prefix": "yh",
+    "body": ["\\$y_h\\$ "],
+    "description": "y_h in tex"
+  },
+
+  "tex_y_i": {
+    "prefix": "yi",
+    "body": ["\\$y_i\\$ "],
+    "description": "y_i in tex"
+  },
+
+  "tex_y_j": {
+    "prefix": "yj",
+    "body": ["\\$y_j\\$ "],
+    "description": "y_j in tex"
+  },
+
+  "tex_y_k": {
+    "prefix": "yk",
+    "body": ["\\$y_k\\$ "],
+    "description": "y_k in tex"
+  },
+
+  "tex_y_l": {
+    "prefix": "yl",
+    "body": ["\\$y_l\\$ "],
+    "description": "y_l in tex"
+  },
+
+  "tex_y_m": {
+    "prefix": "ym",
+    "body": ["\\$y_m\\$ "],
+    "description": "y_m in tex"
+  },
+
+  "tex_y_n": {
+    "prefix": "yn",
+    "body": ["\\$y_n\\$ "],
+    "description": "y_n in tex"
+  },
+
+  "tex_y_o": {
+    "prefix": "yo",
+    "body": ["\\$y_o\\$ "],
+    "description": "y_o in tex"
+  },
+
+  "tex_y_p": {
+    "prefix": "yp",
+    "body": ["\\$y_p\\$ "],
+    "description": "y_p in tex"
+  },
+
+  "tex_y_q": {
+    "prefix": "yq",
+    "body": ["\\$y_q\\$ "],
+    "description": "y_q in tex"
+  },
+
+  "tex_y_r": {
+    "prefix": "yr",
+    "body": ["\\$y_r\\$ "],
+    "description": "y_r in tex"
+  },
+
+  "tex_y_s": {
+    "prefix": "ys",
+    "body": ["\\$y_s\\$ "],
+    "description": "y_s in tex"
+  },
+
+  "tex_y_t": {
+    "prefix": "yt",
+    "body": ["\\$y_t\\$ "],
+    "description": "y_t in tex"
+  },
+
+  "tex_y_u": {
+    "prefix": "yu",
+    "body": ["\\$y_u\\$ "],
+    "description": "y_u in tex"
+  },
+
+  "tex_y_v": {
+    "prefix": "yv",
+    "body": ["\\$y_v\\$ "],
+    "description": "y_v in tex"
+  },
+
+  "tex_y_w": {
+    "prefix": "yw",
+    "body": ["\\$y_w\\$ "],
+    "description": "y_w in tex"
+  },
+
+  "tex_y_x": {
+    "prefix": "yx",
+    "body": ["\\$y_x\\$ "],
+    "description": "y_x in tex"
+  },
+
+  "tex_y_y": {
+    "prefix": "yy",
+    "body": ["\\$y_y\\$ "],
+    "description": "y_y in tex"
+  },
+
+  "tex_y_z": {
+    "prefix": "yz",
+    "body": ["\\$y_z\\$ "],
+    "description": "y_z in tex"
+  },
+
+  "tex_Y": {
+    "prefix": "Y",
+    "body": ["\\$Y\\$ "],
+    "description": "Y in tex"
+  },
+
+  "tex_Y_0": {
+    "prefix": "Y0",
+    "body": ["\\$Y_0\\$ "],
+    "description": "Y_0 in tex"
+  },
+
+  "tex_Y_1": {
+    "prefix": "Y1",
+    "body": ["\\$Y_1\\$ "],
+    "description": "Y_1 in tex"
+  },
+
+  "tex_Y_2": {
+    "prefix": "Y2",
+    "body": ["\\$Y_2\\$ "],
+    "description": "Y_2 in tex"
+  },
+
+  "tex_Y_3": {
+    "prefix": "Y3",
+    "body": ["\\$Y_3\\$ "],
+    "description": "Y_3 in tex"
+  },
+
+  "tex_Y_a": {
+    "prefix": "Ya",
+    "body": ["\\$Y_a\\$ "],
+    "description": "Y_a in tex"
+  },
+
+  "tex_Y_b": {
+    "prefix": "Yb",
+    "body": ["\\$Y_b\\$ "],
+    "description": "Y_b in tex"
+  },
+
+  "tex_Y_c": {
+    "prefix": "Yc",
+    "body": ["\\$Y_c\\$ "],
+    "description": "Y_c in tex"
+  },
+
+  "tex_Y_d": {
+    "prefix": "Yd",
+    "body": ["\\$Y_d\\$ "],
+    "description": "Y_d in tex"
+  },
+
+  "tex_Y_e": {
+    "prefix": "Ye",
+    "body": ["\\$Y_e\\$ "],
+    "description": "Y_e in tex"
+  },
+
+  "tex_Y_f": {
+    "prefix": "Yf",
+    "body": ["\\$Y_f\\$ "],
+    "description": "Y_f in tex"
+  },
+
+  "tex_Y_g": {
+    "prefix": "Yg",
+    "body": ["\\$Y_g\\$ "],
+    "description": "Y_g in tex"
+  },
+
+  "tex_Y_h": {
+    "prefix": "Yh",
+    "body": ["\\$Y_h\\$ "],
+    "description": "Y_h in tex"
+  },
+
+  "tex_Y_i": {
+    "prefix": "Yi",
+    "body": ["\\$Y_i\\$ "],
+    "description": "Y_i in tex"
+  },
+
+  "tex_Y_j": {
+    "prefix": "Yj",
+    "body": ["\\$Y_j\\$ "],
+    "description": "Y_j in tex"
+  },
+
+  "tex_Y_k": {
+    "prefix": "Yk",
+    "body": ["\\$Y_k\\$ "],
+    "description": "Y_k in tex"
+  },
+
+  "tex_Y_l": {
+    "prefix": "Yl",
+    "body": ["\\$Y_l\\$ "],
+    "description": "Y_l in tex"
+  },
+
+  "tex_Y_m": {
+    "prefix": "Ym",
+    "body": ["\\$Y_m\\$ "],
+    "description": "Y_m in tex"
+  },
+
+  "tex_Y_n": {
+    "prefix": "Yn",
+    "body": ["\\$Y_n\\$ "],
+    "description": "Y_n in tex"
+  },
+
+  "tex_Y_o": {
+    "prefix": "Yo",
+    "body": ["\\$Y_o\\$ "],
+    "description": "Y_o in tex"
+  },
+
+  "tex_Y_p": {
+    "prefix": "Yp",
+    "body": ["\\$Y_p\\$ "],
+    "description": "Y_p in tex"
+  },
+
+  "tex_Y_q": {
+    "prefix": "Yq",
+    "body": ["\\$Y_q\\$ "],
+    "description": "Y_q in tex"
+  },
+
+  "tex_Y_r": {
+    "prefix": "Yr",
+    "body": ["\\$Y_r\\$ "],
+    "description": "Y_r in tex"
+  },
+
+  "tex_Y_s": {
+    "prefix": "Ys",
+    "body": ["\\$Y_s\\$ "],
+    "description": "Y_s in tex"
+  },
+
+  "tex_Y_t": {
+    "prefix": "Yt",
+    "body": ["\\$Y_t\\$ "],
+    "description": "Y_t in tex"
+  },
+
+  "tex_Y_u": {
+    "prefix": "Yu",
+    "body": ["\\$Y_u\\$ "],
+    "description": "Y_u in tex"
+  },
+
+  "tex_Y_v": {
+    "prefix": "Yv",
+    "body": ["\\$Y_v\\$ "],
+    "description": "Y_v in tex"
+  },
+
+  "tex_Y_w": {
+    "prefix": "Yw",
+    "body": ["\\$Y_w\\$ "],
+    "description": "Y_w in tex"
+  },
+
+  "tex_Y_x": {
+    "prefix": "Yx",
+    "body": ["\\$Y_x\\$ "],
+    "description": "Y_x in tex"
+  },
+
+  "tex_Y_y": {
+    "prefix": "Yy",
+    "body": ["\\$Y_y\\$ "],
+    "description": "Y_y in tex"
+  },
+
+  "tex_Y_z": {
+    "prefix": "Yz",
+    "body": ["\\$Y_z\\$ "],
+    "description": "Y_z in tex"
+  },
+
+  "tex_z": {
+    "prefix": "z",
+    "body": ["\\$z\\$ "],
+    "description": "z in tex"
+  },
+
+  "tex_z_0": {
+    "prefix": "z0",
+    "body": ["\\$z_0\\$ "],
+    "description": "z_0 in tex"
+  },
+
+  "tex_z_1": {
+    "prefix": "z1",
+    "body": ["\\$z_1\\$ "],
+    "description": "z_1 in tex"
+  },
+
+  "tex_z_2": {
+    "prefix": "z2",
+    "body": ["\\$z_2\\$ "],
+    "description": "z_2 in tex"
+  },
+
+  "tex_z_3": {
+    "prefix": "z3",
+    "body": ["\\$z_3\\$ "],
+    "description": "z_3 in tex"
+  },
+
+  "tex_z_a": {
+    "prefix": "za",
+    "body": ["\\$z_a\\$ "],
+    "description": "z_a in tex"
+  },
+
+  "tex_z_b": {
+    "prefix": "zb",
+    "body": ["\\$z_b\\$ "],
+    "description": "z_b in tex"
+  },
+
+  "tex_z_c": {
+    "prefix": "zc",
+    "body": ["\\$z_c\\$ "],
+    "description": "z_c in tex"
+  },
+
+  "tex_z_d": {
+    "prefix": "zd",
+    "body": ["\\$z_d\\$ "],
+    "description": "z_d in tex"
+  },
+
+  "tex_z_e": {
+    "prefix": "ze",
+    "body": ["\\$z_e\\$ "],
+    "description": "z_e in tex"
+  },
+
+  "tex_z_f": {
+    "prefix": "zf",
+    "body": ["\\$z_f\\$ "],
+    "description": "z_f in tex"
+  },
+
+  "tex_z_g": {
+    "prefix": "zg",
+    "body": ["\\$z_g\\$ "],
+    "description": "z_g in tex"
+  },
+
+  "tex_z_h": {
+    "prefix": "zh",
+    "body": ["\\$z_h\\$ "],
+    "description": "z_h in tex"
+  },
+
+  "tex_z_i": {
+    "prefix": "zi",
+    "body": ["\\$z_i\\$ "],
+    "description": "z_i in tex"
+  },
+
+  "tex_z_j": {
+    "prefix": "zj",
+    "body": ["\\$z_j\\$ "],
+    "description": "z_j in tex"
+  },
+
+  "tex_z_k": {
+    "prefix": "zk",
+    "body": ["\\$z_k\\$ "],
+    "description": "z_k in tex"
+  },
+
+  "tex_z_l": {
+    "prefix": "zl",
+    "body": ["\\$z_l\\$ "],
+    "description": "z_l in tex"
+  },
+
+  "tex_z_m": {
+    "prefix": "zm",
+    "body": ["\\$z_m\\$ "],
+    "description": "z_m in tex"
+  },
+
+  "tex_z_n": {
+    "prefix": "zn",
+    "body": ["\\$z_n\\$ "],
+    "description": "z_n in tex"
+  },
+
+  "tex_z_o": {
+    "prefix": "zo",
+    "body": ["\\$z_o\\$ "],
+    "description": "z_o in tex"
+  },
+
+  "tex_z_p": {
+    "prefix": "zp",
+    "body": ["\\$z_p\\$ "],
+    "description": "z_p in tex"
+  },
+
+  "tex_z_q": {
+    "prefix": "zq",
+    "body": ["\\$z_q\\$ "],
+    "description": "z_q in tex"
+  },
+
+  "tex_z_r": {
+    "prefix": "zr",
+    "body": ["\\$z_r\\$ "],
+    "description": "z_r in tex"
+  },
+
+  "tex_z_s": {
+    "prefix": "zs",
+    "body": ["\\$z_s\\$ "],
+    "description": "z_s in tex"
+  },
+
+  "tex_z_t": {
+    "prefix": "zt",
+    "body": ["\\$z_t\\$ "],
+    "description": "z_t in tex"
+  },
+
+  "tex_z_u": {
+    "prefix": "zu",
+    "body": ["\\$z_u\\$ "],
+    "description": "z_u in tex"
+  },
+
+  "tex_z_v": {
+    "prefix": "zv",
+    "body": ["\\$z_v\\$ "],
+    "description": "z_v in tex"
+  },
+
+  "tex_z_w": {
+    "prefix": "zw",
+    "body": ["\\$z_w\\$ "],
+    "description": "z_w in tex"
+  },
+
+  "tex_z_x": {
+    "prefix": "zx",
+    "body": ["\\$z_x\\$ "],
+    "description": "z_x in tex"
+  },
+
+  "tex_z_y": {
+    "prefix": "zy",
+    "body": ["\\$z_y\\$ "],
+    "description": "z_y in tex"
+  },
+
+  "tex_z_z": {
+    "prefix": "zz",
+    "body": ["\\$z_z\\$ "],
+    "description": "z_z in tex"
+  },
+
+  "tex_Z": {
+    "prefix": "Z",
+    "body": ["\\$Z\\$ "],
+    "description": "Z in tex"
+  },
+
+  "tex_Z_0": {
+    "prefix": "Z0",
+    "body": ["\\$Z_0\\$ "],
+    "description": "Z_0 in tex"
+  },
+
+  "tex_Z_1": {
+    "prefix": "Z1",
+    "body": ["\\$Z_1\\$ "],
+    "description": "Z_1 in tex"
+  },
+
+  "tex_Z_2": {
+    "prefix": "Z2",
+    "body": ["\\$Z_2\\$ "],
+    "description": "Z_2 in tex"
+  },
+
+  "tex_Z_3": {
+    "prefix": "Z3",
+    "body": ["\\$Z_3\\$ "],
+    "description": "Z_3 in tex"
+  },
+
+  "tex_Z_a": {
+    "prefix": "Za",
+    "body": ["\\$Z_a\\$ "],
+    "description": "Z_a in tex"
+  },
+
+  "tex_Z_b": {
+    "prefix": "Zb",
+    "body": ["\\$Z_b\\$ "],
+    "description": "Z_b in tex"
+  },
+
+  "tex_Z_c": {
+    "prefix": "Zc",
+    "body": ["\\$Z_c\\$ "],
+    "description": "Z_c in tex"
+  },
+
+  "tex_Z_d": {
+    "prefix": "Zd",
+    "body": ["\\$Z_d\\$ "],
+    "description": "Z_d in tex"
+  },
+
+  "tex_Z_e": {
+    "prefix": "Ze",
+    "body": ["\\$Z_e\\$ "],
+    "description": "Z_e in tex"
+  },
+
+  "tex_Z_f": {
+    "prefix": "Zf",
+    "body": ["\\$Z_f\\$ "],
+    "description": "Z_f in tex"
+  },
+
+  "tex_Z_g": {
+    "prefix": "Zg",
+    "body": ["\\$Z_g\\$ "],
+    "description": "Z_g in tex"
+  },
+
+  "tex_Z_h": {
+    "prefix": "Zh",
+    "body": ["\\$Z_h\\$ "],
+    "description": "Z_h in tex"
+  },
+
+  "tex_Z_i": {
+    "prefix": "Zi",
+    "body": ["\\$Z_i\\$ "],
+    "description": "Z_i in tex"
+  },
+
+  "tex_Z_j": {
+    "prefix": "Zj",
+    "body": ["\\$Z_j\\$ "],
+    "description": "Z_j in tex"
+  },
+
+  "tex_Z_k": {
+    "prefix": "Zk",
+    "body": ["\\$Z_k\\$ "],
+    "description": "Z_k in tex"
+  },
+
+  "tex_Z_l": {
+    "prefix": "Zl",
+    "body": ["\\$Z_l\\$ "],
+    "description": "Z_l in tex"
+  },
+
+  "tex_Z_m": {
+    "prefix": "Zm",
+    "body": ["\\$Z_m\\$ "],
+    "description": "Z_m in tex"
+  },
+
+  "tex_Z_n": {
+    "prefix": "Zn",
+    "body": ["\\$Z_n\\$ "],
+    "description": "Z_n in tex"
+  },
+
+  "tex_Z_o": {
+    "prefix": "Zo",
+    "body": ["\\$Z_o\\$ "],
+    "description": "Z_o in tex"
+  },
+
+  "tex_Z_p": {
+    "prefix": "Zp",
+    "body": ["\\$Z_p\\$ "],
+    "description": "Z_p in tex"
+  },
+
+  "tex_Z_q": {
+    "prefix": "Zq",
+    "body": ["\\$Z_q\\$ "],
+    "description": "Z_q in tex"
+  },
+
+  "tex_Z_r": {
+    "prefix": "Zr",
+    "body": ["\\$Z_r\\$ "],
+    "description": "Z_r in tex"
+  },
+
+  "tex_Z_s": {
+    "prefix": "Zs",
+    "body": ["\\$Z_s\\$ "],
+    "description": "Z_s in tex"
+  },
+
+  "tex_Z_t": {
+    "prefix": "Zt",
+    "body": ["\\$Z_t\\$ "],
+    "description": "Z_t in tex"
+  },
+
+  "tex_Z_u": {
+    "prefix": "Zu",
+    "body": ["\\$Z_u\\$ "],
+    "description": "Z_u in tex"
+  },
+
+  "tex_Z_v": {
+    "prefix": "Zv",
+    "body": ["\\$Z_v\\$ "],
+    "description": "Z_v in tex"
+  },
+
+  "tex_Z_w": {
+    "prefix": "Zw",
+    "body": ["\\$Z_w\\$ "],
+    "description": "Z_w in tex"
+  },
+
+  "tex_Z_x": {
+    "prefix": "Zx",
+    "body": ["\\$Z_x\\$ "],
+    "description": "Z_x in tex"
+  },
+
+  "tex_Z_y": {
+    "prefix": "Zy",
+    "body": ["\\$Z_y\\$ "],
+    "description": "Z_y in tex"
+  },
+
+  "tex_Z_z": {
+    "prefix": "Zz",
+    "body": ["\\$Z_z\\$ "],
+    "description": "Z_z in tex"
+  }
+}

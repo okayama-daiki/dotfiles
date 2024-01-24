@@ -1,0 +1,407 @@
+{
+  // workbench
+  "workbench.editorAssociations": {
+    "*.db": "sqlite-viewer.option"
+  },
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "none",
+
+  // editor
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.accessibilitySupport": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+
+  // explorer
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  // terminal
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+
+  // window
+  "window.title": "${activeEditorLong}",
+  "window.commandCenter": false,
+
+  // files
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.git": false
+  },
+
+  // debug
+  "debug.allowBreakpointsEverywhere": true,
+
+  // notebook
+  "notebook.output.scrolling": true,
+  "notebook.lineNumbers": "on",
+
+  // Languages
+
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    }
+  },
+
+  "[cython]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ktnrg45.vscode-cython"
+  },
+
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+
+  "[rust]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
+
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+
+  "[properties]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+
+  // Extensions
+
+  // Pylance
+  "python.defaultInterpreterPath": "/usr/local/bin/python3.10",
+  "python.analysis.typeCheckingMode": "strict",
+
+  // flake8
+  "flake8.args": ["--max-line-length=88"], // black
+
+  // isort
+  "isort.interpreter": ["/usr/local/bin/python3.10"],
+  "isort.check": true,
+  "isort.severity": {
+    "E": "Information",
+    "W": "Warning",
+    "I": "Information",
+    "H": "Hint"
+  },
+  "isort.args": ["--profile", "black"],
+
+  // JavaScript and TypeScript Nightly
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // Jupyter
+  "jupyter.askForKernelRestart": false,
+
+  // Markdownlint
+
+  // Markdown PDF
+  "markdown-pdf.executablePath": "/Applications/Chromium.app/Contents/MacOS/Chromium",
+
+  // Vibrancy Continued
+  "terminal.integrated.gpuAcceleration": "off", // need to transparent terminal
+
+  // Vim
+  "vim.useSystemClipboard": true,
+  "vim.vimrc.enable": true,
+  "vim.vimrc.path": "~/.vimrc",
+  "vim.whichwrap": "b,s,h,l,<,>,[,],~",
+  "vim.statusBarColorControl": false,
+
+  // AREPL for Python
+  "AREPL.show_to_level": 3,
+  "AREPL.pythonOptions": ["-O", "-u"],
+  "AREPL.customCSS": "",
+  "AREPL.skipLandingPage": true,
+  "AREPL.showFooter": false,
+
+  // Trailing Spaces
+  "trailing-spaces.highlightCurrentLine": false,
+
+  // rust-analyzer
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.hover.actions.enable": true,
+  "rust-analyzer.check.command": "clippy",
+
+  // DeepL
+  "deepl.apiKey": "647c0d35-6832-5e25-df5d-63d63bd5256f:fx",
+
+  // GitHup Copilot
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false
+  },
+
+  // Code Spell Checker
+  "cSpell.userWords": [
+    "actix",
+    "aggfunc",
+    "aiohttp",
+    "aiter",
+    "Anson",
+    "appendleft",
+    "apscheduler",
+    "arange",
+    "AREPL",
+    "argmax",
+    "argmin",
+    "argsort",
+    "arrowprops",
+    "arrowstyle",
+    "astunparse",
+    "astype",
+    "atcoder",
+    "autouse",
+    "axhline",
+    "axios",
+    "axvline",
+    "axvspan",
+    "barh",
+    "basicauth",
+    "betweenx",
+    "bindgen",
+    "binom",
+    "Blinky",
+    "bmatrix",
+    "boldsymbol",
+    "charfilter",
+    "chokudai",
+    "clim",
+    "cmap",
+    "coef",
+    "Colab",
+    "Colaboratory",
+    "colorbar",
+    "connectionstyle",
+    "consts",
+    "contourf",
+    "crossentropy",
+    "ctypes",
+    "cuda",
+    "cumcount",
+    "cumsum",
+    "cvxpy",
+    "cython",
+    "daiki",
+    "daikiokayama",
+    "dakken",
+    "dataframe",
+    "ddof",
+    "deepl",
+    "Deque",
+    "dotenv",
+    "dotenvy",
+    "dropna",
+    "dtype",
+    "dtypes",
+    "edgecolors",
+    "Endwhile",
+    "errorbar",
+    "esbenp",
+    "extgcd",
+    "facecolor",
+    "ffill",
+    "fibo",
+    "figsize",
+    "fillna",
+    "fontsize",
+    "frameon",
+    "frombuffer",
+    "graphviz",
+    "gridsize",
+    "Hasher",
+    "heapify",
+    "hexbin",
+    "hlines",
+    "hspace",
+    "hstack",
+    "hyogo",
+    "idxmax",
+    "ifacts",
+    "iloc",
+    "imagenet",
+    "importances",
+    "imshow",
+    "indegree",
+    "infty",
+    "initlist",
+    "ipynb",
+    "ipywidgets",
+    "isin",
+    "isna",
+    "isort",
+    "iterrows",
+    "janome",
+    "jsonify",
+    "kaggle",
+    "katex",
+    "keepdims",
+    "keras",
+    "kmeans",
+    "labelloc",
+    "labelsize",
+    "labelspacing",
+    "levelname",
+    "librosa",
+    "linalg",
+    "linebot",
+    "linestyle",
+    "linewidth",
+    "linspace",
+    "livedoor",
+    "logspace",
+    "lstm",
+    "mainloop",
+    "markersize",
+    "marp",
+    "mathbb",
+    "mathcal",
+    "mathrm",
+    "matplotlib",
+    "mdates",
+    "meshgrid",
+    "mglearn",
+    "mnist",
+    "mobilenet",
+    "mousedown",
+    "mousemove",
+    "mouseup",
+    "multiset",
+    "mypy",
+    "natsort",
+    "natsorted",
+    "ncol",
+    "ndarray",
+    "ndigits",
+    "Neos",
+    "networkx",
+    "newaxis",
+    "nobr",
+    "nonblocking",
+    "numba",
+    "numpy",
+    "nysol",
+    "onclick",
+    "onmousedown",
+    "onmousemove",
+    "onmouseup",
+    "onresize",
+    "openpyxl",
+    "optim",
+    "overrider",
+    "Pacman",
+    "pagerank",
+    "pairplot",
+    "pinv",
+    "pkill",
+    "pmatrix",
+    "popleft",
+    "powi",
+    "prec",
+    "prettyplotlib",
+    "procs",
+    "Prüfer",
+    "pyautogui",
+    "Pyodide",
+    "pypdf",
+    "pyplot",
+    "pytest",
+    "Pythonista",
+    "qrcode",
+    "randn",
+    "rankdir",
+    "readchar",
+    "regularizers",
+    "rehype",
+    "relu",
+    "ress",
+    "rtree",
+    "rtype",
+    "savefig",
+    "scatterpoints",
+    "scipy",
+    "seaborn",
+    "segtree",
+    "semilogy",
+    "sers",
+    "setrecursionlimit",
+    "sharex",
+    "sharey",
+    "sheetnames",
+    "sjis",
+    "skipfooter",
+    "skiprows",
+    "sklearn",
+    "softmax",
+    "sqlalchemy",
+    "statsmodels",
+    "TEIREIKAI",
+    "Tetris",
+    "tfjs",
+    "tkagg",
+    "toarray",
+    "tokenfilter",
+    "torchvision",
+    "tqdm",
+    "twinx",
+    "unpark",
+    "usecols",
+    "vectorize",
+    "Vectorizer",
+    "vimrc",
+    "viridis",
+    "vlines",
+    "wakati",
+    "webp",
+    "websockets",
+    "whichwrap",
+    "whitesmoke",
+    "wordcloud",
+    "wspace",
+    "xaxis",
+    "xedges",
+    "xlabel",
+    "xlim",
+    "xticklabels",
+    "xticks",
+    "xytext",
+    "yapf",
+    "yaxis",
+    "yedges",
+    "yerr",
+    "ylabel",
+    "ylim",
+    "yticks",
+    "zlabel"
+  ]
+}

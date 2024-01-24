@@ -1,0 +1,337 @@
+{
+  "templates": {
+    "prefix": ["t"],
+    "body": [
+      "# -*- coding: utf-8 -*-",
+      "",
+      "",
+      "def _timer():",
+      "    import time",
+      "    __start__ = time.time()",
+      "",
+      "    def timer(sec=2):",
+      "        return time.time() - __start__ < sec",
+      "",
+      "    return timer",
+      "",
+      "",
+      "timer = _timer()",
+      "",
+      "",
+      "def standard_input():",
+      "    yield from iter('''",
+      "",
+      "    '''.strip().split('\\n'))",
+      "",
+      ""
+    ]
+  },
+  "mod": {
+    "prefix": "MOD",
+    "body": "998244353"
+  },
+
+  "ie": {
+    "prefix": "ie",
+    "body": "mod($1, MOD - 2, MOD)"
+  },
+
+  "input1": {
+    "prefix": "map",
+    "body": "map(int, input().split())"
+  },
+
+  "input2": {
+    "prefix": "int",
+    "body": "int(input())"
+  },
+
+  "input3": {
+    "prefix": ["list", "alist"],
+    "body": "list(map(int, input().split()))"
+  },
+
+  "input4": {
+    "prefix": "nlist",
+    "body": "[list(map(int, input().split())) for _ in range(n)]\n"
+  },
+
+  "input5": {
+    "prefix": "mlist",
+    "body": "[list(map(int, input().split())) for _ in range(m)]\n"
+  },
+
+  "input6": {
+    "prefix": "hlist",
+    "body": "[list(map(int, input().split())) for _ in range(h)]\n"
+  },
+
+  "n_input": {
+    "prefix": "n",
+    "body": "n = int(input())"
+  },
+
+  "n,w_input": {
+    "prefix": "nw",
+    "body": "n, w = map(int, input().split())"
+  },
+
+  "a,b_input": {
+    "prefix": "ab",
+    "body": "a, b = map(int, input().split())"
+  },
+
+  "a_sequence_input": {
+    "prefix": "a",
+    "body": "a = list(map(int, input().split()))"
+  },
+
+  "b_sequence_input": {
+    "prefix": "b",
+    "body": "b = list(map(int, input().split()))"
+  },
+
+  "c_sequence_input": {
+    "prefix": "c",
+    "body": "c = list(map(int, input().split()))"
+  },
+
+  "s_string_input": {
+    "prefix": "s",
+    "body": "s = list(input())"
+  },
+
+  "u_v_input": {
+    "prefix": "u",
+    "body": "u, v = map(lambda x: int(x) - 1, input().split())"
+  },
+
+  "decrement_input": {
+    "prefix": ["lambda", "dec", "decrement"],
+    "body": "lambda x: int(x) - 1"
+  },
+
+  "encoding_input": {
+    "prefix": "lambda",
+    "body": "lambda x: 1 if x=='#' else 0"
+  },
+
+  "basic_loop": {
+    "prefix": "for",
+    "body": "for _ in range($1)"
+  },
+
+  "separator": {
+    "prefix": "sep",
+    "body": "sep='\\n'"
+  },
+
+  "unzip": {
+    "prefix": "unzip",
+    "body": "zip(*(map(int, input().split()) for _ in range(n)))"
+  },
+
+  "graph": {
+    "prefix": "graph",
+    "body": "graph = collections.defaultdict(list)"
+  },
+
+  "graph-input": {
+    "prefix": "ginput",
+    "body": "import collections\n\n\nn, m = map(int, input().split())\ngraph = collections.defaultdict()\nfor _ in range(m):\n    a, b = map(int, input().split())\n    graph[a].append(b)\n    graph[b].append(a)\n"
+  },
+
+  "yesno": {
+    "prefix": "yes",
+    "body": "print('YNeos'[$1::2])"
+  },
+
+  "ACWA": {
+    "prefix": "ac",
+    "body": "print('WAAC'[$1::2]')"
+  },
+
+  "line": {
+    "prefix": "line",
+    "body": "#----------------------------------------------------------------------#"
+  },
+
+  "coding": {
+    "prefix": "coding",
+    "body": "# -*- coding: utf-8 -*-"
+  },
+
+  "directions": {
+    "prefix": "directions",
+    "body": "directions = [(0, 1), (1, 1), (1, 0), (1, -1), (0, -1), (-1, -1), (-1, 0), (-1, 1)]"
+  },
+
+  "DS_library_import": {
+    "prefix": "ds",
+    "body": "import numpy as np\nimport pandas as pd\nimport scipy as sp\nimport matplotlib as mpl\nimport matplotlib.pyplot as plt\nimport seaborn as sns; sns.set()\nimport sklearn"
+  },
+
+  "pandas_setting": {
+    "prefix": "pandas",
+    "body": "with pd.option_context('display.max_rows', None, 'display.max_columns', None):\n    display($1)"
+  },
+
+  "debug_matrix": {
+    "prefix": ["matrix", "debug", "matdebug"],
+    "body": "print(*$1, sep='\\n')"
+  },
+
+  "debug_dp": {
+    "prefix": "dpdebug",
+    "body": "print(*dp, sep='\\n')\n"
+  },
+
+  "debug_template": {
+    "prefix": ["debug", "dd"],
+    "body": "if not __debug__:\n    "
+  },
+
+  "data_split": {
+    "prefix": "split",
+    "body": "X_train, X_test, y_train, y_test =\\\n    train_test_split($1)"
+  },
+
+  "from_spell_error": {
+    "prefix": ["form", "from"],
+    "body": "from $1 import $2"
+  },
+
+  "import_spell_error": {
+    "prefix": ["import", "import", "ipmort"],
+    "body": "import"
+  },
+
+  "ml_test": {
+    "prefix": "X_test",
+    "body": "X_test, y_test"
+  },
+
+  "ml_train": {
+    "prefix": "X_train",
+    "body": "X_train, y_train"
+  },
+
+  "set_recursive": {
+    "prefix": ["setrec", "rec"],
+    "body": "import sys\nsys.setrecursionlimit(10**6)\n"
+  },
+
+  "cache": {
+    "prefix": "cache",
+    "body": "@functools.cache()"
+  },
+
+  "ascii_lowercase": {
+    "prefix": ["abc", "lower"],
+    "body": "abcdefghijklmnopqrstuvwxyz"
+  },
+
+  "ascii_uppercase": {
+    "prefix": ["ABC", "upper"],
+    "body": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  },
+
+  "comb": {
+    "prefix": ["comb"],
+    "body": [
+      "def make_comb(max_n, mod=998244353):",
+      "",
+      "    def comb(n, r):",
+      "        if n < 0 or r < 0 or n < r:",
+      "            return 0",
+      "        return facts[n] * ifacts[n - r] % mod * ifacts[r] % mod",
+      "",
+      "    facts = [1]",
+      "    ifacts = [1]",
+      "    for i in range(1, max_n + 1):",
+      "        facts.append(facts[-1] * i % mod)",
+      "        ifacts.append(ifacts[-1] * pow(i, mod - 2, mod) % mod)",
+      "",
+      "    return comb"
+    ]
+  },
+  "gcd": {
+    "prefix": "gcd",
+    "body": [
+      "def gcd(a, b):",
+      "    if b == 0:",
+      "        return a",
+      "    return gcd(b, a % b)",
+      ""
+    ]
+  },
+  "extgcd": {
+    "prefix": "extgcd",
+    "body": [
+      "def extgcd(a, b):",
+      "    if b == 0:",
+      "        return a, 1, 0",
+      "    d, x, y = extgcd(b, a % b)",
+      "    return d, y, x - a // b * y",
+      ""
+    ]
+  },
+  "factorize": {
+    "prefix": "factorize",
+    "body": [
+      "def factorize(n):",
+      "    res = {}",
+      "    for i in range(2, int(n**.5) + 1):",
+      "        while n % i == 0:",
+      "            res[i] = res.get(i, 0) + 1",
+      "            n //= i",
+      "    if n != 1:",
+      "        res[n] = 1",
+      "    return res",
+      ""
+    ]
+  },
+  "sieve": {
+    "prefix": "sieve",
+    "body": [
+      "def make_sieve(n):",
+      "    is_prime = [True] * (n + 1)",
+      "    is_prime[:2] = [False] * 2",
+      "    for i in range(2, n + 1):",
+      "        if is_prime[i]:",
+      "            for j in range(2 * i, n + 1, i):",
+      "                is_prime[j] = False",
+      "    return is_prime",
+      "",
+      ""
+    ]
+  },
+  "pd": {
+    "prefix": ["pd", "pandas"],
+    "body": "import pandas as pd"
+  },
+  "np": {
+    "prefix": ["np", "numpy"],
+    "body": "import numpy as np"
+  },
+  "sp": {
+    "prefix": ["sp", "scipy"],
+    "body": "import scipy as sp"
+  },
+  "mpl": {
+    "prefix": ["mpl", "matplotlib"],
+    "body": "import matplotlib as mpl"
+  },
+  "plt": {
+    "prefix": ["plt", "matplotlib.pyplot"],
+    "body": "import matplotlib.pyplot as plt"
+  },
+  "sns": {
+    "prefix": ["sns", "seaborn"],
+    "body": "import seaborn as sns"
+  },
+  "async-test": {
+    "prefix": ["asynctest", "atest"],
+    "body": "@pytest.mark.asyncio\ndef test_$1():\n    pass"
+  }
+}
