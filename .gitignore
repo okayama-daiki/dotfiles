@@ -1,0 +1,18 @@
+/*
+/.**
+
+# whitelist
+!/.bin
+!/.bin/**
+!/.config
+!/.config/git/ignore
+!/.config/karabiner/karabiner.json
+!/.vscode
+!/.vscode/**
+!/.gitconfig
+!/.gitignore
+!/.vimrc
+!/.zshrc
+!/Brewfile
+!/Makefile
+!/README.md
