@@ -8,13 +8,13 @@ brew "sl"
 brew "telnet"
 brew "vim"
 cask "alt-tab"
+cask "karabiner-elements"
 cask "spotify"
 cask "visual-studio-code"
 mas "Gifski", id: 1351639930
 mas "Goodnotes", id: 1444383602
 mas "Kindle", id: 302584613
 mas "LINE", id: 539883307
-mas "Microsoft Remote Desktop", id: 1295203466
 mas "RunCat", id: 1429033973
 vscode "alefragnani.project-manager"
 vscode "almenon.arepl"
@@ -51,7 +51,6 @@ vscode "marp-team.marp-vscode"
 vscode "mechatroner.rainbow-csv"
 vscode "mikestead.dotenv"
 vscode "ms-azuretools.vscode-docker"
-vscode "ms-dotnettools.dotnet-interactive-vscode"
 vscode "ms-python.black-formatter"
 vscode "ms-python.flake8"
 vscode "ms-python.isort"
@@ -76,7 +75,6 @@ vscode "riazxrazor.html-to-jsx"
 vscode "ritwickdey.LiveServer"
 vscode "rust-lang.rust-analyzer"
 vscode "shardulm94.trailing-spaces"
-vscode "soerenuhrbach.vscode-deepl"
 vscode "streetsidesoftware.code-spell-checker"
 vscode "tamasfe.even-better-toml"
 vscode "telesoho.vscode-markdown-paste-image"
