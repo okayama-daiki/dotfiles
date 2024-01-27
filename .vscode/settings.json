@@ -99,14 +99,13 @@
   // Extensions
 
   // Pylance
-  "python.defaultInterpreterPath": "/usr/local/bin/python3.10",
+  "python.defaultInterpreterPath": "/usr/local/bin/python3.12",
   "python.analysis.typeCheckingMode": "strict",
 
   // flake8
   "flake8.args": ["--max-line-length=88"], // black
 
   // isort
-  "isort.interpreter": ["/usr/local/bin/python3.10"],
   "isort.check": true,
   "isort.severity": {
     "E": "Information",
@@ -152,9 +151,6 @@
   "rust-analyzer.checkOnSave": true,
   "rust-analyzer.hover.actions.enable": true,
   "rust-analyzer.check.command": "clippy",
-
-  // DeepL
-  "deepl.apiKey": "647c0d35-6832-5e25-df5d-63d63bd5256f:fx",
 
   // GitHup Copilot
   "github.copilot.enable": {
