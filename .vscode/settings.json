@@ -99,7 +99,7 @@
   // Extensions
 
   // Pylance
-  "python.defaultInterpreterPath": "/usr/local/bin/python3.12",
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
   "python.analysis.typeCheckingMode": "strict",
 
   // flake8
@@ -151,6 +151,9 @@
   "rust-analyzer.checkOnSave": true,
   "rust-analyzer.hover.actions.enable": true,
   "rust-analyzer.check.command": "clippy",
+
+  // Git
+  "git.confirmSync": false,
 
   // GitHup Copilot
   "github.copilot.enable": {
