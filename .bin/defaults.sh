@@ -41,6 +41,8 @@ killall Dock
 defaults write NSGlobalDomain KeyRepeat -int 2
 # Delay until repeat
 defaults write NSGlobalDomain InitialKeyRepeat -int 15
+# For vim extension in VSCode
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 
 # Mouse ---------------------------------------------------
 
