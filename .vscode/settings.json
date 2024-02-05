@@ -27,7 +27,7 @@
   "explorer.confirmDragAndDrop": false,
 
   // terminal
-  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "auto",
 
   // window
   "window.title": "${activeEditorLong}",
@@ -181,6 +181,7 @@
     "astype",
     "atcoder",
     "autouse",
+    "awslambdaric",
     "axhline",
     "axios",
     "axvline",
@@ -193,6 +194,7 @@
     "Blinky",
     "bmatrix",
     "boldsymbol",
+    "boto",
     "charfilter",
     "chokudai",
     "clim",
