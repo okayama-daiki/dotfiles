@@ -15,7 +15,6 @@ alias g='git'
 alias ga='git add'
 alias gb='git branch'
 alias gc='git commit'
-alias gcm='git commit -m'
 alias gco='git checkout'
 alias gd='git diff'
 alias gf='git fetch'
@@ -23,11 +22,16 @@ alias gl='git log'
 alias gll='git log --oneline'
 alias gm='git merge'
 alias gp='git push'
+alias gpf='git push --force'
 alias gpl='git pull'
 alias gr='git rebase'
+alias grs="git reset --soft"
 alias grh='git reset --hard'
-alias gri='git rebase -i'
 alias gs='git status'
+
+gcm() {
+  git commit -m "$*"
+}
 
 # npm alias
 alias dev='npm run dev'
