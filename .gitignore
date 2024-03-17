@@ -6,6 +6,8 @@
 !/.bin/**
 !/.config
 !/.config/git/ignore
+!/.config/nvim
+!/.config/nvim/**
 !/.config/karabiner/karabiner.json
 !/.vscode
 !/.vscode/**

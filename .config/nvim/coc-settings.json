@@ -1,0 +1,33 @@
+{
+  "coc": {
+    "preferences": {
+      "formatOnType": true,
+      "formatOnPaste": true,
+      "formatOnSave": true
+    }
+  },
+  "diagnostic": {
+    "virtualText": true,
+    "virtualTextCurrentLineOnly": false
+  },
+  "pyright": {
+    "enable": true,
+    "organizeimports": {
+      "provider": "ruff"
+    },
+    "testing": {
+      "provider": "pytest"
+    }
+  },
+  "python": {
+    "analysis": {
+      "typeCheckingMode": "strict"
+    },
+    "formatting": {
+      "provider": "ruff"
+    },
+    "linting": {
+      "ruffEnabled": true
+    }
+  }
+}
