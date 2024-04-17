@@ -18,20 +18,6 @@
         },
         "rules": [
           {
-            "description": "caps_lock to right_control(for US keyboard)",
-            "manipulators": [
-              {
-                "from": {
-                  "key_code": "caps_lock"
-                },
-                "to": {
-                  "key_code": "right_control"
-                },
-                "type": "basic"
-              }
-            ]
-          },
-          {
             "description": "control+pnbf to up/down/left/right(emacs like)",
             "manipulators": [
               {
@@ -470,7 +456,18 @@
         "delay_milliseconds_before_open_device": 1000
       },
       "selected": true,
-      "simple_modifications": [],
+      "simple_modifications": [
+        {
+          "from": {
+            "key_code": "caps_lock"
+          },
+          "to": [
+            {
+              "key_code": "right_control"
+            }
+          ]
+        }
+      ],
       "virtual_hid_keyboard": {
         "country_code": 0,
         "indicate_sticky_modifier_keys_state": true,
