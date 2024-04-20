@@ -4,6 +4,7 @@ local opts = { noremap = true, silent = true }
 local expr_opts = { expr = true, noremap = true, silent = true, replace_keycodes = false }
 
 keymap('i', 'jj', '<ESC>', opts)
+keymap('i', 'jk', '<ESC>', opts)
 
 keymap('i', '<C-Space>', 'coc#refresh()', expr_opts)
 keymap('i', '<Tab>', 'pumvisible() ? "\\<C-y>" : "<Tab>"', expr_opts)
