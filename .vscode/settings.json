@@ -1,7 +1,8 @@
 {
   // workbench
   "workbench.editorAssociations": {
-    "*.db": "sqlite-viewer.option"
+    "*.db": "sqlite-viewer.option",
+    "*.pdf": "default"
   },
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "vscode-icons",
@@ -27,7 +28,8 @@
   "explorer.confirmDragAndDrop": false,
 
   // terminal
-  "terminal.integrated.enableMultiLinePasteWarning": "auto",
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.allowChords": false,
 
   // window
   "window.title": "${activeEditorLong}",
@@ -52,7 +54,7 @@
 
   "[python]": {
     "editor.tabSize": 4,
-    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
       "source.organizeImports": "always"
     }
@@ -64,7 +66,7 @@
   },
 
   "[markdown]": {
-    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
   "[rust]": {
@@ -74,6 +76,10 @@
 
   "[go]": {
     "editor.defaultFormatter": "golang.go"
+  },
+
+  "[lua]": {
+    "editor.defaultFormatter": "sumneko.lua"
   },
 
   "[shellscript]": {
@@ -104,16 +110,6 @@
 
   // flake8
   "flake8.args": ["--max-line-length=88"], // black
-
-  // isort
-  "isort.check": true,
-  "isort.severity": {
-    "E": "Information",
-    "W": "Warning",
-    "I": "Information",
-    "H": "Hint"
-  },
-  "isort.args": ["--profile", "black"],
 
   // JavaScript and TypeScript Nightly
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -158,14 +154,25 @@
   // GitHup Copilot
   "github.copilot.enable": {
     "*": true,
-    "plaintext": false
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
   },
+
+  // Go
+  "go.formatTool": "gofmt",
+  "go.lintTool": "golangci-lint",
+  "go.toolsManagement.autoUpdate": true,
+
+  // Latex Workshop
+  "latex-workshop.latex.recipe.default": "lastUsed",
 
   // Code Spell Checker
   "cSpell.userWords": [
     "actix",
     "aggfunc",
     "aiohttp",
+    "aioquic",
     "aiter",
     "Anson",
     "appendleft",
@@ -175,6 +182,7 @@
     "argmax",
     "argmin",
     "argsort",
+    "Arraybuffer",
     "arrowprops",
     "arrowstyle",
     "astunparse",
@@ -195,6 +203,7 @@
     "bmatrix",
     "boldsymbol",
     "boto",
+    "botocore",
     "charfilter",
     "chokudai",
     "clim",
@@ -207,6 +216,7 @@
     "consts",
     "contourf",
     "crossentropy",
+    "CSMA",
     "ctypes",
     "cuda",
     "cumcount",
@@ -220,17 +230,21 @@
     "ddof",
     "deepl",
     "Deque",
+    "digestmod",
     "dotenv",
     "dotenvy",
     "dropna",
     "dtype",
     "dtypes",
+    "ebiten",
+    "ebitenutil",
     "edgecolors",
     "Endwhile",
     "errorbar",
     "esbenp",
     "extgcd",
     "facecolor",
+    "FDDI",
     "ffill",
     "fibo",
     "figsize",
@@ -240,6 +254,7 @@
     "frombuffer",
     "graphviz",
     "gridsize",
+    "hajimehoshi",
     "Hasher",
     "heapify",
     "hexbin",
@@ -256,6 +271,7 @@
     "indegree",
     "infty",
     "initlist",
+    "inpututil",
     "ipynb",
     "ipywidgets",
     "isin",
@@ -272,6 +288,7 @@
     "labelloc",
     "labelsize",
     "labelspacing",
+    "lazysegtree",
     "levelname",
     "librosa",
     "linalg",
@@ -292,11 +309,13 @@
     "mdates",
     "meshgrid",
     "mglearn",
+    "Mino",
     "mnist",
     "mobilenet",
     "mousedown",
     "mousemove",
     "mouseup",
+    "mpegurl",
     "multiset",
     "mypy",
     "natsort",
@@ -307,38 +326,49 @@
     "Neos",
     "networkx",
     "newaxis",
+    "nextra",
     "nobr",
     "nonblocking",
     "numba",
     "numpy",
     "nysol",
     "onclick",
+    "ondelete",
     "onmousedown",
     "onmousemove",
     "onmouseup",
     "onresize",
+    "onupdate",
     "openpyxl",
     "optim",
+    "OSPF",
     "overrider",
     "Pacman",
     "pagerank",
     "pairplot",
+    "pascalize",
     "pinv",
+    "PKCS",
     "pkill",
     "pmatrix",
     "popleft",
+    "powertools",
     "powi",
     "prec",
     "prettyplotlib",
+    "primaryjoin",
     "procs",
     "Prüfer",
     "pyautogui",
+    "pydantic",
+    "pymysql",
     "Pyodide",
     "pypdf",
     "pyplot",
     "pytest",
     "Pythonista",
     "qrcode",
+    "quic",
     "randn",
     "rankdir",
     "readchar",
@@ -364,8 +394,11 @@
     "skiprows",
     "sklearn",
     "softmax",
+    "sortedcontainers",
     "sqlalchemy",
     "statsmodels",
+    "struct",
+    "subqueryload",
     "TEIREIKAI",
     "Tetris",
     "tfjs",
@@ -379,8 +412,11 @@
     "usecols",
     "vectorize",
     "Vectorizer",
+    "videojs",
+    "viewonly",
     "vimrc",
     "viridis",
+    "VITE",
     "vlines",
     "wakati",
     "webp",

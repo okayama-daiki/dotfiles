@@ -125,5 +125,45 @@
     "key": "shift+cmd+v",
     "command": "-markdown.showPreview",
     "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+  },
+  {
+    "key": "cmd+down",
+    "command": "-widgetNavigation.focusNext",
+    "when": "inputFocus && navigableContainerFocused || navigableContainerFocused && treestickyScrollFocused || navigableContainerFocused && !listFocus || navigableContainerFocused && listScrollAtBoundary == 'both' || navigableContainerFocused && listScrollAtBoundary == 'bottom'"
+  },
+  {
+    "key": "shift+cmd+b",
+    "command": "-workbench.action.tasks.build",
+    "when": "taskCommandsRegistered"
+  },
+  {
+    "key": "shift+cmd+v",
+    "command": "latex-workshop.view",
+    "when": "!config.latex-workshop.bind.altKeymap.enabled && !virtualWorkspace && editorLangId =~ /^latex$|^latex-expl3$|^doctex$|^rsweave$|^jlweave$|^pweave$/"
+  },
+  {
+    "key": "alt+cmd+v",
+    "command": "-latex-workshop.view",
+    "when": "!config.latex-workshop.bind.altKeymap.enabled && !virtualWorkspace && editorLangId =~ /^latex$|^latex-expl3$|^doctex$|^rsweave$|^jlweave$|^pweave$/"
+  },
+  {
+    "key": "shift+cmd+v",
+    "command": "overleaf-workshop.compileManager.viewPdf",
+    "when": "editorTextFocus && overleaf-workshop.activateCompile && resourceExtname == '.tex' || editorTextFocus && resourceExtname == '.tex' && resourceScheme == 'overleaf-workshop' || editorTextFocus && overleaf-workshop.activateCompile && resourceExtname == '.tex' && resourceScheme == 'overleaf-workshop'"
+  },
+  {
+    "key": "alt+cmd+v",
+    "command": "-overleaf-workshop.compileManager.viewPdf",
+    "when": "editorTextFocus && overleaf-workshop.activateCompile && resourceExtname == '.tex' || editorTextFocus && resourceExtname == '.tex' && resourceScheme == 'overleaf-workshop' || editorTextFocus && overleaf-workshop.activateCompile && resourceExtname == '.tex' && resourceScheme == 'overleaf-workshop'"
+  },
+  {
+    "key": "shift+cmd+v",
+    "command": "typst-preview.preview",
+    "when": "editorLangId == 'typst'"
+  },
+  {
+    "key": "cmd+k v",
+    "command": "-typst-preview.preview",
+    "when": "editorLangId == 'typst'"
   }
 ]
