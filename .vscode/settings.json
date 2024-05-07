@@ -167,6 +167,9 @@
   // Latex Workshop
   "latex-workshop.latex.recipe.default": "lastUsed",
 
+  // Vibrancy Continued
+  "vscode_vibrancy.theme": "GitHub Dark Default",
+
   // Code Spell Checker
   "cSpell.userWords": [
     "actix",
@@ -266,6 +269,7 @@
     "ifacts",
     "iloc",
     "imagenet",
+    "imos",
     "importances",
     "imshow",
     "indegree",
