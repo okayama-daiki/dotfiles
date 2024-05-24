@@ -102,6 +102,18 @@
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
 
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+
+  "[bibtex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+
   // Extensions
 
   // Pylance
@@ -122,6 +134,9 @@
 
   // Markdown PDF
   "markdown-pdf.executablePath": "/Applications/Chromium.app/Contents/MacOS/Chromium",
+
+  // Svelte
+  "svelte.enable-ts-plugin": true,
 
   // Vibrancy Continued
   "terminal.integrated.gpuAcceleration": "off", // need to transparent terminal
@@ -166,6 +181,54 @@
 
   // Latex Workshop
   "latex-workshop.latex.recipe.default": "lastUsed",
+  "latex-workshop.latex.autoClean.run": "never",
+  "latex-workshop.bibtex-format.sort.enabled": true,
+  "latex-workshop.bibtex-fields.sort.enabled": true,
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (lualatex)",
+      "tools": ["lualatexmk"]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "-outdir=%OUTDIR%",
+        "%DOC%"
+      ],
+      "env": {}
+    },
+    {
+      "name": "lualatexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-lualatex",
+        "-outdir=.output/",
+        "%DOC%"
+      ],
+      "env": {}
+    }
+  ],
+  "latex-workshop.linting.chktex.enabled": true,
+  "latex-workshop.linting.chktex.exec.args": [
+    "-wall",
+    "-n19", // "You should use "’" (ASCII 39) instead of "’" (ASCII 180)." - Many warnings are displayed in Japanese.
+    "-n22", // "Comment displayed." - When submit the article, it is necessary to remove the comment.
+    "-n30" // "Multiple spaces detected in output." - Incompatible with indentation.
+  ],
+
+  // Draw.io Integration
+  "hediet.vscode-drawio.resizeImages": null,
+  "hediet.vscode-drawio.theme": "atlas",
 
   // Vibrancy Continued
   "vscode_vibrancy.theme": "GitHub Dark Default",
