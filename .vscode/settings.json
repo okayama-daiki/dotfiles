@@ -167,6 +167,7 @@
   "git.confirmSync": false,
 
   // GitHup Copilot
+  "github.copilot.editor.enableAutoCompletions": true,
   "github.copilot.enable": {
     "*": true,
     "plaintext": false,
