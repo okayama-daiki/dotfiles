@@ -7,6 +7,7 @@
   "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
+  "workbench.activityBar.location": "bottom",
 
   // editor
   "editor.acceptSuggestionOnEnter": "off",
