@@ -1,0 +1,13 @@
+{
+	"tex": {
+		"prefix": "t",
+		"body": [
+			"\\documentclass{article}",
+			"\\usepackage[utf8]{inputenc}",
+			"\\begin{document}",
+			"$1",
+			"\\end{document}"
+		],
+		"description": "Basic LaTeX document structure"
+	}
+}

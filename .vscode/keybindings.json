@@ -29,11 +29,11 @@
     "command": "-editor.action.indentLines",
     "when": "editorTextFocus && !editorReadonly"
   },
-  {
-    "key": "ctrl+[",
-    "command": "editor.action.outdentLines",
-    "when": "editorTextFocus && !editorReadonly"
-  },
+  // {
+  //   "key": "ctrl+[",
+  //   "command": "editor.action.outdentLines",
+  //   "when": "editorTextFocus && !editorReadonly"
+  // },
   {
     "key": "cmd+[",
     "command": "-editor.action.outdentLines",
@@ -165,5 +165,23 @@
     "key": "cmd+k v",
     "command": "-typst-preview.preview",
     "when": "editorLangId == 'typst'"
+  },
+  {
+    "key": "cmd+i",
+    "command": "-markdown.extension.editing.toggleItalic",
+    "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+  },
+  {
+    "key": "cmd+b",
+    "command": "-markdown.extension.editing.toggleBold",
+    "when": "editorTextFocus && !editorReadonly && editorLangId =~ /^markdown$|^rmd$|^quarto$/"
+  },
+  {
+    "key": "ctrl+cmd+b",
+    "command": "workbench.action.toggleAuxiliaryBar"
+  },
+  {
+    "key": "alt+cmd+b",
+    "command": "-workbench.action.toggleAuxiliaryBar"
   }
 ]

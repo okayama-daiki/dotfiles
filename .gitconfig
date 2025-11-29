@@ -1,5 +1,12 @@
 [user]
   email = lawliet.d.k.m@gmail.com
   name = Daiki Okayama
+	signingKey = /Users/daikiokayama/.ssh/github/id_ed25519
 [alias]
   tree = log --graph --all --format=\"%x09%C(cyan bold)%an%Creset%x09%C(yellow)%h%Creset %C(magenta reverse)%d%Creset %s\"
+[commit]
+	gpgsign = true
+[http]
+	postBuffer = 524288000
+[gpg]
+	format = ssh

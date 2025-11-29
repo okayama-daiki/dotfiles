@@ -1,18 +1,22 @@
 {
+  "editor.editContext": false,
   // workbench
   "workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
     "*.db": "sqlite-viewer.option",
-    "*.pdf": "default"
+    "*.pdf": "latex-workshop-pdf-hook",
+    "*.png": "luna.editor"
   },
-  "workbench.colorTheme": "GitHub Dark Default",
   "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "none",
   "workbench.activityBar.location": "bottom",
-
+  "workbench.colorCustomizations": {
+    "terminal.background": "#00000000"
+  },
   // editor
   "editor.acceptSuggestionOnEnter": "off",
   "editor.accessibilitySupport": "off",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.guides.bracketPairs": true,
@@ -23,478 +27,711 @@
   "editor.stickyScroll.enabled": true,
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
-
+  // "editor.wordWrap": "on",
   // explorer
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-
   // terminal
   "terminal.integrated.enableMultiLinePasteWarning": "never",
   "terminal.integrated.allowChords": false,
-
+  "terminal.integrated.gpuAcceleration": "off", // need to transparent terminal
   // window
   "window.title": "${activeEditorLong}",
   "window.commandCenter": false,
-
   // files
   "files.insertFinalNewline": true,
   "files.exclude": {
     "**/__pycache__": true,
+    "**/.git": false,
     "**/.pytest_cache": true,
-    "**/.git": false
+    "**/.venv": true
   },
-
   // debug
   "debug.allowBreakpointsEverywhere": true,
-
   // notebook
   "notebook.output.scrolling": true,
   "notebook.lineNumbers": "on",
+  "notebook.formatOnSave.enabled": true,
+  "notebook.defaultFormatter": "ms-python.black-formatter",
+
+  // Go
+  // "go.goroot": "/opt/homebrew/Cellar/go/1.24.5/libexec",
 
   // Languages
-
   "[python]": {
     "editor.tabSize": 4,
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.codeActionsOnSave": {
+      "source.organizeImports": "always",
+      "source.organizeImports.ruff": "always"
+    }
+  },
+  "flake8.enabled": false,
+  "[c]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.codeActionsOnSave": {
       "source.organizeImports": "always"
     }
   },
-
+  "[cpp]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    }
+  },
   "[cython]": {
     "editor.tabSize": 4,
     "editor.defaultFormatter": "ktnrg45.vscode-cython"
   },
-
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
   "[rust]": {
     "editor.tabSize": 4,
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
-
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
-
   "[lua]": {
     "editor.defaultFormatter": "sumneko.lua"
   },
-
   "[shellscript]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-
   "[svg]": {
     "editor.defaultFormatter": "jock.svg"
   },
-
   "[ignore]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-
   "[dotenv]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-
   "[properties]": {
     "editor.defaultFormatter": "foxundermoon.shell-format"
   },
-
   "[latex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"
   },
-
   "[bibtex]": {
     "editor.defaultFormatter": "James-Yu.latex-workshop"
   },
-
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
-
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "always"
+    },
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
   // Extensions
-
   // Pylance
   "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
   "python.analysis.typeCheckingMode": "strict",
-
   // flake8
   "flake8.args": ["--max-line-length=88"], // black
-
   // JavaScript and TypeScript Nightly
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
-
   // Jupyter
   "jupyter.askForKernelRestart": false,
-
   // Markdownlint
-
   // Markdown PDF
   "markdown-pdf.executablePath": "/Applications/Chromium.app/Contents/MacOS/Chromium",
-
+  // PlantUML
+  "plantuml.server": "http://www.plantuml.com/plantuml",
   // Svelte
   "svelte.enable-ts-plugin": true,
-
   // Vibrancy Continued
-  "terminal.integrated.gpuAcceleration": "off", // need to transparent terminal
-
   // Vim
   "vim.useSystemClipboard": true,
   "vim.vimrc.enable": true,
   "vim.vimrc.path": "~/.vimrc",
   "vim.whichwrap": "b,s,h,l,<,>,[,],~",
   "vim.statusBarColorControl": false,
-
   // AREPL for Python
   "AREPL.show_to_level": 3,
   "AREPL.pythonOptions": ["-O", "-u"],
   "AREPL.customCSS": "",
   "AREPL.skipLandingPage": true,
   "AREPL.showFooter": false,
-
   // Trailing Spaces
   "trailing-spaces.highlightCurrentLine": false,
-
   // rust-analyzer
   "rust-analyzer.checkOnSave": true,
   "rust-analyzer.hover.actions.enable": true,
   "rust-analyzer.check.command": "clippy",
-
   // Git
   "git.confirmSync": false,
-
   // GitHup Copilot
-  "github.copilot.editor.enableAutoCompletions": true,
   "github.copilot.enable": {
     "*": true,
     "plaintext": false,
-    "markdown": false,
-    "scminput": false
+    "markdown": true,
+    "scminput": false,
+    "latex": true
   },
-
   // Go
   "go.formatTool": "gofmt",
   "go.lintTool": "golangci-lint",
   "go.toolsManagement.autoUpdate": true,
-
   // Latex Workshop
-  "latex-workshop.latex.recipe.default": "lastUsed",
-  "latex-workshop.latex.autoClean.run": "never",
-  "latex-workshop.bibtex-format.sort.enabled": true,
-  "latex-workshop.bibtex-fields.sort.enabled": true,
-  "latex-workshop.latex.recipes": [
-    {
-      "name": "latexmk (lualatex)",
-      "tools": ["lualatexmk"]
-    }
-  ],
-  "latex-workshop.latex.tools": [
-    {
-      "name": "lualatexmk",
-      "command": "latexmk",
-      "args": [
-        "-synctex=1",
-        "-interaction=nonstopmode",
-        "-file-line-error",
-        "-lualatex",
-        "-outdir=.output/",
-        "%DOC%"
-      ],
-      "env": {}
-    }
-  ],
-  "latex-workshop.linting.chktex.enabled": true,
-  "latex-workshop.linting.chktex.exec.args": [
-    "-wall",
-    "-n19", // "You should use "’" (ASCII 39) instead of "’" (ASCII 180)." - Many warnings are displayed in Japanese.
-    "-n22", // "Comment displayed." - When submit the article, it is necessary to remove the comment.
-    "-n30" // "Multiple spaces detected in output." - Incompatible with indentation.
-  ],
-
+  // "latex-workshop.latex.recipe.default": "lastUsed",
+  // "latex-workshop.latex.outDir": "%DIR%/.output",
+  // "latex-workshop.latex.autoClean.run": "never",
+  // "latex-workshop.bibtex-format.sort.enabled": true,
+  // "latex-workshop.bibtex-fields.sort.enabled": true,
+  // "latex-workshop.latex.recipes": [
+  //   {
+  //     "name": "latexmk (lualatex)",
+  //     "tools": ["lualatexmk"]
+  //   },
+  //   {
+  //     "name": "latexmk (pdflatex)",
+  //     "tools": ["latexmk"]
+  //   },
+  //   {
+  //     "name": "two-column",
+  //     "tools": ["platex", "bibtex", "platex", "platex", "dvipdfmx"]
+  //   },
+  //   {
+  //     "name": "jatricle",
+  //     "tools": ["platex", "dvipdfmx"]
+  //   },
+  //   {
+  //     "name": "jsreport with Biber",
+  //     "tools": ["uplatex", "biber", "uplatex", "uplatex", "dvipdfmx"]
+  //   },
+  //   {
+  //     "name": "jsreport",
+  //     "tools": ["uplatex", "uplatex", "dvipdfmx"]
+  //   }
+  // ],
+  // "latex-workshop.latex.tools": [
+  //   {
+  //     "name": "lualatexmk",
+  //     "command": "latexmk",
+  //     "args": [
+  //       "-synctex=1",
+  //       "-file-line-error",
+  //       "-lualatex",
+  //       "-outdir=.output/",
+  //       "%DOC%"
+  //     ],
+  //     "env": {}
+  //   },
+  //   {
+  //     "name": "latexmk",
+  //     "command": "latexmk",
+  //     "args": [
+  //       "-synctex=1",
+  //       "-interaction=nonstopmode",
+  //       "-file-line-error",
+  //       "-outdir=.output/",
+  //       "%DOC%"
+  //     ]
+  //   },
+  //   {
+  //     "name": "platex",
+  //     "command": "platex",
+  //     "args": [
+  //       "-synctex=1",
+  //       "-interaction=nonstopmode",
+  //       "-file-line-error",
+  //       "-output-directory=%DIR%/.output",
+  //       "%DOC%"
+  //     ],
+  //     "env": {}
+  //   },
+  //   {
+  //     "name": "dvipdfmx",
+  //     "command": "dvipdfmx",
+  //     "args": [
+  //       "-o",
+  //       "%DIR%/.output/%DOCFILE%.pdf",
+  //       "%DIR%/.output/%DOCFILE%.dvi"
+  //     ],
+  //     "env": {}
+  //   },
+  //   {
+  //     "name": "bibtex",
+  //     "command": "bibtex",
+  //     "args": ["%DIR%/.output/%DOCFILE%"]
+  //   },
+  //   {
+  //     "name": "biber",
+  //     "command": "biber",
+  //     "args": ["%DOCFILE%", "--output-directory=%DIR%/.output"]
+  //   },
+  //   {
+  //     "name": "pdflatex",
+  //     "command": "pdflatex",
+  //     "args": [
+  //       "-synctex=1",
+  //       "-interaction=nonstopmode",
+  //       "-file-line-error",
+  //       "-output-directory=%DIR%/.output",
+  //       "%DOC%"
+  //     ],
+  //     "env": {}
+  //   },
+  //   {
+  //     "name": "uplatex",
+  //     "command": "uplatex",
+  //     "args": [
+  //       "-synctex=1",
+  //       "-interaction=nonstopmode",
+  //       "-file-line-error",
+  //       "-output-directory=%DIR%/.output",
+  //       "%DOC%"
+  //     ]
+  //   }
+  // ],
+  // "latex-workshop.linting.chktex.exec.args": [
+  //   "-wall",
+  //   "-n2", // "2: Non-breaking space (`~') should have been used." - Incompatible with indentation.
+  //   "-n19", // "You should use "’" (ASCII 39) instead of "’" (ASCII 180)." - Many warnings are displayed in Japanese.
+  //   "-n22", // "Comment displayed." - When submit the article, it is necessary to remove the comment.
+  //   "-n30" // "Multiple spaces detected in output." - Incompatible with indentation.
+  // ],
+  // "latex-workshop.formatting.latex": "latexindent",
+  // "latex-workshop.formatting.latexindent.args": [
+  //   "-r",
+  //   "-l",
+  //   "%WORKSPACE_FOLDER%/localSettings.yaml",
+  //   "-c",
+  //   "%DIR%/.output/",
+  //   "%TMPFILE%"
+  // ],
   // Draw.io Integration
   "hediet.vscode-drawio.resizeImages": null,
   "hediet.vscode-drawio.theme": "atlas",
-
-  // Vibrancy Continued
-  "vscode_vibrancy.theme": "GitHub Dark Default",
-
   // Code Spell Checker
+  // "cSpell.userWords": [
+  // 	"actix",
+  // 	"aggfunc",
+  // 	"aiohttp",
+  // 	"aioquic",
+  // 	"aiter",
+  // 	"Anson",
+  // 	"appendleft",
+  // 	"apscheduler",
+  // 	"arange",
+  // 	"AREPL",
+  // 	"argmax",
+  // 	"argmin",
+  // 	"argsort",
+  // 	"Arraybuffer",
+  // 	"arrowprops",
+  // 	"arrowstyle",
+  // 	"astunparse",
+  // 	"astype",
+  // 	"atcoder",
+  // 	"autouse",
+  // 	"awslambdaric",
+  // 	"axhline",
+  // 	"axios",
+  // 	"axvline",
+  // 	"axvspan",
+  // 	"barh",
+  // 	"basicauth",
+  // 	"Beamer",
+  // 	"betweenx",
+  // 	"bindgen",
+  // 	"binom",
+  // 	"Blinky",
+  // 	"bmatrix",
+  // 	"boldsymbol",
+  // 	"boto",
+  // 	"botocore",
+  // 	"chakra",
+  // 	"charfilter",
+  // 	"checkmark",
+  // 	"chokudai",
+  // 	"clim",
+  // 	"cmap",
+  // 	"coef",
+  // 	"Colab",
+  // 	"Colaboratory",
+  // 	"colorbar",
+  // 	"connectionstyle",
+  // 	"Constrs",
+  // 	"consts",
+  // 	"contourf",
+  // 	"crossentropy",
+  // 	"CSMA",
+  // 	"ctypes",
+  // 	"cuda",
+  // 	"cumcount",
+  // 	"cumsum",
+  // 	"cvxpy",
+  // 	"cython",
+  // 	"daiki",
+  // 	"daikiokayama",
+  // 	"dakken",
+  // 	"dataframe",
+  // 	"ddof",
+  // 	"deepl",
+  // 	"Deque",
+  // 	"digestmod",
+  // 	"dotenv",
+  // 	"dotenvy",
+  // 	"dropna",
+  // 	"dtype",
+  // 	"dtypes",
+  // 	"ebiten",
+  // 	"ebitenutil",
+  // 	"edgecolors",
+  // 	"Endwhile",
+  // 	"errorbar",
+  // 	"esbenp",
+  // 	"extgcd",
+  // 	"facecolor",
+  // 	"FDDI",
+  // 	"ffill",
+  // 	"fibo",
+  // 	"figsize",
+  // 	"fillna",
+  // 	"fontsize",
+  // 	"frameon",
+  // 	"frombuffer",
+  // 	"graphviz",
+  // 	"gridsize",
+  // 	"hajimehoshi",
+  // 	"Hasher",
+  // 	"heapify",
+  // 	"hexbin",
+  // 	"higashikawa",
+  // 	"hlines",
+  // 	"hspace",
+  // 	"hstack",
+  // 	"hyogo",
+  // 	"idxmax",
+  // 	"ifacts",
+  // 	"iloc",
+  // 	"imagenet",
+  // 	"imos",
+  // 	"importances",
+  // 	"imshow",
+  // 	"indegree",
+  // 	"infty",
+  // 	"initlist",
+  // 	"Inpaint",
+  // 	"inpututil",
+  // 	"ipynb",
+  // 	"ipywidgets",
+  // 	"isin",
+  // 	"isna",
+  // 	"isort",
+  // 	"iterrows",
+  // 	"janome",
+  // 	"jsonify",
+  // 	"kaggle",
+  // 	"katex",
+  // 	"keepdims",
+  // 	"keras",
+  // 	"kmeans",
+  // 	"labelloc",
+  // 	"labelsize",
+  // 	"labelspacing",
+  // 	"lazysegtree",
+  // 	"levelname",
+  // 	"librosa",
+  // 	"lightgray",
+  // 	"linalg",
+  // 	"linebot",
+  // 	"linestyle",
+  // 	"linewidth",
+  // 	"linspace",
+  // 	"livedoor",
+  // 	"logspace",
+  // 	"lstm",
+  // 	"mainloop",
+  // 	"markersize",
+  // 	"marp",
+  // 	"mathbb",
+  // 	"mathcal",
+  // 	"mathrm",
+  // 	"matplotlib",
+  // 	"mdates",
+  // 	"meshgrid",
+  // 	"mglearn",
+  // 	"minigrid",
+  // 	"Mino",
+  // 	"mnist",
+  // 	"mobilenet",
+  // 	"mousedown",
+  // 	"mousemove",
+  // 	"mouseup",
+  // 	"mpegurl",
+  // 	"multiset",
+  // 	"mypy",
+  // 	"natsort",
+  // 	"natsorted",
+  // 	"ncol",
+  // 	"ndarray",
+  // 	"ndigits",
+  // 	"Neos",
+  // 	"networkx",
+  // 	"newaxis",
+  // 	"nextra",
+  // 	"nobr",
+  // 	"nonblocking",
+  // 	"numba",
+  // 	"numpy",
+  // 	"nysol",
+  // 	"onclick",
+  // 	"ondelete",
+  // 	"onmousedown",
+  // 	"onmousemove",
+  // 	"onmouseup",
+  // 	"onresize",
+  // 	"onupdate",
+  // 	"openpyxl",
+  // 	"optim",
+  // 	"Ortolf",
+  // 	"OSPF",
+  // 	"overrider",
+  // 	"Pacman",
+  // 	"pagerank",
+  // 	"pairplot",
+  // 	"pascalize",
+  // 	"pettingzoo",
+  // 	"pinv",
+  // 	"PKCS",
+  // 	"pkill",
+  // 	"pmatrix",
+  // 	"popleft",
+  // 	"powertools",
+  // 	"powi",
+  // 	"prec",
+  // 	"prettyplotlib",
+  // 	"primaryjoin",
+  // 	"procs",
+  // 	"Prüfer",
+  // 	"pyautogui",
+  // 	"pydantic",
+  // 	"pymysql",
+  // 	"Pyodide",
+  // 	"pypdf",
+  // 	"pyplot",
+  // 	"pytest",
+  // 	"Pythonista",
+  // 	"qrcode",
+  // 	"quic",
+  // 	"randn",
+  // 	"rankdir",
+  // 	"readchar",
+  // 	"regularizers",
+  // 	"rehype",
+  // 	"relu",
+  // 	"ress",
+  // 	"rtree",
+  // 	"rtype",
+  // 	"savefig",
+  // 	"scatterpoints",
+  // 	"Schindelhauer",
+  // 	"scipy",
+  // 	"seaborn",
+  // 	"segtree",
+  // 	"semilogy",
+  // 	"sers",
+  // 	"setrecursionlimit",
+  // 	"sharex",
+  // 	"sharey",
+  // 	"sheetnames",
+  // 	"sjis",
+  // 	"skipfooter",
+  // 	"skiprows",
+  // 	"sklearn",
+  // 	"softmax",
+  // 	"sortedcontainers",
+  // 	"sqlalchemy",
+  // 	"statsmodels",
+  // 	"struct",
+  // 	"subqueryload",
+  // 	"supabase",
+  // 	"supremum",
+  // 	"TEIREIKAI",
+  // 	"Tetris",
+  // 	"tfjs",
+  // 	"tkagg",
+  // 	"toarray",
+  // 	"tokenfilter",
+  // 	"torchvision",
+  // 	"tqdm",
+  // 	"twinx",
+  // 	"unpark",
+  // 	"usecols",
+  // 	"vectorize",
+  // 	"Vectorizer",
+  // 	"videojs",
+  // 	"viewonly",
+  // 	"vimrc",
+  // 	"viridis",
+  // 	"VITE",
+  // 	"vlines",
+  // 	"wakati",
+  // 	"webp",
+  // 	"websockets",
+  // 	"whichwrap",
+  // 	"whitesmoke",
+  // 	"wordcloud",
+  // 	"wspace",
+  // 	"xaxis",
+  // 	"xedges",
+  // 	"xlabel",
+  // 	"xlim",
+  // 	"xticklabels",
+  // 	"xticks",
+  // 	"xytext",
+  // 	"yapf",
+  // 	"yaxis",
+  // 	"yedges",
+  // 	"yerr",
+  // 	"ylabel",
+  // 	"ylim",
+  // 	"yticks",
+  // 	"zlabel"
+  // ],
+  "window.titleBarStyle": "custom",
+  "vsicons.dontShowNewVersionMessage": true,
+  "makefile.configureOnOpen": true,
+  "vue.server.hybridMode": "typeScriptPluginOnly",
+  "svg.preview.mode": "img",
+  "chat.editing.alwaysSaveWithGeneratedChanges": true,
+  "lldb.suppressUpdateNotifications": true,
+  "githubPullRequests.pullBranch": "never",
+  "vscode_vibrancy.opacity": 0,
+  "window.systemColorTheme": "dark",
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "GitHub Dark Default",
+  "docker.extension.enableComposeLanguageServer": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+  "projectManager.sortList": "Recent",
+  "cSpell.enabledSchemes": {
+    "comment": true,
+    "file": true,
+    "gist": true,
+    "repo": true,
+    "sftp": true,
+    "untitled": true,
+    "vscode-notebook-cell": true,
+    "vscode-scm": true,
+    "vscode-userdata": true,
+    "vscode-vfs": true,
+    "vsls": true,
+    "overleaf-workshop": true
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "biome.suggestInstallingGlobally": false,
+  "chat.mcp.autostart": "newAndOutdated",
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "hediet.vscode-drawio.codeLinkActivated": false,
   "cSpell.userWords": [
-    "actix",
-    "aggfunc",
     "aiohttp",
-    "aioquic",
-    "aiter",
-    "Anson",
-    "appendleft",
-    "apscheduler",
-    "arange",
-    "AREPL",
-    "argmax",
-    "argmin",
-    "argsort",
-    "Arraybuffer",
-    "arrowprops",
-    "arrowstyle",
-    "astunparse",
-    "astype",
-    "atcoder",
-    "autouse",
-    "awslambdaric",
-    "axhline",
-    "axios",
-    "axvline",
-    "axvspan",
-    "barh",
-    "basicauth",
-    "betweenx",
-    "bindgen",
-    "binom",
-    "Blinky",
-    "bmatrix",
-    "boldsymbol",
-    "boto",
-    "botocore",
-    "charfilter",
-    "chokudai",
-    "clim",
-    "cmap",
-    "coef",
-    "Colab",
-    "Colaboratory",
-    "colorbar",
-    "connectionstyle",
-    "consts",
-    "contourf",
-    "crossentropy",
-    "CSMA",
-    "ctypes",
-    "cuda",
-    "cumcount",
-    "cumsum",
-    "cvxpy",
-    "cython",
-    "daiki",
-    "daikiokayama",
-    "dakken",
-    "dataframe",
-    "ddof",
-    "deepl",
-    "Deque",
-    "digestmod",
-    "dotenv",
-    "dotenvy",
-    "dropna",
-    "dtype",
-    "dtypes",
-    "ebiten",
-    "ebitenutil",
-    "edgecolors",
-    "Endwhile",
-    "errorbar",
-    "esbenp",
-    "extgcd",
-    "facecolor",
-    "FDDI",
-    "ffill",
-    "fibo",
-    "figsize",
-    "fillna",
-    "fontsize",
-    "frameon",
-    "frombuffer",
-    "graphviz",
-    "gridsize",
-    "hajimehoshi",
-    "Hasher",
-    "heapify",
-    "hexbin",
-    "hlines",
-    "hspace",
-    "hstack",
-    "hyogo",
-    "idxmax",
-    "ifacts",
-    "iloc",
-    "imagenet",
-    "imos",
-    "importances",
-    "imshow",
-    "indegree",
-    "infty",
-    "initlist",
-    "inpututil",
-    "ipynb",
-    "ipywidgets",
-    "isin",
-    "isna",
-    "isort",
-    "iterrows",
-    "janome",
-    "jsonify",
-    "kaggle",
-    "katex",
-    "keepdims",
-    "keras",
-    "kmeans",
-    "labelloc",
-    "labelsize",
-    "labelspacing",
-    "lazysegtree",
-    "levelname",
-    "librosa",
-    "linalg",
-    "linebot",
-    "linestyle",
-    "linewidth",
-    "linspace",
-    "livedoor",
-    "logspace",
-    "lstm",
-    "mainloop",
-    "markersize",
-    "marp",
-    "mathbb",
-    "mathcal",
-    "mathrm",
-    "matplotlib",
-    "mdates",
-    "meshgrid",
-    "mglearn",
-    "Mino",
-    "mnist",
-    "mobilenet",
-    "mousedown",
-    "mousemove",
-    "mouseup",
-    "mpegurl",
-    "multiset",
-    "mypy",
-    "natsort",
-    "natsorted",
-    "ncol",
-    "ndarray",
-    "ndigits",
-    "Neos",
-    "networkx",
-    "newaxis",
-    "nextra",
-    "nobr",
-    "nonblocking",
-    "numba",
-    "numpy",
-    "nysol",
-    "onclick",
-    "ondelete",
-    "onmousedown",
-    "onmousemove",
-    "onmouseup",
-    "onresize",
-    "onupdate",
-    "openpyxl",
-    "optim",
-    "OSPF",
-    "overrider",
-    "Pacman",
-    "pagerank",
-    "pairplot",
-    "pascalize",
-    "pinv",
-    "PKCS",
-    "pkill",
-    "pmatrix",
-    "popleft",
-    "powertools",
-    "powi",
-    "prec",
-    "prettyplotlib",
-    "primaryjoin",
-    "procs",
-    "Prüfer",
-    "pyautogui",
-    "pydantic",
-    "pymysql",
-    "Pyodide",
-    "pypdf",
-    "pyplot",
-    "pytest",
-    "Pythonista",
-    "qrcode",
-    "quic",
-    "randn",
-    "rankdir",
-    "readchar",
-    "regularizers",
-    "rehype",
-    "relu",
-    "ress",
-    "rtree",
-    "rtype",
-    "savefig",
-    "scatterpoints",
-    "scipy",
-    "seaborn",
-    "segtree",
-    "semilogy",
-    "sers",
-    "setrecursionlimit",
-    "sharex",
-    "sharey",
-    "sheetnames",
-    "sjis",
-    "skipfooter",
-    "skiprows",
-    "sklearn",
-    "softmax",
-    "sortedcontainers",
-    "sqlalchemy",
-    "statsmodels",
-    "struct",
-    "subqueryload",
-    "TEIREIKAI",
-    "Tetris",
-    "tfjs",
-    "tkagg",
-    "toarray",
-    "tokenfilter",
-    "torchvision",
-    "tqdm",
-    "twinx",
-    "unpark",
-    "usecols",
-    "vectorize",
-    "Vectorizer",
-    "videojs",
-    "viewonly",
-    "vimrc",
-    "viridis",
-    "VITE",
-    "vlines",
-    "wakati",
-    "webp",
-    "websockets",
-    "whichwrap",
-    "whitesmoke",
-    "wordcloud",
-    "wspace",
-    "xaxis",
-    "xedges",
-    "xlabel",
-    "xlim",
-    "xticklabels",
-    "xticks",
-    "xytext",
-    "yapf",
-    "yaxis",
-    "yedges",
-    "yerr",
-    "ylabel",
-    "ylim",
-    "yticks",
-    "zlabel"
-  ]
+    "hdrs",
+    "Hyogo",
+    "supabase",
+    "Tikz",
+    "vertexai"
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "azureTerraform.survey": {
+    "surveyPromptDate": "2025-11-09T09:49:50.162Z",
+    "surveyPromptIgnoredCount": 0
+  },
+  "terminal.integrated.allowedLinkSchemes": [
+    "file",
+    "http",
+    "https",
+    "mailto",
+    "vscode",
+    "vscode-insiders",
+    "docker-desktop"
+  ],
+  "chat.tools.terminal.autoApprove": {
+    "python main.py < in/20_gen_06.in > result.out": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "diff -u out/20_gen_06.out result.out | head -40": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "python main.py < in/00_sample_00.in > result_sample.out": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "diff": true,
+    "in/20_gen_09.in": true,
+    "result_20_gen_09.out": true,
+    "python main.py < in/20_gen_09.in > result_20_gen_09.out": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "in/20_gen_06.in": true,
+    "result_20_gen_06.out": true,
+    "in/00_sample_01.in": true,
+    "result_00_sample_01.out": true,
+    "set": true,
+    "for": true,
+    "do": true,
+    "\"$f\"": true,
+    "\"result_$base.out\"": true,
+    "/dev/null": true,
+    "}": true,
+    "done": true,
+    "set -e; for f in in/*.in; do base=$(basename \"$f\" .in); python main.py < \"$f\" > \"result_$base.out\"; diff -u \"out/$base.out\" \"result_$base.out\" >/dev/null || { echo \"DIFF: $base\"; diff -u \"out/$base.out\" \"result_$base.out\" | head -80; }; done": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "/Users/daikiokayama/workspace/test/in/20_gen_06.in": true,
+    "bun run build": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  },
+  "aws.cloudformation.telemetry.enabled": false,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
+    "Cargo.toml": "Cargo.lock",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  }
 }

@@ -9,8 +9,14 @@
 !/.config/nvim
 !/.config/nvim/**
 !/.config/karabiner/karabiner.json
+!/.config/ghostty
+!/.config/ghostty/**
+!/.config/zed
+!/.config/zed/keymap.json
+!/.config/zed/settings.json
 !/.vscode
 !/.vscode/**
+!/screenshots
 !/.gitconfig
 !/.gitignore
 !/.vimrc

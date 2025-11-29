@@ -14,10 +14,6 @@ if has('syntax')
   syntax on
 endif
 
-inoremap <silent> jj <ESC>
-inoremap <silent> jk <ESC>
-inoremap <silent> っｊ <ESC>
-
 nnoremap Y y$
 
 " tab size
