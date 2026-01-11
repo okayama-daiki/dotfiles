@@ -1,44 +1,28 @@
-# Theme
-theme = Dark Modern
+# Background
+background-opacity = 0.85
+background-blur-radius = 7
+background = 000000
+
+unfocused-split-opacity = 0.7
 
 # Font
-font-family = JetBrainsMonoNL Nerd Font Mono
-font-feature = -dlig
-font-size = 13
-
-font-style-bold = false
-font-style-italic = false
-font-style-bold-italic = false
-
 font-thicken = true
-font-thicken-strength = 1
-
-alpha-blending = linear
-
-adjust-cell-width = -1
-adjust-cell-height = 2
-
-# macOS
-macos-titlebar-style = hidden
-macos-window-shadow = false
-
-# Window
-window-padding-x = 10
-window-padding-y = 10
-window-padding-balance = true
-
-background-opacity = 0.85
-background-blur-radius = 20
-
-# Shell
-shell-integration-features = no-cursor
 
 # Cursor
+cursor-color = ffffff
+cursor-opacity = 0.7
 cursor-style = block
 cursor-style-blink = false
-cursor-invert-fg-bg = true
-cursor-opacity = 0.8
+# ref: https://github.com/ghostty-org/ghostty/discussions/3836#discussioncomment-11688264
+shell-integration-features = no-cursor
 
-# Other
-mouse-hide-while-typing = true
-resize-overlay = never
+# Layout
+window-padding-x = 10
+window-padding-y = 8
+window-padding-balance = true
+window-save-state = always
+
+# macOS 
+macos-titlebar-style = tabs
+macos-option-as-alt = true
+macos-icon = xray
