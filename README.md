@@ -10,15 +10,15 @@
 
 1. Clone this repository
 
-   ```bash
-   git clone git@github.com:okayama-daiki/dotfiles.git
-   ```
+    ```bash
+    git clone git@github.com:okayama-daiki/dotfiles.git
+    ```
 
 2. Run the installation script
 
-   ```bash
-   make all
-   ```
+    ```bash
+    make all
+    ```
 
 ## Features
 
@@ -46,10 +46,6 @@
 
 ### Others
 
-- [Raycast](https://raycast.com) - The productivity tool for the macOS command line
-- [Rectangle](https://rectangleapp.com) - Move and resize windows on macOS using keyboard shortcuts or snap areas
+- [Magnet]()
 - [RunCat](https://www.runcat.app) - The macOS app that shows your CPU and memory usage in the menu bar
-- [AltTab](https://alt-tab-macos.netlify.app) - The app switcher for macOS that works like Windows
 - [KeyCastr](https://keycastr.com) - An open source keystroke visualizer for macOS
-- [BackDrop](https://backdropapp.io) - The app that automatically changes your wallpaper based on the time of day
-- [Karabiner-Elements](https://karabiner-elements.pqrs.org) - The powerful and stable keyboard customizer for macOS

@@ -5,8 +5,5 @@ if [ "$(uname)" != "Darwin" ]; then
   exit 1
 fi
 
-# Install xcode
-xcode-select --install >/dev/null
-
 # Install brew
-/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" >/dev/null
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

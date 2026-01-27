@@ -62,7 +62,7 @@ defaults write "com.apple.AppleMultitouchTrackpad" "SecondClickThreshold" -int 0
 # Use trackpad for dragging (Tree Finger Drag)
 defaults write "com.apple.AppleMultitouchTrackpad" "TrackpadThreeFingerDrag" -int 1
 # Tap to click
-defualts write "com.apple.AppleMultitouchTrackpad" "Clicking" -int 1
+defaults write "com.apple.AppleMultitouchTrackpad" "Clicking" -int 1
 
 # Shortcuts -----------------------------------------------
 

@@ -4,18 +4,26 @@
 # whitelist
 !/.bin
 !/.bin/**
-!/.config
+
+!/.config/
+/.config/**
+
 !/.config/git/ignore
 !/.config/nvim
 !/.config/nvim/**
 !/.config/karabiner/karabiner.json
 !/.config/ghostty
 !/.config/ghostty/**
+!/.config/sheldon
+!/.config/sheldon/**
 !/.config/zed
 !/.config/zed/keymap.json
 !/.config/zed/settings.json
+!/.config/mise
+!/.config/mise/**
 !/.vscode
 !/.vscode/**
+
 !/screenshots
 !/.gitconfig
 !/.gitignore

@@ -1,48 +1,48 @@
 [
-    // {
-    //   "context": "Editor && vim_mode == insert && !menu",
-    //   "bindings": { "j j": "vim::NormalBefore" }
-    // },
-    // {
-    //   "context": "Editor && vim_mode == insert && !menu",
-    //   "bindings": { "j k": "vim::NormalBefore" }
-    // },
-    // {
-    //   "context": "Editor && vim_mode == insert && !menu",
-    //   "bindings": { "k j": "vim::NormalBefore" }
-    // },
-
-    {
-        "context": "Editor",
-        "bindings": {
-            "ctrl-/": [
-                "editor::ToggleComments",
-                {
-                    "advance_downwards": false
-                }
-            ]
-        }
-    },
-    {
-        "context": "vim_mode == normal && !menu",
-        "bindings": {
-            "left": "vim::WrappingLeft",
-            "right": "vim::WrappingRight",
-            "h": "vim::WrappingLeft",
-            "l": "vim::WrappingRight"
-            // "k": ["vim::Up", { "display_lines": true }],
-            // "j": ["vim::Down", { "display_lines": true }],
-            // "0": ["vim::StartOfLine", { "display_lines": true }],
-            // "$": ["vim::EndOfLine", { "display_lines": true }],
-            // "g k": "vim::Up",
-            // "g j": "vim::Down"
-        }
-    },
-    {
-        "context": "vim_mode == normal || vim_mode == visual",
-        "bindings": {
-            "s": "vim::PushSneak",
-            "shift-s": "vim::PushSneakBackward"
-        }
-    }
+	{
+		"bindings": {}
+	},
+	{
+		"context": "Editor",
+		"bindings": {
+			"ctrl-/": [
+				"editor::ToggleComments",
+				{
+					"advance_downwards": false
+				}
+			]
+		}
+	},
+	{
+		"context": "vim_mode == normal && !menu",
+		"bindings": {
+			"left": "vim::WrappingLeft",
+			"right": "vim::WrappingRight",
+			"h": "vim::WrappingLeft",
+			"l": "vim::WrappingRight",
+			"k": ["vim::Up", { "display_lines": true }],
+			"j": ["vim::Down", { "display_lines": true }],
+			"0": ["vim::StartOfLine", { "display_lines": true }],
+			"$": ["vim::FirstNonWhitespace", { "display_lines": true }],
+			"^": ["vim::EndOfLine", { "display_lines": true }],
+			"g k": "vim::Up",
+			"g j": "vim::Down",
+			"g 0": "vim::StartOfLine",
+			"g ^": "vim::EndOfLine",
+			"g $": "vim::FirstNonWhitespace"
+		}
+	},
+	{
+		"context": "vim_mode == normal || vim_mode == visual",
+		"bindings": {
+			"s": "vim::PushSneak",
+			"shift-s": "vim::PushSneakBackward"
+		}
+	},
+	{
+		"context": "vim_mode == insert",
+		"bindings": {
+			"ctrl-k": "copilot::Suggest"
+		}
+	}
 ]
