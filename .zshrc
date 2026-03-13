@@ -1,5 +1,10 @@
 #!/bin/sh
 
+PROMPT='%1~$ '
+
+bindkey '^P' history-beginning-search-backward
+bindkey '^N' history-beginning-search-forward
+
 eval "$(mise activate zsh)"
 eval "$(zoxide init zsh)"
 eval "$(sheldon source)"
@@ -8,6 +13,18 @@ export PATH="$PATH:/usr/bin/"
 export PATH="$PATH:/usr/local/bin/"
 export PATH="$PATH:/opt/homebrew/bin/"
 export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:/opt/homebrew/opt/openjdk/bin"
+export PATH="$PATH:/opt/homebrew/opt/openjdk@21/bin"
+
+alias ...='../../'
+alias ....='../../../'
+alias .....='../../../../'
+
+alias -g G='| grep'
+alias -g F='| fzf'
+alias -g X='| xargs'
+alias -g L='| less'
+alias -g P='| pbcopy'
 
 # python alias
 alias py='python3'
@@ -24,14 +41,16 @@ alias gll='git log --oneline'
 alias gp='git push'
 alias gpf='git push --force'
 alias gr='git rebase'
+alias grh='git reset --hard'
+alias grs='git reset --soft'
 alias gs='git status'
 
 gcm() {
   git commit -m "$*"
 }
 
-alias g='gcloud'
 alias tf='terraform'
+alias unzip="/opt/homebrew/opt/unzip/bin/unzip"
 
 autoload -U zmv
 
@@ -68,7 +87,3 @@ upper() {
     tr '[:lower:]' '[:upper:]'
   fi
 }
-
-alias unzip="/opt/homebrew/opt/unzip/bin/unzip"
-
-alias gcl="golangci-lint"
