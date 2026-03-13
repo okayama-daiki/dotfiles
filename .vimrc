@@ -5,6 +5,7 @@ Plug 'ayu-theme/ayu-vim'
 Plug 'prabirshrestha/vim-lsp'
 Plug 'mattn/vim-lsp-settings'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'vim-denops/denops.vim'
 
 call plug#end()
 
