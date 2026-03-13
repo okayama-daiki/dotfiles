@@ -1,8 +1,5 @@
 [
 	{
-		"bindings": {}
-	},
-	{
 		"context": "Editor",
 		"bindings": {
 			"ctrl-/": [
@@ -23,13 +20,13 @@
 			"k": ["vim::Up", { "display_lines": true }],
 			"j": ["vim::Down", { "display_lines": true }],
 			"0": ["vim::StartOfLine", { "display_lines": true }],
-			"$": ["vim::FirstNonWhitespace", { "display_lines": true }],
-			"^": ["vim::EndOfLine", { "display_lines": true }],
+			"^": ["vim::FirstNonWhitespace", { "display_lines": true }],
+			"$": ["vim::EndOfLine", { "display_lines": true }],
 			"g k": "vim::Up",
 			"g j": "vim::Down",
 			"g 0": "vim::StartOfLine",
-			"g ^": "vim::EndOfLine",
-			"g $": "vim::FirstNonWhitespace"
+			"g ^": "vim::FirstNonWhitespace",
+			"g $": "vim::EndOfLine"
 		}
 	},
 	{
@@ -37,12 +34,6 @@
 		"bindings": {
 			"s": "vim::PushSneak",
 			"shift-s": "vim::PushSneakBackward"
-		}
-	},
-	{
-		"context": "vim_mode == insert",
-		"bindings": {
-			"ctrl-k": "copilot::Suggest"
 		}
 	}
 ]

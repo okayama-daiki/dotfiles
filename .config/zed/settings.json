@@ -7,6 +7,26 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+	"agent_servers": {
+		"codex-acp": {
+			"type": "registry"
+		}
+	},
+	"context_servers": {
+		"drwaio": {
+			"enabled": true,
+			"remote": false,
+			"command": "bunx",
+			"args": ["-y", "@drawio/mcp"],
+			"env": {}
+		},
+		"next-devtools": {
+			"enabled": true,
+			"remote": false,
+			"command": "bunx",
+			"args": ["-y", "next-devtools-mcp@latest"]
+		}
+	},
 	"lsp": {
 		"vtsls": {
 			"settings": {
@@ -26,11 +46,23 @@
 		"texlab": {
 			"settings": {
 				"texlab": {
-					"latexindent": { "modifyLineBreaks": true },
 					"build": {
-						"onSave": true,
 						"executable": "latexmk",
-						"args": []
+						"args": ["-cd", "%f"],
+						"auxDirectory": ".tex",
+						"logDirectory": ".tex",
+						"pdfDirectory": "dist",
+						"forwardSearchAfter": false,
+						"onSave": true
+					},
+					"latexFormatter": "latexindent",
+					"latexindent": {
+						"local": "localSettings.yaml",
+						"replacement": "-r"
+					},
+					"chktex": {
+						// "onOpenAndSave": true,
+						// "onEdit": true
 					}
 				}
 			}
@@ -39,16 +71,28 @@
 			"settings": {
 				// "require_config_file": true
 			}
+		},
+		"mpls": {
+			"binary": {
+				// "path": "/usr/local/bin/mpls"
+			}
 		}
 	},
 	"terminal": {
 		"dock": "bottom",
-  "font_size": 12.0
+		"font_size": 12.0
 	},
 	"dev_container_connections": [],
+
+	"format_on_save": "on",
 	"languages": {
-		"LaTeX": {
+		"C": {
+			"format_on_save": "on",
 			"tab_size": 2
+		},
+		"LaTeX": {
+			"tab_size": 2,
+			"soft_wrap": "editor_width"
 		},
 		"Python": {
 			"language_servers": ["basedpyright", "ruff"]
@@ -62,31 +106,39 @@
 			"formatter": { "language_server": { "name": "biome" } }
 		},
 		"JavaScript": { "formatter": { "language_server": { "name": "biome" } } },
-		"TypeScript": { "formatter": { "language_server": { "name": "biome" } } },
+		"TypeScript": {
+			"tab_size": 2,
+			"formatter": {
+				"language_server": { "name": "biome" }
+			}
+		},
 		"TSX": { "formatter": { "language_server": { "name": "biome" } } },
 		"JSONC": { "formatter": { "language_server": { "name": "biome" } } },
 		"CSS": { "formatter": { "language_server": { "name": "biome" } } },
 		"HTML": {
 			"tab_size": 2,
 			"formatter": "prettier"
+		},
+		"TOML": {
+			"formatter": "language_server"
 		}
 	},
 	"edit_predictions": {
+		"provider": "copilot",
 		"disabled_globs": [],
 		"mode": "eager"
 	},
 	"show_completions_on_input": true,
 	"agent": {
-		"default_profile": "ask",
-		"always_allow_tool_actions": true,
+		"tool_permissions": {
+			"default": "allow"
+		},
+		"default_profile": "write",
 		"default_model": {
 			"provider": "copilot_chat",
-			"model": "gpt-5.1-codex-max"
+			"model": "claude-opus-4.6"
 		},
 		"model_parameters": []
-	},
-	"features": {
-		"edit_prediction_provider": "copilot"
 	},
 	"icon_theme": "Colored Zed Icons Theme Dark",
 	"telemetry": {
