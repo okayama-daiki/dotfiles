@@ -49,3 +49,5 @@
 - [Magnet]()
 - [RunCat](https://www.runcat.app) - The macOS app that shows your CPU and memory usage in the menu bar
 - [KeyCastr](https://keycastr.com) - An open source keystroke visualizer for macOS
+- [fzf](https://github.com/junegunn/fzf) - A fuzzy finder
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast way to navigate your filesystem (smarter `cd`)
