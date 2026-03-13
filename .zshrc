@@ -49,6 +49,31 @@ gcm() {
   git commit -m "$*"
 }
 
+cmg() {
+  if git diff --cached --quiet; then
+    echo "No staged changes"
+    return 1
+  fi
+
+  diff=$(git diff --cached)
+
+  # Avoid huge prompts
+  if [ ${#diff} -gt 120000 ]; then
+    diff=$(git diff --cached --stat)
+  fi
+
+  {
+    echo "Write a concise one-line Git commit message describing this change."
+    echo "Use an imperative sentence."
+    echo "Do not use conventional commit style."
+    echo "Return only the message."
+    echo
+    echo "Diff:"
+    echo "$diff"
+  } | codex exec - 2>/dev/null
+}
+
+
 alias tf='terraform'
 alias unzip="/opt/homebrew/opt/unzip/bin/unzip"
 
