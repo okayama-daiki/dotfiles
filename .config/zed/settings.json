@@ -14,7 +14,7 @@
 	},
 	"context_servers": {
 		"drwaio": {
-			"enabled": true,
+			"enabled": false,
 			"remote": false,
 			"command": "bunx",
 			"args": ["-y", "@drawio/mcp"],
@@ -136,7 +136,7 @@
 		"default_profile": "write",
 		"default_model": {
 			"provider": "copilot_chat",
-			"model": "claude-opus-4.6"
+			"model": "gpt-5-mini"
 		},
 		"model_parameters": []
 	},
